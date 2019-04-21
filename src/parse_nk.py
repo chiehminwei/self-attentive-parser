@@ -1008,14 +1008,14 @@ class NKChartParser(nn.Module):
             all_word_start_mask = from_numpy(np.ascontiguousarray(all_word_start_mask[:, :subword_max_len]))
             all_word_end_mask = from_numpy(np.ascontiguousarray(all_word_end_mask[:, :subword_max_len]))
 
-            # syntactic BERT
-            if self.use_syntactic:
-                features = self.bert.get_embeddings(all_input_ids, attention_mask=all_input_mask)
-            # original BERT
-            else:
-                all_encoder_layers, _ = self.bert(all_input_ids, attention_mask=all_input_mask)
-                del _
-                features = all_encoder_layers[-1]
+            # # syntactic BERT
+            # if self.use_syntactic:
+            #     features = self.bert.get_embeddings(all_input_ids, attention_mask=all_input_mask)
+            # # original BERT
+            # else:
+            all_encoder_layers, _ = self.bert(all_input_ids, attention_mask=all_input_mask)
+            del _
+            features = all_encoder_layers[-1]
             
             if self.encoder is not None:
                 features_packed = features.masked_select(all_word_end_mask.to(torch.uint8).unsqueeze(-1)).reshape(-1, features.shape[-1])
