@@ -142,6 +142,7 @@ def load_trees(path, strip_top=True, strip_spmrl_features=True):
 
     tokens = treebank.replace("(", " ( ").replace(")", " ) ").split()
 
+    strip_top = False
     # XXX(nikita): this should really be passed as an argument
     if 'Hebrew' in path or 'Hungarian' in path or 'Arabic' in path:
         strip_top = False
