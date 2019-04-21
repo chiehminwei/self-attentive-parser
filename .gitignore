@@ -1,5 +1,5 @@
 # Gold data files
-data/*.goldtags
+data/*.goldtags*
 
 # PyCharm directories
 .idea/
