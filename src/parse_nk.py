@@ -562,15 +562,22 @@ def get_elmo_class():
     return Elmo
 
 # %%
-def get_bert(bert_model, bert_do_lower_case):
-    # Avoid a hard dependency on BERT by only importing it if it's being used
+def get_bert(bert_model, bert_do_lower_case, use_syntactic=False):
+    # Avoid a hard dependency on BERT by only importing it if it's being used    
     from pytorch_pretrained_bert import BertTokenizer, BertModel
     if bert_model.endswith('.tar.gz'):
         tokenizer = BertTokenizer.from_pretrained(bert_model.replace('.tar.gz', '-vocab.txt'), do_lower_case=bert_do_lower_case)
     else:
         tokenizer = BertTokenizer.from_pretrained(bert_model, do_lower_case=bert_do_lower_case)
-    bert = BertModel.from_pretrained(bert_model)
-    return tokenizer, bert
+    if use_syntactic:
+        print('Using syntactic BERT...')
+        from parser import BiaffineParser
+        CHECKPOINT_DIR = '../model.pt' # path to model checkpoint
+        bert = BiaffineParser.load(CHECKPOINT_DIR)
+    else:
+        print('Using original BERT...')
+        bert = BertModel.from_pretrained(bert_model)
+    return tokenizer, bert    
 
 # %%
 
@@ -647,6 +654,8 @@ class NKChartParser(nn.Module):
         self.d_content = (self.d_model // 2) if self.partitioned else self.d_model
         self.d_positional = (hparams.d_model // 2) if self.partitioned else None
 
+        self.use_syntactic = hparams.use_syntactic
+
         num_embeddings_map = {
             'tags': tag_vocab.size,
             'words': word_vocab.size,
@@ -706,7 +715,7 @@ class NKChartParser(nn.Module):
             # the projection trainable appears to improve parsing accuracy
             self.project_elmo = nn.Linear(d_elmo_annotations, self.d_content, bias=False)
         elif hparams.use_bert or hparams.use_bert_only:
-            self.bert_tokenizer, self.bert = get_bert(hparams.bert_model, hparams.bert_do_lower_case)
+            self.bert_tokenizer, self.bert = get_bert(hparams.bert_model, hparams.bert_do_lower_case, self.use_syntactic)
             if hparams.bert_transliterate:
                 from transliterate import TRANSLITERATIONS
                 self.bert_transliterate = TRANSLITERATIONS[hparams.bert_transliterate]
@@ -998,10 +1007,16 @@ class NKChartParser(nn.Module):
             all_input_mask = from_numpy(np.ascontiguousarray(all_input_mask[:, :subword_max_len]))
             all_word_start_mask = from_numpy(np.ascontiguousarray(all_word_start_mask[:, :subword_max_len]))
             all_word_end_mask = from_numpy(np.ascontiguousarray(all_word_end_mask[:, :subword_max_len]))
-            all_encoder_layers, _ = self.bert(all_input_ids, attention_mask=all_input_mask)
-            del _
-            features = all_encoder_layers[-1]
 
+            # syntactic BERT
+            if self.use_syntactic:
+                features = self.bert.get_embeddings(all_input_ids, attention_mask=all_input_mask)
+            # original BERT
+            else:
+                all_encoder_layers, _ = self.bert(all_input_ids, attention_mask=all_input_mask)
+                del _
+                features = all_encoder_layers[-1]
+            
             if self.encoder is not None:
                 features_packed = features.masked_select(all_word_end_mask.to(torch.uint8).unsqueeze(-1)).reshape(-1, features.shape[-1])
 

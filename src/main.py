@@ -83,6 +83,7 @@ def make_hparams():
         bert_model="bert-base-uncased",
         bert_do_lower_case=True,
         bert_transliterate="",
+        use_syntactic=True,
         )
 
 def run_train(args, hparams):
