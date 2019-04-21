@@ -328,24 +328,25 @@ def run_train(args, hparams):
 
             trainer.step()
 
-            print(
-                "epoch {:,} "
-                "batch {:,}/{:,} "
-                "processed {:,} "
-                "batch-loss {:.4f} "
-                "grad-norm {:.4f} "
-                "epoch-elapsed {} "
-                "total-elapsed {}".format(
-                    epoch,
-                    start_index // args.batch_size + 1,
-                    int(np.ceil(len(train_parse) / args.batch_size)),
-                    total_processed,
-                    batch_loss_value,
-                    grad_norm,
-                    format_elapsed(epoch_start_time),
-                    format_elapsed(start_time),
+            if start_index // args.batch_size + 1 == int(np.ceil(len(train_parse) / args.batch_size)):
+                print(
+                    "epoch {:,} "
+                    "batch {:,}/{:,} "
+                    "processed {:,} "
+                    "batch-loss {:.4f} "
+                    "grad-norm {:.4f} "
+                    "epoch-elapsed {} "
+                    "total-elapsed {}".format(
+                        epoch,
+                        start_index // args.batch_size + 1,
+                        int(np.ceil(len(train_parse) / args.batch_size)),
+                        total_processed,
+                        batch_loss_value,
+                        grad_norm,
+                        format_elapsed(epoch_start_time),
+                        format_elapsed(start_time),
+                    )
                 )
-            )
 
             if current_processed >= check_every:
                 current_processed -= check_every
