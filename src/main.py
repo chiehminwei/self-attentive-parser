@@ -8,6 +8,8 @@ import torch.optim.lr_scheduler
 
 import numpy as np
 
+from tqdm import tqdm
+
 import evaluate
 import trees
 import vocabulary
@@ -300,7 +302,7 @@ def run_train(args, hparams):
         np.random.shuffle(train_parse)
         epoch_start_time = time.time()
 
-        for start_index in range(0, len(train_parse), args.batch_size):
+        for start_index in tqdm(range(0, len(train_parse), args.batch_size)):
             trainer.zero_grad()
             schedule_lr(total_processed // args.batch_size)
 
