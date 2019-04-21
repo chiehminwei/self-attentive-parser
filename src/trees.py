@@ -185,13 +185,17 @@ def load_trees(path, strip_top=True, strip_spmrl_features=True):
                 trees[i] = InternalTreebankNode("VROOT", [tree])
 
     if strip_top:
+        failed = False
         for i, tree in enumerate(trees):
             if tree.label in ("TOP", "ROOT"):
                 if not len(tree.children) == 1:
-                    print('tree', tree)
-                    print('children', tree.children)
-                assert len(tree.children) == 1
+                    print(i)
+                    failed = True
+                    # print('tree', tree)
+                    # print('children', tree.children)
+                # assert len(tree.children) == 1
                 trees[i] = tree.children[0]
+        assert not failed
 
     return trees
 
