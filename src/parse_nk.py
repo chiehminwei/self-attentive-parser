@@ -78,7 +78,7 @@ class BatchIndices:
 
 # %%
 
-class FeatureDropoutFunction(nn.functional._functions.dropout.InplaceFunction):
+class FeatureDropoutFunction(torch.autograd.Function):
     @classmethod
     def forward(cls, ctx, input, batch_idxs, p=0.5, train=False, inplace=False):
         if p < 0 or p > 1:
@@ -1018,8 +1018,9 @@ class NKChartParser(nn.Module):
             features = all_encoder_layers[8]
             
             if self.encoder is not None:
-                features_packed = features.masked_select(all_word_end_mask.to(torch.uint8).unsqueeze(-1)).reshape(-1, features.shape[-1])
-
+                # features_packed = features.masked_select(all_word_end_mask.to(torch.uint8).unsqueeze(-1)).reshape(-1, features.shape[-1])
+                features_packed = features.masked_select(all_word_start_mask.to(torch.uint8).unsqueeze(-1)).reshape(-1, features.shape[-1])
+                
                 # For now, just project the features from the last word piece in each word
                 extra_content_annotations = self.project_bert(features_packed)
 
