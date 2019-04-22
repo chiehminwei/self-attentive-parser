@@ -1,0 +1,11801 @@
+עשרות	CDT	gen=f|num=p
+אנשים	NN	gen=m|num=p
+מגיעים	BN	gen=m|num=p|per=a
+מ	PREPOSITION
+תאילנד	NNP
+ל	PREPOSITION
+ישראל	NNP
+כש	TEMP
+הם	PRP	gen=m|num=p|per=3
+נרשמים	BN	gen=m|num=p|per=a
+כ	PREPOSITION
+מתנדבים	NN	gen=m|num=p
+,	yyCM
+אך	CC
+למעשה	RB
+משמשים	BN	gen=m|num=p|per=a
+עובדים	NN	gen=m|num=p
+שכירים	JJ	gen=m|num=p
+זולים	JJ	gen=m|num=p
+.	yyDOT
+
+תופעה	NN	gen=f|num=s
+זו	PRP	gen=f|num=s|per=3
+התבררה	VB	gen=f|num=s|per=3|tense=PAST
+אתמול	RB
+ב	PREPOSITION
+וועדת	NNT	gen=f|num=s
+ה	DEF
+עבודה	NN	gen=f|num=s
+ו	CONJ
+ה	DEF
+רווחה	NN	gen=f|num=s
+של	POS
+ה	DEF
+כנסת	NNP
+,	yyCM
+ש	REL
+דנה	VB	gen=f|num=s|per=3|tense=PAST
+ב	PREPOSITION
+נושא	NNT	gen=m|num=s
+העסקת	NNT	gen=f|num=s
+עובדים	NN	gen=m|num=p
+זרים	JJ	gen=m|num=p
+.	yyDOT
+
+יו"ר	NNT	gen=m|num=s
+ה	DEF
+וועדה	NN	gen=f|num=s
+,	yyCM
+ח"ך	NN	gen=m|num=s
+אורה	NNP
+נמיר	NNP
+-LRB-	yyLRB
+מערך	NNP
+-RRB-	yyRRB
+,	yyCM
+טענה	VB	gen=f|num=s|per=3|tense=PAST
+כי	CC
+"	yyQUOT
+מביאים	BN	gen=m|num=p|per=a
+עובדים	NN	gen=m|num=p
+זרים	JJ	gen=m|num=p
+ל	PREPOSITION
+ישראל	NNP
+על	IN
+תקן	NN	gen=m|num=s
+של	POS
+מתנדבים	NN	gen=m|num=p
+מ	PREPOSITION
+תאילנד	NNP
+,	yyCM
+רק	RB
+כדי	IN
+לא	RB
+לשלם	VB_TOINFINITIVE
+ל	IN
+המ@suf	S_PRN	gen=m|num=p|per=3
+שכר	NNT	gen=m|num=s
+מינימום	NN	gen=m|num=s
+.	yyDOT
+
+מ	PREPOSITION
+צד	NN	gen=m|num=s
+אחד	CD	gen=m|num=s
+רוצה	BN	gen=m|num=s|per=a
+ה	DEF
+אוצר	NN	gen=m|num=s
+להוריד	VB_TOINFINITIVE
+את	AT
+שכר	NNT	gen=m|num=s
+ה	DEF
+מינימום	NN	gen=m|num=s
+,	yyCM
+ו	CONJ
+מ	PREPOSITION
+צד	NN	gen=m|num=s
+שני	CD	gen=m|num=s
+מתיר	BN	gen=m|num=s|per=a
+משרד	NNT	gen=m|num=s
+ה	DEF
+עבודה	NN	gen=f|num=s
+ו	CONJ
+ה	DEF
+רווחה	NN	gen=f|num=s
+להעסיק	VB_TOINFINITIVE
+עובדים	NN	gen=m|num=p
+זרים	JJ	gen=m|num=p
+ב	PREPOSITION
+פחות	RB
+מ	PREPOSITION
+שכר	NN	gen=m|num=s
+זה	PRP	gen=m|num=s|per=3
+"	yyQUOT
+.	yyDOT
+
+נמיר	NNP
+הודיעה	VB	gen=f|num=s|per=3|tense=PAST
+כי	CC
+תפנה	VB	gen=f|num=s|per=3|tense=FUTURE
+ל	PREPOSITION
+שרי	NNT	gen=m|num=p
+ה	DEF
+פנים	NN	gen=m|num=s
+ו	CONJ
+ה	DEF
+עבודה	NN	gen=f|num=s
+ו	CONJ
+ה	DEF
+רווחה	NN	gen=f|num=s
+ו	CONJ
+ל	PREPOSITION
+מזכיר	NNT	gen=m|num=s
+תנועת	NNT	gen=f|num=s
+ה	DEF
+מושבים	NN	gen=m|num=p
+,	yyCM
+ב	PREPOSITION
+תביעה	NN	gen=f|num=s
+לבטל	VB_TOINFINITIVE
+את	AT
+הזמנתם	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=p|suf_per=3
+של	POS
+500	CD
+עובדים	NN	gen=m|num=p
+זרים	JJ	gen=m|num=p
+מ	PREPOSITION
+תאילנד	NNP
+כ	PREPOSITION
+מתנדבים	NN	gen=m|num=p
+כביכול	RB
+.	yyDOT
+
+היא	PRP	gen=f|num=s|per=3
+הודיעה	VB	gen=f|num=s|per=3|tense=PAST
+כי	CC
+ה	DEF
+וועדה	NN	gen=f|num=s
+תגבש	VB	gen=f|num=s|per=3|tense=FUTURE
+הצעת	NNT	gen=f|num=s
+חוק	NN	gen=m|num=s
+ב	PREPOSITION
+נושא	NNT	gen=m|num=s
+ה	DEF
+עובדים	NN	gen=m|num=p
+ה	DEF
+זרים	JJ	gen=m|num=p
+,	yyCM
+ש	REL
+תכלול	VB	gen=f|num=s|per=3|tense=FUTURE
+איסור	NN	gen=m|num=s
+על	IN
+מתן	NNT	gen=m|num=s
+שכר	NN	gen=m|num=s
+ל	PREPOSITION
+ה	DEF
+עובדים	NN	gen=m|num=p
+מתחת	IN
+ל	PREPOSITION
+שכר	NNT	gen=m|num=s
+ה	DEF
+מינימום	NN	gen=m|num=s
+ו	CONJ
+מתן	NNT	gen=m|num=s
+ה	DEF
+תנאים	NN	gen=m|num=p
+ה	DEF
+סוציאליים	JJ	gen=m|num=p
+ה	DEF
+מקובלים	JJ	gen=m|num=p
+ב	PREPOSITION
+מקום	NNT	gen=m|num=s
+ה	DEF
+עבודה	NN	gen=f|num=s
+.	yyDOT
+
+כמו	IN
+כן	PRP	per=3
+,	yyCM
+תציב	VB	gen=f|num=s|per=3|tense=FUTURE
+הצעת	NNT	gen=f|num=s
+ה	DEF
+חוק	NN	gen=m|num=s
+עונשי	NNT	gen=m|num=p
+מאסר	NN	gen=m|num=s
+ו	CONJ
+הטלת	NNT	gen=f|num=s
+קנסות	NN	gen=m|num=p
+כבדים	JJ	gen=m|num=p
+ל	PREPOSITION
+מי	QW
+ש	REL
+יעסיק	VB	gen=m|num=s|per=3|tense=FUTURE
+עובדים	NN	gen=m|num=p
+זרים	JJ	gen=m|num=p
+בלא	IN
+רשיון	NN	gen=m|num=s
+.	yyDOT
+
+מרגלית	NNP
+אילת	NNP
+,	yyCM
+ה	REL
+ממונה	BN	gen=m|num=s|per=a
+על	IN
+מתן	NNT	gen=m|num=s
+היתרי	NNT	gen=m|num=p
+עבודה	NN	gen=f|num=s
+ל	PREPOSITION
+זרים	NN	gen=m|num=p
+ב	PREPOSITION
+שירות	NNT	gen=m|num=s
+ה	DEF
+תעסוקה	NN	gen=f|num=s
+,	yyCM
+מסרה	VB	gen=f|num=s|per=3|tense=PAST
+כי	CC
+תנועת	NNT	gen=f|num=s
+ה	DEF
+מושבים	NN	gen=m|num=p
+הפעילה	VB	gen=f|num=s|per=3|tense=PAST
+לחץ	NN	gen=m|num=s
+ש	REL
+יותר	VB	gen=m|num=s|per=3|tense=FUTURE
+ל	IN
+היא@suf	S_PRN	gen=f|num=s|per=3
+להביא	VB_TOINFINITIVE
+עובדים	NN	gen=m|num=p
+זרים	JJ	gen=m|num=p
+מ	PREPOSITION
+תאילנד	NNP
+.	yyDOT
+
+היא	PRP	gen=f|num=s|per=3
+אמרה	VB	gen=f|num=s|per=3|tense=PAST
+כי	CC
+שירות	NNT	gen=m|num=s
+ה	DEF
+תעסוקה	NN	gen=f|num=s
+הציע	VB	gen=m|num=s|per=3|tense=PAST
+להביא	VB_TOINFINITIVE
+עובדים	NN	gen=m|num=p
+מ	PREPOSITION
+דרום	NNT	gen=m|num=s
+לבנון	NNP
+,	yyCM
+אך	CC
+תנועת	NNT	gen=f|num=s
+ה	DEF
+מושבים	NN	gen=m|num=p
+סירבה	VB	gen=f|num=s|per=3|tense=PAST
+.	yyDOT
+
+ישראל	NNP
+ארד	NNP
+,	yyCM
+סמנכ"ל	NN	gen=m|num=s
+ה	DEF
+ביטוח	NN	gen=m|num=s
+ה	DEF
+לאומי	JJ	gen=m|num=s
+,	yyCM
+אמר	VB	gen=m|num=s|per=3|tense=PAST
+כי	CC
+ממלא	BNT	gen=m|num=s|per=a
+מקום	NNT	gen=m|num=s
+שר	NNT	gen=m|num=s
+ה	DEF
+עבודה	NN	gen=f|num=s
+ו	CONJ
+ה	DEF
+רווחה	NN	gen=f|num=s
+,	yyCM
+דוד	NNP
+מגן	NNP
+,	yyCM
+הקים	VB	gen=m|num=s|per=3|tense=PAST
+ועדה	NN	gen=f|num=s
+בין	P
+-	yyDASH
+משרדית	JJ	gen=f|num=s
+,	yyCM
+ש	REL
+המליצה	VB	gen=f|num=s|per=3|tense=PAST
+להגדיל	VB_TOINFINITIVE
+ב	PREPOSITION
+אופן	NN	gen=m|num=s
+משמעותי	JJ	gen=m|num=s
+את	AT
+ה	DEF
+קנסות	NN	gen=m|num=p
+ל	PREPOSITION
+ה	DEF
+מעסיקים	NN	gen=m|num=p
+.	yyDOT
+
+ח"ך	NN	gen=m|num=s
+אלי	NNP
+דיין	NNP
+-LRB-	yyLRB
+מערך	NNP
+-RRB-	yyRRB
+הגיש	VB	gen=m|num=s|per=3|tense=PAST
+הצעת	NNT	gen=f|num=s
+חוק	NN	gen=m|num=s
+ש	REL
+לפי	IN
+היא@suf	S_PRN	gen=f|num=s|per=3
+יוטל	VB	gen=m|num=s|per=3|tense=FUTURE
+היטל	NN	gen=m|num=s
+על	IN
+מעסיקי	NNT	gen=m|num=p
+עובדים	NN	gen=m|num=p
+זרים	JJ	gen=m|num=p
+,	yyCM
+כדי	IN
+למנוע	VB_TOINFINITIVE
+העדפתם	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=p|suf_per=3
+על	IN
+עובדים	NN	gen=m|num=p
+ישראליים	JJ	gen=m|num=p
+.	yyDOT
+
+חברות	NN	gen=f|num=p
+ה	REL
+מעסיקות	BN	gen=f|num=p|per=a
+עובדים	NN	gen=m|num=p
+זרים	JJ	gen=m|num=p
+זוכות	BN	gen=f|num=p|per=a
+ב	PREPOSITION
+מכרזים	NN	gen=m|num=p
+,	yyCM
+היות	CC
+ו	CONJ
+הן	PRP	gen=f|num=p|per=3
+מציעות	BN	gen=f|num=p|per=a
+שירותים	NN	gen=m|num=p
+זולים	JJ	gen=m|num=p
+יותר	RB
+.	yyDOT
+
+ח"ך	NN	gen=m|num=s
+רן	NNP
+כהן	NNP
+-LRB-	yyLRB
+רץ	NNP
+-RRB-	yyRRB
+אמר	VB	gen=m|num=s|per=3|tense=PAST
+כי	CC
+על	IN
+ה	DEF
+וועדה	NN	gen=f|num=s
+לפנות	VB_TOINFINITIVE
+ל	PREPOSITION
+ה	DEF
+ממשלה	NN	gen=f|num=s
+ב	PREPOSITION
+דרישה	NN	gen=f|num=s
+לחסל	VB_TOINFINITIVE
+את	AT
+העסקת	NNT	gen=f|num=s
+ה	DEF
+עובדים	NN	gen=m|num=p
+ה	DEF
+זרים	JJ	gen=m|num=p
+לאלתר	RB
+,	yyCM
+על	IN
+רקע	NNT	gen=m|num=s
+היצע	NNT	gen=m|num=s
+ה	DEF
+עולים	NN	gen=m|num=p
+ה	REL
+מוכנים	MD	gen=m|num=p|per=a
+לעבוד	VB_TOINFINITIVE
+ב	PREPOSITION
+כל	DTT
+עבודה	NN	gen=f|num=s
+ב	PREPOSITION
+שכר	NNT	gen=m|num=s
+ה	DEF
+מינימום	NN	gen=m|num=s
+.	yyDOT
+
+ל	PREPOSITION
+דבריו	NN_S_PP	gen=m|num=p|suf_gen=m|suf_num=s|suf_per=3
+,	yyCM
+יש	MD
+לפנות	VB_TOINFINITIVE
+ל	PREPOSITION
+משרד	NNT	gen=m|num=s
+ה	DEF
+עבודה	NN	gen=f|num=s
+ו	CONJ
+ה	DEF
+רווחה	NN	gen=f|num=s
+ב	PREPOSITION
+דרישה	NN	gen=f|num=s
+לבטל	VB_TOINFINITIVE
+בתוך	IN
+חודש	NN	gen=m|num=s
+את	AT
+עבודת	NNT	gen=f|num=s
+ה	DEF
+עובדים	NN	gen=m|num=p
+ה	DEF
+זרים	JJ	gen=m|num=p
+ה	REL
+מועסקים	BN	gen=m|num=p|per=a
+כיום	RB
+תחת	IN
+ה	DEF
+כותרת	NN	gen=f|num=s
+"	yyQUOT
+מתנדבים	NN	gen=m|num=p
+"	yyQUOT
+.	yyDOT
+
+ח"ך	NN	gen=m|num=s
+יאיר	NNP
+צבן	NNP
+-LRB-	yyLRB
+מפם	NNP
+-RRB-	yyRRB
+אמר	VB	gen=m|num=s|per=3|tense=PAST
+כי	CC
+פרשת	NNT	gen=f|num=s
+ה	DEF
+מתנדבים	NN	gen=m|num=p
+ה	DEF
+תאילנדיים	JJ	gen=m|num=p
+היא	COP	gen=f|num=s|per=3|polar=pos|tense=BEINONI
+"	yyQUOT
+כתם	NNT	gen=m|num=s
+חרפה	NN	gen=f|num=s
+על	IN
+פרצופנו	NN_S_PP	gen=m|num=s|suf_gen=f|suf_gen=m|suf_num=p|suf_per=1
+ה	DEF
+לאומי	JJ	gen=m|num=s
+.	yyDOT
+
+ה	DEF
+מוח	NN	gen=m|num=s
+מתפלץ	BN	gen=m|num=s|per=a
+לא	RB
+רק	RB
+מ	PREPOSITION
+ה	DEF
+תופעה	NN	gen=f|num=s
+ה	DEF
+מבישה	JJ	gen=f|num=s
+אלא	CC
+גם	RB
+מ	PREPOSITION
+דרכי	NNT	gen=f|num=p
+ה	DEF
+הערמה	NN	gen=f|num=s
+.	yyDOT
+
+ה	DEF
+ראש	NN	gen=m|num=s
+ה	DEF
+יהודי	JJ	gen=m|num=s
+ממציא	BN	gen=m|num=s|per=a
+ל	IN
+אנחנו@suf	S_PRN	gen=f|gen=m|num=p|per=1
+פטנטים	NN	gen=m|num=p
+ב	PREPOSITION
+דמות	NNT	gen=f|num=s
+מתנדבים	NN	gen=m|num=p
+,	yyCM
+ה	REL
+משולמים	BN	gen=m|num=p|per=a
+שכר	NN	gen=m|num=s
+מחפיר	JJ	gen=m|num=s
+"	yyQUOT
+.	yyDOT
+
+הוא	PRP	gen=m|num=s|per=3
+קרא	VB	gen=m|num=s|per=3|tense=PAST
+ל	PREPOSITION
+הפסקת	NNT	gen=f|num=s
+ה	DEF
+תופעה	NN	gen=f|num=s
+ו	CONJ
+ל	PREPOSITION
+מתן	NNT	gen=m|num=s
+תשלומים	NN	gen=m|num=p
+רטרואקטיוויים	JJ	gen=m|num=p
+ל	PREPOSITION
+ה	DEF
+תאילנדים	NN	gen=m|num=p
+,	yyCM
+ש	REL
+ישלימו	VB	gen=f|gen=m|num=p|per=3|tense=FUTURE
+את	AT
+שכר	NNT	gen=m|num=s
+ה	DEF
+מינימום	NN	gen=m|num=s
+.	yyDOT
+
+דוברת	NNT	gen=f|num=s
+שירות	NNT	gen=m|num=s
+ה	DEF
+תעסוקה	NN	gen=f|num=s
+מסרה	VB	gen=f|num=s|per=3|tense=PAST
+אתמול	RB
+ב	PREPOSITION
+תגובה	NN	gen=f|num=s
+,	yyCM
+כי	CC
+ה	DEF
+שירות	NN	gen=m|num=s
+פועל	BN	gen=m|num=s|per=a
+ל	PREPOSITION
+צמצום	NNT	gen=m|num=s
+מספרם	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=p|suf_per=3
+של	POS
+ה	DEF
+עובדים	NN	gen=m|num=p
+ה	DEF
+זרים	JJ	gen=m|num=p
+ו	CONJ
+ל	PREPOSITION
+הכנסת	NNT	gen=f|num=s
+עולים	NN	gen=m|num=p
+חדשים	JJ	gen=m|num=p
+ב	PREPOSITION
+מקומם	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=p|suf_per=3
+.	yyDOT
+
+"	yyQUOT
+לאחר	IN
+פעילות	NN	gen=f|num=s
+נמרצת	JJ	gen=f|num=s
+ב	PREPOSITION
+ה	DEF
+שבועות	NN	gen=m|num=p
+ה	DEF
+אחרונים	JJ	gen=m|num=p
+,	yyCM
+צומצם	VB	gen=m|num=s|per=3|tense=PAST
+מספר	DTT
+ה	DEF
+עובדים	NN	gen=m|num=p
+ה	DEF
+זרים	JJ	gen=m|num=p
+ב	PREPOSITION
+ענף	NNT	gen=m|num=s
+ה	DEF
+אחיות	NN	gen=f|num=p
+ב	PREPOSITION
+50	CD
+%	NN	gen=m|num=p|num=s
+.	yyDOT
+
+עד	IN
+סוף	NNT	gen=m|num=s
+ה	DEF
+שנה	NN	gen=f|num=s
+לא	RB
+תועסק	VB	gen=f|num=s|per=3|tense=FUTURE
+ב	PREPOSITION
+ה	DEF
+ארץ	NN	gen=f|num=s
+אף	DTT
+אחות	NN	gen=f|num=s
+כ	PREPOSITION
+עובדת	NN	gen=f|num=s
+זרה	JJ	gen=f|num=s
+"	yyQUOT
+.	yyDOT
+
+ה	DEF
+דוברת	NN	gen=f|num=s
+אמרה	VB	gen=f|num=s|per=3|tense=PAST
+כי	CC
+ה	DEF
+שירות	NN	gen=m|num=s
+קורא	BN	gen=m|num=s|per=a
+ל	PREPOSITION
+ה	DEF
+חקלאים	NN	gen=m|num=p
+לדאוג	VB_TOINFINITIVE
+ל	PREPOSITION
+עובדים	NN	gen=m|num=p
+ישראליים	JJ	gen=m|num=p
+,	yyCM
+במקום	IN
+ל	PREPOSITION
+תאילנדים	NN	gen=m|num=p
+.	yyDOT
+
+"	yyQUOT
+ה	DEF
+שירות	NN	gen=m|num=s
+לא	RB
+שינה	VB	gen=m|num=s|per=3|tense=PAST
+את	AT
+ה	DEF
+מדיניות	NN	gen=f|num=s
+ב	PREPOSITION
+נושא	NNT	gen=m|num=s
+העסקת	NNT	gen=f|num=s
+תאילנדים	NN	gen=m|num=p
+ב	PREPOSITION
+חקלאות	NN	gen=f|num=s
+,	yyCM
+אלא	CC
+להיפך	RB
+,	yyCM
+הוא	PRP	gen=m|num=s|per=3
+הבהיר	VB	gen=m|num=s|per=3|tense=PAST
+ל	PREPOSITION
+תנועת	NNT	gen=f|num=s
+ה	DEF
+מושבים	NN	gen=m|num=p
+ש	REL
+כל	DTT
+עובד	NN	gen=m|num=s
+ישראלי	JJ	gen=m|num=s
+ש	REL
+יסכים	VB	gen=m|num=s|per=3|tense=FUTURE
+לעבוד	VB_TOINFINITIVE
+ב	PREPOSITION
+ענף	NNT	gen=m|num=s
+ה	DEF
+חקלאות	NN	gen=f|num=s
+,	yyCM
+ישובץ	VB	gen=m|num=s|per=3|tense=FUTURE
+ל	PREPOSITION
+ה	DEF
+עבודה	NN	gen=f|num=s
+לאלתר	RB
+"	yyQUOT
+.	yyDOT
+
+מאמרו	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=s|suf_per=3
+של	POS
+תום	NNP
+שגב	NNP
+,	yyCM
+"	yyQUOT
+ה	DEF
+קרב	NN	gen=m|num=s
+על	IN
+סן	NNP	gen=f|gen=m|num=s
+סימון	NNP
+היה	COP	gen=m|num=s|per=3|polar=pos|tense=PAST
+או	CC
+לא	RB
+היה	COP	gen=m|num=s|per=3|polar=pos|tense=PAST
+"	yyQUOT
+-LRB-	yyLRB
+"	yyQUOT
+ה	DEF
+ארץ	NN	gen=f|num=s
+"	yyQUOT
+105	CD
+-RRB-	yyRRB
+,	yyCM
+הגיע	VB	gen=m|num=s|per=3|tense=PAST
+ל	PREPOSITION
+ידי	NN_S_PP	gen=f|num=p|suf_gen=f|suf_gen=m|suf_num=s|suf_per=1
+רק	RB
+ב	PREPOSITION
+ימים	NN	gen=m|num=p
+אלה	PRP	gen=m|num=p|per=3
+.	yyDOT
+
+למרות	IN
+ש	REL
+חלפו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+מאז	RB
+24	CD
+שנה	NN	gen=f|num=s
+,	yyCM
+ו	CONJ
+למרות	IN
+ש	REL
+אירועי	NNT	gen=m|num=p
+ימים	NN	gen=m|num=p
+אלה	PRP	gen=m|num=p|per=3
+אולי	RB
+מאפילים	BN	gen=m|num=p|per=a
+על	IN
+כל	DTT
+דבר	NN	gen=m|num=s
+אחר	JJ	gen=m|num=s
+,	yyCM
+אני	PRP	gen=f|gen=m|num=s|per=1
+מרגיש	BN	gen=m|num=s|per=a
+חובה	NN	gen=f|num=s
+ב	PREPOSITION
+שמם	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=p|suf_per=3
+של	POS
+ה	DEF
+חללים	NN	gen=m|num=p
+,	yyCM
+ה	DEF
+פצועים	NN	gen=m|num=p
+ו	CONJ
+לוחמי	NNT	gen=m|num=p
+ה	DEF
+קרב	NN	gen=m|num=s
+ה	DEF
+זה	PRP	gen=m|num=s|per=3
+,	yyCM
+כ	PREPOSITION
+אחד	CD	gen=m|num=s
+ש	REL
+היה	COP	gen=m|num=s|per=3|polar=pos|tense=PAST
+שם	RB
+,	yyCM
+להתייחס	VB_TOINFINITIVE
+ל	PREPOSITION
+ה	DEF
+מאמר	NN	gen=m|num=s
+.	yyDOT
+
+קטעי	NNT	gen=m|num=p
+ה	DEF
+מאמר	NN	gen=m|num=s
+ה	REL
+עוסקים	BN	gen=m|num=p|per=a
+ב	PREPOSITION
+ה	DEF
+קרב	NN	gen=m|num=s
+עצמו	PRP	gen=m|num=s|per=3
+,	yyCM
+ו	CONJ
+ש	REL
+רק	RB
+אלי	IN
+המ@suf	S_PRN	gen=m|num=p|per=3
+אתייחס	VB	gen=f|gen=m|num=s|per=1|tense=FUTURE
+,	yyCM
+מאופיינים	BN	gen=m|num=p|per=a
+ב	PREPOSITION
+חוסר	NNT	gen=m|num=s
+היגיון	NN	gen=m|num=s
+ו	CONJ
+ב	PREPOSITION
+סילוף	NNT	gen=m|num=s
+עובדות	NN	gen=f|num=p
+,	yyCM
+ו	CONJ
+מעידים	BN	gen=m|num=p|per=a
+על	IN
+ה	DEF
+כותב	NN	gen=m|num=s
+כי	CC
+הוא	PRP	gen=m|num=s|per=3
+משולל	JJT	gen=m|num=s
+הבנה	NN	gen=f|num=s
+טקטית	JJ	gen=f|num=s
+מינימלית	JJ	gen=f|num=s
+ו	CONJ
+ניסיון	NN	gen=m|num=s
+קרבי	JJ	gen=m|num=s
+משמעותי	JJ	gen=m|num=s
+.	yyDOT
+
+ו	CONJ
+כעת	RB
+ל	PREPOSITION
+ה	DEF
+עובדות	NN	gen=f|num=p
+ה	DEF
+מצוטטות	JJ	gen=f|num=p
+:	yyCLN
+כותרת	NNT	gen=f|num=s
+ה	DEF
+מאמר	NN	gen=m|num=s
+,	yyCM
+"	yyQUOT
+ה	DEF
+קרב	NN	gen=m|num=s
+על	IN
+סן	NNP	gen=f|gen=m|num=s
+סימון	NNP
+:	yyCLN
+היה	COP	gen=m|num=s|per=3|polar=pos|tense=PAST
+לא	RB
+היה	COP	gen=m|num=s|per=3|polar=pos|tense=PAST
+"	yyQUOT
+,	yyCM
+מרמזת	BN	gen=f|num=s|per=a
+כי	CC
+ייתכן	MD
+ש	REL
+ב	PREPOSITION
+ה	DEF
+מנזר	NN	gen=m|num=s
+כלל	RB
+לא	RB
+התנהל	VB	gen=m|num=s|per=3|tense=PAST
+קרב	NN	gen=m|num=s
+.	yyDOT
+
+ל	PREPOSITION
+כל	DTT
+אלה	PRP	gen=m|num=p|per=3
+ה	REL
+מתרשמים	BN	gen=m|num=p|per=a
+ו	CONJ
+מסתפקים	BN	gen=m|num=p|per=a
+ב	PREPOSITION
+קריאת	NNT	gen=f|num=s
+ה	DEF
+כותרת	NN	gen=f|num=s
+בלבד	RB
+,	yyCM
+אני	PRP	gen=f|gen=m|num=s|per=1
+יכול	MD	gen=m|num=s|per=a|tense=BEINONI
+להבטיח	VB_TOINFINITIVE
+ש	REL
+אכן	RB
+התנהל	VB	gen=m|num=s|per=3|tense=PAST
+שם	RB
+קרב	NN	gen=m|num=s
+,	yyCM
+ו	CONJ
+הוא	PRP	gen=m|num=s|per=3
+היה	COP	gen=m|num=s|per=3|polar=pos|tense=PAST
+אחד	CDT	gen=m|num=s
+ה	DEF
+קשים	JJ	gen=m|num=p
+ו	CONJ
+ה	DEF
+מפוארים	JJ	gen=m|num=p
+ב	PREPOSITION
+כל	DTT
+קרבות	NNT	gen=m|num=p
+ישראל	NNP
+.	yyDOT
+
+ו	CONJ
+על	IN
+כך	PRP	per=3
+תעיד	VB	gen=f|num=s|per=3|tense=FUTURE
+ה	DEF
+היסטוריה	NN	gen=f|num=s
+,	yyCM
+ו	CONJ
+יעידו	VB	gen=f|gen=m|num=p|per=3|tense=FUTURE
+עשרות	CDT	gen=f|num=p
+ה	DEF
+לוחמים	NN	gen=m|num=p
+ש	REL
+נשארו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+ב	PREPOSITION
+ה	DEF
+חיים	NN	gen=m|num=p
+ו	CONJ
+הצליחו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+לבצע	VB_TOINFINITIVE
+את	AT
+משימתם	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=p|suf_per=3
+על	IN
+אף	CC
+ה	DEF
+אבדות	NN	gen=f|num=p
+ה	DEF
+כבדות	JJ	gen=f|num=p
+.	yyDOT
+
+ב	PREPOSITION
+מלחמת	NNT	gen=f|num=s
+ה	DEF
+עצמאות	NN	gen=f|num=s
+,	yyCM
+ב	PREPOSITION
+ה	DEF
+קרב	NN	gen=m|num=s
+על	IN
+ירושלים	NNP
+,	yyCM
+נשארה	VB	gen=f|num=s|per=3|tense=PAST
+שכונת	NNT	gen=f|num=s
+קטמון	NNP
+תקועה	JJ	gen=f|num=s
+ב	PREPOSITION
+לב	NNT	gen=m|num=s
+ירושלים	NNP
+ה	DEF
+מערבית	JJ	gen=f|num=s
+ו	CONJ
+שימשה	VB	gen=f|num=s|per=3|tense=PAST
+כ	PREPOSITION
+מרכז	NNT	gen=m|num=s
+כוח	NN	gen=m|num=s
+ערבי	JJ	gen=m|num=s
+רב	JJ	gen=m|num=s
+ו	CONJ
+מאורגן	JJ	gen=m|num=s
+.	yyDOT
+
+ה	DEF
+שטח	NN	gen=m|num=s
+ה	DEF
+חיוני	JJ	gen=m|num=s
+של	POS
+קטמון	NNP
+ל	PREPOSITION
+שליטה	NN	gen=f|num=s
+ב	PREPOSITION
+אזור	NN	gen=m|num=s
+מסוים	JJ	gen=m|num=s
+או	CC
+ל	PREPOSITION
+ניצחון	NN	gen=m|num=s
+ב	PREPOSITION
+ה	DEF
+קרב	NN	gen=m|num=s
+היה	COP	gen=m|num=s|per=3|polar=pos|tense=PAST
+מנזר	NNT	gen=m|num=s
+סן	NNP	gen=f|gen=m|num=s
+סימון	NNP
+,	yyCM
+ו	CONJ
+לכן	CC
+היה	COP	gen=m|num=s|per=3|polar=pos|tense=PAST
+עלי	IN
+אנחנו@suf	S_PRN	gen=f|gen=m|num=p|per=1
+להשתלט	VB_TOINFINITIVE
+עלי	IN
+הוא@suf	S_PRN	gen=m|num=s|per=3
+.	yyDOT
+
+כתוב	BN	gen=m|num=s|per=a
+:	yyCLN
+"	yyQUOT
+ב	PREPOSITION
+חוכמה	NN	gen=f|num=s
+עשה	VB	gen=m|num=s|per=2|tense=IMPERATIVE
+ל	IN
+אתה@suf	S_PRN	gen=m|num=s|per=2
+מלחמה	NN	gen=f|num=s
+"	yyQUOT
+.	yyDOT
+
+אכן	RB
+,	yyCM
+כך	RB
+עשתה	VB	gen=f|num=s|per=3|tense=PAST
+חטיבת	NNT	gen=f|num=s
+"	yyQUOT
+הראל	NNP
+"	yyQUOT
+.	yyDOT
+
+היא	PRP	gen=f|num=s|per=3
+כבשה	VB	gen=f|num=s|per=3|tense=PAST
+תחילה	RB
+את	AT
+ה	DEF
+מנזר	NN	gen=m|num=s
+ו	CONJ
+את	AT
+התנגדות	NNT	gen=f|num=s
+ה	DEF
+אויב	NN	gen=m|num=s
+שברה	VB	gen=f|num=s|per=3|tense=PAST
+לאחר	IN
+מ	IN
+כן	??	per=3
+,	yyCM
+ב	PREPOSITION
+קרב	NNT	gen=m|num=s
+מגננה	NN	gen=f|num=s
+ש	REL
+התנהל	VB	gen=m|num=s|per=3|tense=PAST
+בתוך	IN
+ה	DEF
+מנזר	NN	gen=m|num=s
+-LRB-	yyLRB
+קרב	NNT	gen=m|num=s
+מגננה	NN	gen=f|num=s
+מיועד	BN	gen=m|num=s|per=a
+ל	PREPOSITION
+שבירת	NNT	gen=f|num=s
+כוחות	NN	gen=m|num=p
+חזקים	JJ	gen=m|num=p
+מ	IN
+אתה@suf	S_PRN	gen=m|num=s|per=2
+-RRB-	yyRRB
+.	yyDOT
+
+ה	DEF
+אויב	NN	gen=m|num=s
+אמנם	RB
+נשבר	VB	gen=m|num=s|per=3|tense=PAST
+;	yySCLN
+קרב	NNT	gen=m|num=s
+ה	DEF
+מגננה	NN	gen=f|num=s
+הפך	VB	gen=m|num=s|per=3|tense=PAST
+ל	PREPOSITION
+ניצחון	NN	gen=m|num=s
+מוחץ	JJ	gen=m|num=s
+;	yySCLN
+קטמון	NNP
+נפלה	VB	gen=f|num=s|per=3|tense=PAST
+ו	CONJ
+ירושלים	NNP
+ה	DEF
+מערבית	JJ	gen=f|num=s
+אוחדה	VB	gen=f|num=s|per=3|tense=PAST
+.	yyDOT
+
+ה	DEF
+מאמר	NN	gen=m|num=s
+,	yyCM
+ה	REL
+מצטט	BN	gen=m|num=s|per=a
+מ	PREPOSITION
+מחקרו	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=s|suf_per=3
+של	POS
+אורי	NNP
+מילשטיין	NNP
+:	yyCLN
+"	yyQUOT
+מלכתחילה	RB
+לא	RB
+היה	COP	gen=m|num=s|per=3|polar=pos|tense=PAST
+צריך	MD	gen=m|num=s|per=a
+לכבוש	VB_TOINFINITIVE
+את	AT
+ה	DEF
+מנזר	NN	gen=m|num=s
+...	yyELPS
+"	yyQUOT
+,	yyCM
+מצביע	BN	gen=m|num=s|per=a
+על	IN
+חוסר	NNT	gen=m|num=s
+הבנה	NN	gen=f|num=s
+אסטרטגית	JJ	gen=f|num=s
+ו	CONJ
+טקטית	JJ	gen=f|num=s
+ב	PREPOSITION
+סוגיה	NN	gen=f|num=s
+זו	PRP	gen=f|num=s|per=3
+.	yyDOT
+
+מורשת	NNT	gen=f|num=s
+ה	DEF
+קרב	NN	gen=m|num=s
+ש	REL
+צה"ל	NNP
+אימץ	VB	gen=m|num=s|per=3|tense=PAST
+כ	PREPOSITION
+תוצאה	NN	gen=f|num=s
+מ	PREPOSITION
+ה	DEF
+קרב	NN	gen=m|num=s
+על	IN
+מנזר	NNT	gen=m|num=s
+סן	NNP	gen=f|gen=m|num=s
+סימון	NNP
+איננה	COP	gen=f|num=s|per=3|polar=neg|tense=BEINONI
+מיתוס	NN	gen=m|num=s
+.	yyDOT
+
+היא	PRP	gen=f|num=s|per=3
+מבוססת	BN	gen=f|num=s|per=a
+על	IN
+אותו	PRP	gen=m|num=s|per=3
+קרב	NNT	gen=m|num=s
+ה	DEF
+מגננה	NN	gen=f|num=s
+ש	REL
+ב	IN
+הוא@suf	S_PRN	gen=m|num=s|per=3
+אירעו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+מעשי	NNT	gen=m|num=p
+גבורה	NN	gen=f|num=s
+עילאיים	JJ	gen=m|num=p
+,	yyCM
+ו	CONJ
+על	IN
+קבלת	NNT	gen=f|num=s
+החלטות	NN	gen=f|num=p
+קשות	JJ	gen=f|num=p
+ב	PREPOSITION
+תנאי	NNT	gen=m|num=p
+קרב	NN	gen=m|num=s
+.	yyDOT
+
+חוסר	NNT	gen=m|num=s
+ניסיון	NN	gen=m|num=s
+ו	CONJ
+עלילה	NN	gen=f|num=s
+זדונית	JJ	gen=f|num=s
+באים	BN	gen=m|num=p|per=a
+ל	PREPOSITION
+ביטוי	NN	gen=m|num=s
+ב	PREPOSITION
+קטע	NNT	gen=m|num=s
+ה	DEF
+מאמר	NN	gen=m|num=s
+ה	REL
+דן	BN	gen=m|num=s|per=a
+ב	PREPOSITION
+נושא	NNT	gen=m|num=s
+"	yyQUOT
+רצח	NNT	gen=m|num=s
+ה	DEF
+נזירות	NN	gen=f|num=p
+"	yyQUOT
+.	yyDOT
+
+כל	DTT
+ישראלי	NN	gen=m|num=s
+ה	REL
+מנוסה	BN	gen=m|num=s|per=a
+ב	PREPOSITION
+קרב	NNT	gen=m|num=s
+לילה	NN	gen=m|num=s
+ב	PREPOSITION
+שטח	NN	gen=m|num=s
+בנוי	JJ	gen=m|num=s
+-LRB-	yyLRB
+כ	PREPOSITION
+מנזר	NNT	gen=m|num=s
+סן	NNP	gen=f|gen=m|num=s
+סימון	NNP
+-RRB-	yyRRB
+יודע	BN	gen=m|num=s|per=a
+,	yyCM
+כי	CC
+תוך	IN
+כדי	IN
+פריצה	NN	gen=f|num=s
+ב	PREPOSITION
+ה	DEF
+חשכה	NN	gen=f|num=s
+קודם	RB
+כל	DTT
+יורים	BN	gen=m|num=p|per=a
+ב	PREPOSITION
+כל	DTT
+דבר	NN	gen=m|num=s
+ש	REL
+נע	BN	gen=m|num=s|per=a
+מ	PREPOSITION
+מול	IN
+אתה@suf	S_PRN	gen=m|num=s|per=2
+.	yyDOT
+
+ו	CONJ
+אכן	RB
+,	yyCM
+כך	RB
+קרה	VB	gen=m|num=s|per=3|tense=PAST
+ב	PREPOSITION
+ה	DEF
+פריצה	NN	gen=f|num=s
+ל	PREPOSITION
+ה	DEF
+מנזר	NN	gen=m|num=s
+ה	DEF
+חשוך	JJ	gen=m|num=s
+לחלוטין	RB
+.	yyDOT
+
+לא	RB
+נהרגו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+"	yyQUOT
+נזירות	NN	gen=f|num=p
+"	yyQUOT
+,	yyCM
+אלא	CC
+נשים	NN	gen=f|num=p
+ערביות	JJ	gen=f|num=p
+,	yyCM
+כנראה	RB
+משרתות	NN	gen=f|num=p
+ב	PREPOSITION
+ה	DEF
+מנזר	NN	gen=m|num=s
+.	yyDOT
+
+חבל	RB
+.	yyDOT
+
+איש	NN	gen=m|num=s
+לא	RB
+התכוון	VB	gen=m|num=s|per=3|tense=PAST
+ל	PREPOSITION
+כך	PRP	per=3
+.	yyDOT
+
+ציטוט	NN	gen=m|num=s
+מ	PREPOSITION
+ה	DEF
+מאמר	NN	gen=m|num=s
+:	yyCLN
+"	yyQUOT
+ב	PREPOSITION
+עת	NN	gen=f|num=s
+ש	REL
+נורתה	VB	gen=f|num=s|per=3|tense=PAST
+,	yyCM
+-LRB-	yyLRB
+ה	DEF
+נזירה	NN	gen=f|num=s
+-RRB-	yyRRB
+עסקה	VB	gen=f|num=s|per=3|tense=PAST
+ב	PREPOSITION
+טיפול	NN	gen=m|num=s
+ב	PREPOSITION
+פצועים	NN	gen=m|num=p
+"	yyQUOT
+.	yyDOT
+
+איזה	DTT
+פצועים	NN	gen=m|num=p
+?	yyQM
+
+הרי	CC
+כותב	NNT	gen=m|num=s
+ה	DEF
+מאמר	NN	gen=m|num=s
+קובע	BN	gen=m|num=s|per=a
+,	yyCM
+פסקה	NN	gen=f|num=s
+קודם	RB
+ל	PREPOSITION
+ה	DEF
+כן	PRP	per=3
+,	yyCM
+כי	CC
+ה	DEF
+מנזר	NN	gen=m|num=s
+היה	COP	gen=m|num=s|per=3|polar=pos|tense=PAST
+ריק	JJ	gen=m|num=s
+מ	PREPOSITION
+מגינים	NN	gen=m|num=p
+.	yyDOT
+
+אני	PRP	gen=f|gen=m|num=s|per=1
+הייתי	COP	gen=f|gen=m|num=s|per=1|polar=pos|tense=PAST
+שם	RB
+,	yyCM
+ו	CONJ
+כל	DTT
+תיאור	NNT	gen=m|num=s
+ה	DEF
+גווייה	NN	gen=f|num=s
+-LRB-	yyLRB
+"	yyQUOT
+זה	PRP	gen=m|num=s|per=3
+היה	COP	gen=m|num=s|per=3|polar=pos|tense=PAST
+מראה	NN	gen=m|num=s
+איום	JJ	gen=m|num=s
+של	POS
+דם	NN	gen=m|num=s
+ו	CONJ
+בשר	NN	gen=m|num=s
+ו	CONJ
+איברי	NNT	gen=m|num=p
+מין	NN	gen=m|num=s
+"	yyQUOT
+-RRB-	yyRRB
+הוא	COP	gen=m|num=s|per=3|polar=pos|tense=BEINONI
+שקר	NN	gen=m|num=s
+ו	CONJ
+כזב	NN	gen=m|num=s
+.	yyDOT
+
+לא	RB
+היה	COP	gen=m|num=s|per=3|polar=pos|tense=PAST
+כאן	RB
+רצח	NNT	gen=m|num=s
+נזירות	NN	gen=f|num=p
+,	yyCM
+אלא	CC
+ניסיון	NN	gen=m|num=s
+ל	PREPOSITION
+רצח	NNT	gen=m|num=s
+טוהר	NNT	gen=m|num=s
+ה	DEF
+נשק	NN	gen=m|num=s
+של	POS
+ה	DEF
+פלמ"ח	NNP
+ב	PREPOSITION
+טוהר	NNT	gen=m|num=s
+עט	NNT	gen=m|num=s
+ה	DEF
+סופרים	NN	gen=m|num=p
+של	POS
+ה	DEF
+כותב	NN	gen=m|num=s
+.	yyDOT
+
+ה	DEF
+ידיעה	NN	gen=f|num=s
+ש	REL
+פורסמה	VB	gen=f|num=s|per=3|tense=PAST
+תחת	IN
+ה	DEF
+כותרת	NN	gen=f|num=s
+:	yyCLN
+"	yyQUOT
+הורים	NN	gen=m|num=p
+ב	PREPOSITION
+בית	NNT	gen=m|num=s
+ה	DEF
+ספר	NN	gen=m|num=s
+ב	PREPOSITION
+נווה	NNP
+-	yyDASH
+מונוסון	NNP	gen=f|gen=m|num=s
+נגד	IN
+טיול	NN	gen=m|num=s
+ל	PREPOSITION
+ירושלים	NNP
+;	yySCLN
+טוענים	BN	gen=m|num=p|per=a
+:	yyCLN
+הפגנה	NN	gen=f|num=s
+פוליטית	JJ	gen=f|num=s
+"	yyQUOT
+;	yySCLN
+-LRB-	yyLRB
+"	yyQUOT
+ה	DEF
+ארץ	NN	gen=f|num=s
+"	yyQUOT
+,	yyCM
+0192	CD
+-RRB-	yyRRB
+,	yyCM
+הטרידה	VB	gen=f|num=s|per=3|tense=PAST
+אות	AT
+אני@suf	S_PRN	gen=f|gen=m|num=s|per=1
+מאוד	RB
+.	yyDOT
+
+נילי	NNP
+מנדלר	NNP	gen=f|gen=m|num=s
+,	yyCM
+ש	REL
+מסרה	VB	gen=f|num=s|per=3|tense=PAST
+את	AT
+ה	DEF
+ידיעה	NN	gen=f|num=s
+מ	PREPOSITION
+פי	NN_S_PP	compound=y|gen=m|num=s|suf_gen=f|suf_gen=m|suf_num=s|suf_per=1
+הורים	NN	gen=m|num=p
+-LRB-	yyLRB
+אין	RB
+יודעים	BN	gen=m|num=p|per=a
+אם	CC
+מדובר	BN	gen=m|num=s|per=a
+ב	PREPOSITION
+הורה	NN	gen=m|num=s
+בודד	JJ	gen=m|num=s
+,	yyCM
+או	CC
+ב	PREPOSITION
+קבוצת	NNT	gen=f|num=s
+הורים	NN	gen=m|num=p
+מסוימת	JJ	gen=f|num=s
+-RRB-	yyRRB
+,	yyCM
+כתבה	VB	gen=f|num=s|per=3|tense=PAST
+כי	CC
+"	yyQUOT
+אחד	CDT	gen=m|num=s
+ה	DEF
+הורים	NN	gen=m|num=p
+,	yyCM
+ש	REL
+החזיר	VB	gen=m|num=s|per=3|tense=PAST
+ל	PREPOSITION
+ה	DEF
+מנהלת	NN	gen=f|num=s
+את	AT
+ה	DEF
+ספח	NN	gen=m|num=s
+ה	DEF
+חוזר	JJ	gen=m|num=s
+ש	REL
+ב	IN
+הוא@suf	S_PRN	gen=m|num=s|per=3
+הביע	VB	gen=m|num=s|per=3|tense=PAST
+התנגדות	NN	gen=f|num=s
+ל	PREPOSITION
+השתתפות	NNT	gen=f|num=s
+ילדו	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=s|suf_per=3
+ב	PREPOSITION
+ה	DEF
+טיול	NN	gen=m|num=s
+,	yyCM
+טען	VB	gen=m|num=s|per=3|tense=PAST
+כי	CC
+"	yyQUOT
+זהו	PRP	gen=m|num=s|per=3
+חינוך	NN	gen=m|num=s
+פוליטי	JJ	gen=m|num=s
+כאשר	CC
+ילדינו	NN_S_PP	gen=m|num=p|suf_gen=f|suf_gen=m|suf_num=p|suf_per=1
+משמשים	BN	gen=m|num=p|per=a
+אמצעי	NN	gen=m|num=s
+חי	JJ	gen=m|num=s
+ל	PREPOSITION
+הפגנות	NN	gen=f|num=p
+"	yyQUOT
+.	yyDOT
+
+לשם	IN
+איזון	NNT	gen=m|num=s
+ה	DEF
+נושא	NN	gen=m|num=s
+,	yyCM
+על	IN
+אני@suf	S_PRN	gen=f|gen=m|num=s|per=1
+לציין	VB_TOINFINITIVE
+כי	CC
+אני	PRP	gen=f|gen=m|num=s|per=1
+נמנה	BN	gen=m|num=s|per=a
+על	IN
+ה	DEF
+הורים	NN	gen=m|num=p
+ש	REL
+הביעו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+את	AT
+הסכמתם	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=p|suf_per=3
+ל	PREPOSITION
+קיום	NNT	gen=m|num=s
+ה	DEF
+טיול	NN	gen=m|num=s
+.	yyDOT
+
+לא	RB
+רק	RB
+ש	REL
+אין	RB
+זה	PRP	gen=m|num=s|per=3
+עניין	NN	gen=m|num=s
+פוליטי	JJ	gen=m|num=s
+אלא	CC
+זה	PRP	gen=m|num=s|per=3
+נושא	NN	gen=m|num=s
+חינוכי	JJ	gen=m|num=s
+-	yyDASH
+לאומי	JJ	gen=m|num=s
+מ	PREPOSITION
+מדרגה	NN	gen=f|num=s
+ראשונה	JJ	gen=f|num=s
+.	yyDOT
+
+אני	PRP	gen=f|gen=m|num=s|per=1
+גם	RB
+מוכן	MD	gen=m|num=s|per=a
+להסתכן	VB_TOINFINITIVE
+ו	CONJ
+לשער	VB_TOINFINITIVE
+כי	CC
+ה	DEF
+הורה	NN	gen=m|num=s
+,	yyCM
+או	CC
+קבוצת	NNT	gen=f|num=s
+ה	DEF
+הורים	NN	gen=m|num=p
+ש	REL
+התנגדה	VB	gen=f|num=s|per=3|tense=PAST
+ל	PREPOSITION
+ה	DEF
+טיול	NN	gen=m|num=s
+,	yyCM
+מסתתרים	BN	gen=m|num=p|per=a
+תחת	IN
+ה	DEF
+מעטה	NN	gen=m|num=s
+של	POS
+טיעון	NN	gen=m|num=s
+פוליטי	JJ	gen=m|num=s
+נבוב	JJ	gen=m|num=s
+ו	CONJ
+למעשה	RB
+הם	PRP	gen=m|num=p|per=3
+פוחדים	BN	gen=m|num=p|per=a
+לשלוח	VB_TOINFINITIVE
+את	AT
+ילדיהם	NN_S_PP	gen=m|num=p|suf_gen=m|suf_num=p|suf_per=3
+שמא	CC
+איזה	DTT
+ערבי	NN	gen=m|num=s
+ינעץ	VB	gen=m|num=s|per=3|tense=FUTURE
+ב	IN
+המ@suf	S_PRN	gen=m|num=p|per=3
+סכין	NN	gen=f|gen=m|num=s
+ב	PREPOSITION
+ה	DEF
+גב	NN	gen=m|num=s
+.	yyDOT
+
+אני	PRP	gen=f|gen=m|num=s|per=1
+מוכן	MD	gen=m|num=s|per=a
+,	yyCM
+ו	CONJ
+רוצה	BN	gen=m|num=s|per=a
+,	yyCM
+לשלוח	VB_TOINFINITIVE
+את	AT
+ה	DEF
+ילד	NN	gen=m|num=s
+של	POS
+אני@suf	S_PRN	gen=f|gen=m|num=s|per=1
+ל	PREPOSITION
+ירושלים	NNP
+עם	IN
+זר	NNT	gen=m|num=s
+פרחים	NN	gen=m|num=p
+ו	CONJ
+עם	IN
+קופסת	NNT	gen=f|num=s
+ממתקים	NN	gen=m|num=p
+,	yyCM
+כדי	IN
+להביע	VB_TOINFINITIVE
+הוקרה	NN	gen=f|num=s
+ו	CONJ
+עידוד	NN	gen=m|num=s
+ל	PREPOSITION
+ה	DEF
+נכד	NN	gen=m|num=s
+של	POS
+אבא	NNP
+קובנר	NNP	gen=f|gen=m|num=s
+,	yyCM
+ש	REL
+חטף	VB	gen=m|num=s|per=3|tense=PAST
+סכין	NN	gen=f|gen=m|num=s
+ב	PREPOSITION
+ה	DEF
+ראש	NN	gen=m|num=s
+מידי	IN
+אותו	PRP	gen=m|num=s|per=3
+מרצח	NN	gen=m|num=s
+שפל	JJ	gen=m|num=s
+ש	REL
+דקר	VB	gen=m|num=s|per=3|tense=PAST
+ל	PREPOSITION
+ה	DEF
+מוות	NN	gen=m|num=s
+שלושה	CD	gen=m|num=s
+יהודים	NN	gen=m|num=p
+ב	PREPOSITION
+שכונת	NNT	gen=f|num=s
+בקעה	NN	gen=f|num=s
+.	yyDOT
+
+אני	PRP	gen=f|gen=m|num=s|per=1
+רוצה	BN	gen=m|num=s|per=a
+ש	REL
+ה	DEF
+ילד	NN	gen=m|num=s
+של	POS
+אני@suf	S_PRN	gen=f|gen=m|num=s|per=1
+יסתכל	VB	gen=m|num=s|per=3|tense=FUTURE
+ב	PREPOSITION
+ה	DEF
+עיניים	NN	gen=f|num=p
+של	POS
+ה	DEF
+ילד	NN	gen=m|num=s
+ה	DEF
+פגוע	JJ	gen=m|num=s
+ו	CONJ
+יגיד	VB	gen=m|num=s|per=3|tense=FUTURE
+ל	IN
+הוא@suf	S_PRN	gen=m|num=s|per=3
+:	yyCLN
+"	yyQUOT
+אתה	PRP	gen=m|num=s|per=2
+לא	RB
+לבדך	JJ	gen=m|num=s
+ב	PREPOSITION
+ירושלים	NNP
+,	yyCM
+כי	CC
+גם	RB
+אנחנו	PRP	gen=f|gen=m|num=p|per=1
+ה	REL
+גרים	BN	gen=m|num=p|per=a
+ב	PREPOSITION
+נווה	NNP
+-	yyDASH
+מונסון	NN	gen=m|num=s
+,	yyCM
+עם	IN
+אתה@suf	S_PRN	gen=m|num=s|per=2
+ב	PREPOSITION
+לב	NN	gen=m|num=s
+איתן	JJ	gen=m|num=s
+ביחד	RB
+"	yyQUOT
+.	yyDOT
+
+אני	PRP	gen=f|gen=m|num=s|per=1
+מוכן	MD	gen=m|num=s|per=a
+להעיד	VB_TOINFINITIVE
+כי	CC
+גם	RB
+אבי	NN_S_PP	gen=m|num=s|suf_gen=f|suf_gen=m|suf_num=s|suf_per=1
+ז"ל	JJ	gen=m|num=s
+,	yyCM
+ש	REL
+לקח	VB	gen=m|num=s|per=3|tense=PAST
+אות	AT
+אני@suf	S_PRN	gen=f|gen=m|num=s|per=1
+ב	PREPOSITION
+אוטובוס	NN	gen=m|num=s
+ל	PREPOSITION
+ירושלים	NNP
+ב	PREPOSITION
+שנת	NNT	gen=f|num=s
+תרצ"ח	NNP	gen=f|gen=m|num=s
+כאשר	CC
+ה	DEF
+ערבים	NN	gen=m|num=p
+ירו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+על	IN
+כביש	NNT	gen=m|num=s
+באב	NNP	gen=f|gen=m|num=s
+אל	NNP
+-	yyDASH
+ואד	NNP	gen=f|gen=m|num=s
+,	yyCM
+אמר	VB	gen=m|num=s|per=3|tense=PAST
+ל	IN
+אני@suf	S_PRN	gen=f|gen=m|num=s|per=1
+:	yyCLN
+"	yyQUOT
+אלי	NNP
+!	yyEXCL
+אם	CC
+תשמע	VB	gen=m|num=s|per=2|tense=FUTURE
+יריות	NN	gen=f|num=p
+תתכופף	VB	gen=m|num=s|per=2|tense=FUTURE
+,	yyCM
+אבל	CC
+אל	RB
+תפחד	VB	gen=m|num=s|per=2|tense=FUTURE
+"	yyQUOT
+.	yyDOT
+
+ו	CONJ
+לכן	CC
+אני	PRP	gen=f|gen=m|num=s|per=1
+אומר	BN	gen=m|num=s|per=a
+ל	PREPOSITION
+כל	DTT
+ילדי	NNT	gen=m|num=p
+ישראל	NNP
+:	yyCLN
+אל	RB
+תפחדו	VB	gen=f|gen=m|num=p|per=2|tense=FUTURE
+!	yyEXCL
+סעו	VB	gen=f|gen=m|num=p|per=2|tense=IMPERATIVE
+ל	PREPOSITION
+ירושלים	NNP
+,	yyCM
+אפילו	CC
+אם	CC
+יורים	BN	gen=m|num=p|per=a
+או	CC
+אם	CC
+מתעופפים	BN	gen=m|num=p|per=a
+שם	RB
+סכינים	NN	gen=f|gen=m|num=p
+.	yyDOT
+
+ה	DEF
+פטיש	NN	gen=m|num=s
+ה	DEF
+כבד	JJ	gen=m|num=s
+ש	REL
+הנחית	VB	gen=m|num=s|per=3|tense=PAST
+ה	DEF
+פועל	NN	gen=m|num=s
+ה	DEF
+ערבי	JJ	gen=m|num=s
+על	IN
+ראשיהם	NN_S_PP	gen=m|num=p|suf_gen=m|suf_num=p|suf_per=3
+של	POS
+מעסיקו	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=s|suf_per=3
+ו	CONJ
+חברו	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=s|suf_per=3
+,	yyCM
+ה	DEF
+סכין	NN	gen=f|gen=m|num=s
+ש	REL
+ידו	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=s|suf_per=3
+של	POS
+איש	NNT	gen=m|num=s
+ה	DEF
+מרכול	NN	gen=m|num=s
+תקעה	VB	gen=f|num=s|per=3|tense=PAST
+ב	PREPOSITION
+אחד	CDT	gen=m|num=s
+ה	DEF
+ספקים	NN	gen=m|num=p
+,	yyCM
+ו	CONJ
+רצח	NNT	gen=m|num=s
+ה	DEF
+מסעדן	NN	gen=m|num=s
+ב	PREPOSITION
+עין	NN	gen=f|num=s
+כרם	NN	gen=m|num=s
+זה	PRP	gen=m|num=s|per=3
+לא	RB
+מ	PREPOSITION
+כבר	RB
+על	IN
+-	yyDASH
+ידי	NNT	gen=f|num=p
+אחד	CD	gen=m|num=s
+מ	PREPOSITION
+עובדיו	NN_S_PP	gen=m|num=p|suf_gen=m|suf_num=s|suf_per=3
+,	yyCM
+אף	CC
+הוא	PRP	gen=m|num=s|per=3
+ערבי	NN	gen=m|num=s
+,	yyCM
+מעלה	BN	gen=m|num=s|per=a
+מ	PREPOSITION
+נבכי	NNT	gen=m|num=p
+ה	DEF
+זיכרון	NN	gen=m|num=s
+את	AT
+ה	DEF
+פתגם	NN	gen=m|num=s
+:	yyCLN
+"	yyQUOT
+ה	REL
+מגדל	BN	gen=m|num=s|per=a
+נחש	NNT	gen=m|num=s
+שפיפון	NN	gen=m|num=s
+ב	PREPOSITION
+ביתו	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=s|suf_per=3
+,	yyCM
+אל	RB
+יופתע	VB	gen=m|num=s|per=3|tense=FUTURE
+אם	CC
+ימצא	VB	gen=m|num=s|per=3|tense=FUTURE
+עצמו	PRP	gen=m|num=s|per=3
+מוכש	BN	gen=m|num=s|per=a
+"	yyQUOT
+.	yyDOT
+
+אני	PRP	gen=f|gen=m|num=s|per=1
+כותב	BN	gen=m|num=s|per=a
+זאת	PRP	gen=f|num=s|per=3
+ב	PREPOSITION
+צער	NN	gen=m|num=s
+ו	CONJ
+ב	IN
+רגשי	NNT	gen=m|num=p
+אשם	NN	gen=m|num=s
+;	yySCLN
+פעם	RB
+חשבתי	VB	gen=f|gen=m|num=s|per=1|tense=PAST
+אחרת	RB
+-LRB-	yyLRB
+על	IN
+ה	DEF
+ערבים	NN	gen=m|num=p
+,	yyCM
+לא	RB
+על	IN
+ה	DEF
+נחשים	NN	gen=m|num=p
+-RRB-	yyRRB
+.	yyDOT
+
+מסתבר	BN	gen=m|num=s|per=a
+ש	REL
+הייתי	COP	gen=f|gen=m|num=s|per=1|polar=pos|tense=PAST
+תמים	JJ	gen=m|num=s
+.	yyDOT
+
+מאמר	NNT	gen=m|num=s
+ה	DEF
+מערכת	NN	gen=f|num=s
+ש	REL
+התפרסם	VB	gen=m|num=s|per=3|tense=PAST
+תחת	IN
+ה	DEF
+כותרת	NN	gen=f|num=s
+"	yyQUOT
+יחדל	VB	gen=m|num=s|per=3|tense=FUTURE
+נא	INTJ
+מילוא	NN	gen=m|num=s
+להתלבט	VB_TOINFINITIVE
+"	yyQUOT
+-LRB-	yyLRB
+"	yyQUOT
+ה	DEF
+ארץ	NN	gen=f|num=s
+"	yyQUOT
+,	yyCM
+111	CD
+-RRB-	yyRRB
+,	yyCM
+תובע	BN	gen=m|num=s|per=a
+למצות	VB_TOINFINITIVE
+את	AT
+ה	DEF
+דין	NN	gen=m|num=s
+עם	IN
+ה	DEF
+מפכ"ל	NN	gen=m|num=s
+ו	CONJ
+קציני	NNT	gen=m|num=p
+ה	DEF
+משטרה	NN	gen=f|num=s
+ה	DEF
+בכירים	JJ	gen=m|num=p
+בגלל	IN
+מחדליהם	NN_S_PP	gen=m|num=p|suf_gen=m|suf_num=p|suf_per=3
+ב	PREPOSITION
+אירועי	NNT	gen=m|num=p
+הר	NNT	gen=m|num=s
+ה	DEF
+בית	NN	gen=m|num=s
+.	yyDOT
+
+זהו	PRP	gen=m|num=s|per=3
+כישלונו	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=s|suf_per=3
+ה	DEF
+יחיד	JJ	gen=m|num=s
+עד	IN
+כה	RB
+של	POS
+ה	DEF
+מפכ"ל	NN	gen=m|num=s
+,	yyCM
+ש	REL
+נגרם	VB	gen=m|num=s|per=3|tense=PAST
+רק	RB
+בגלל	IN
+ה	DEF
+עובדה	NN	gen=f|num=s
+ש	REL
+הוא	PRP	gen=m|num=s|per=3
+סמך	VB	gen=m|num=s|per=3|tense=PAST
+יותר	RB
+מדי	RB
+על	IN
+קציניו	NN_S_PP	gen=m|num=p|suf_gen=m|suf_num=s|suf_per=3
+ה	DEF
+בכירים	JJ	gen=m|num=p
+.	yyDOT
+
+אם	CC
+כל	DTT
+נושא	NNT	gen=m|num=s
+משרה	NN	gen=f|num=s
+יפוטר	VB	gen=m|num=s|per=3|tense=FUTURE
+מיד	RB
+עם	IN
+ה	DEF
+שגיאה	NN	gen=f|num=s
+ה	DEF
+ראשונה	JJ	gen=f|num=s
+,	yyCM
+תסבול	VB	gen=f|num=s|per=3|tense=FUTURE
+ה	DEF
+מדינה	NN	gen=f|num=s
+מ	PREPOSITION
+סבב	NN	gen=m|num=s
+בלתי	P
+פוסק	BN	gen=m|num=s|per=a
+של	POS
+בעלי	NNT	gen=m|num=p
+תפקידים	NN	gen=m|num=p
+בכירים	JJ	gen=m|num=p
+,	yyCM
+חסרי	JJT	gen=m|num=p
+ניסיון	NN	gen=m|num=s
+ו	CONJ
+חסרי	JJT	gen=m|num=p
+ביטחון	NN	gen=m|num=s
+.	yyDOT
+
+מתקבל	BN	gen=m|num=s|per=a
+ה	DEF
+רושם	NN	gen=m|num=s
+ש	REL
+ה	DEF
+יחידים	JJ	gen=m|num=p
+ב	PREPOSITION
+ה	DEF
+מדינה	NN	gen=f|num=s
+ה	DEF
+זו	PRP	gen=f|num=s|per=3
+ש	REL
+אינם	COP	gen=m|num=p|per=3|polar=neg|tense=BEINONI
+צריכים	MD	gen=m|num=p|per=a
+לחשוש	VB_TOINFINITIVE
+מ	PREPOSITION
+תוצאות	NNT	gen=f|num=p
+מעשיהם	NN_S_PP	gen=m|num=p|suf_gen=m|suf_num=p|suf_per=3
+הם	COP	gen=m|num=p|per=3|polar=pos|tense=BEINONI
+ה	DEF
+פוליטיקאים	NN	gen=m|num=p
+.	yyDOT
+
+אלה	PRP	gen=m|num=p|per=3
+לא	RB
+נופלים	BN	gen=m|num=p|per=a
+כ	PREPOSITION
+תוצאה	NN	gen=f|num=s
+מ	PREPOSITION
+שגיאות	NN	gen=f|num=p
+או	CC
+מ	PREPOSITION
+מחדלים	NN	gen=m|num=p
+,	yyCM
+או	CC
+אפילו	CC
+מ	PREPOSITION
+התנהגות	NN	gen=f|num=s
+פסולה	JJ	gen=f|num=s
+,	yyCM
+אלא	CC
+רק	RB
+בשל	IN
+משחקי	NNT	gen=m|num=p
+כוח	NN	gen=m|num=s
+פוליטיים	JJ	gen=m|num=p
+.	yyDOT
+
+המלצה	NN	gen=f|num=s
+ל	PREPOSITION
+פיטורי	NNT	gen=m|num=p
+שר	NN	gen=m|num=s
+או	CC
+נושא	NNT	gen=m|num=s
+משרה	NN	gen=f|num=s
+פוליטית	JJ	gen=f|num=s
+,	yyCM
+מצד	IN
+בית	NNT	gen=m|num=s
+ה	DEF
+משפט	NN	gen=m|num=s
+ה	DEF
+עליון	JJ	gen=m|num=s
+או	CC
+מצד	IN
+ועדת	NNT	gen=f|num=s
+חקירה	NN	gen=f|num=s
+נופלת	BN	gen=f|num=s|per=a
+תמיד	RB
+על	IN
+אוזניים	NN	gen=f|num=p
+ערלות	JJ	gen=f|num=p
+;	yySCLN
+אבל	CC
+כש	TEMP
+אפשר	MD
+להטיל	VB_TOINFINITIVE
+את	AT
+ה	DEF
+אשמה	NN	gen=f|num=s
+על	IN
+קצין	NNT	gen=m|num=s
+צבא	NN	gen=m|num=s
+או	CC
+משטרה	NN	gen=f|num=s
+,	yyCM
+מוטל	BN	gen=m|num=s|per=a
+גורלם	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=p|suf_per=3
+של	POS
+אלה	PRP	gen=m|num=p|per=3
+על	IN
+כף	NNT	gen=f|num=s
+ה	DEF
+מאזניים	NN	gen=m|num=p
+.	yyDOT
+
+אני	PRP	gen=f|gen=m|num=s|per=1
+תמה	BN	gen=m|num=s|per=a
+על	IN
+"	yyQUOT
+ה	DEF
+ארץ	NN	gen=f|num=s
+"	yyQUOT
+ש	REL
+הזדרז	VB	gen=m|num=s|per=3|tense=PAST
+לשחק	VB_TOINFINITIVE
+ל	PREPOSITION
+ידיהם	NN_S_PP	gen=f|num=p|suf_gen=m|suf_num=p|suf_per=3
+של	POS
+ה	DEF
+פוליטיקאים	NN	gen=m|num=p
+,	yyCM
+ה	DEF
+מעוניינים	MD	gen=m|num=p
+להיפטר	VB_TOINFINITIVE
+מ	PREPOSITION
+ה	DEF
+מפכ"ל	NN	gen=m|num=s
+ה	DEF
+נוכחי	JJ	gen=m|num=s
+.	yyDOT
+
+ב	PREPOSITION
+עיתונים	NN	gen=m|num=p
+רבים	JJ	gen=m|num=p
+פורסם	VB	gen=m|num=s|per=3|tense=PAST
+מכתבה	NN_S_PP	gen=m|num=s|suf_gen=f|suf_num=s|suf_per=3
+של	POS
+מלי	NNP
+פיליפסבורן	NNP	gen=f|gen=m|num=s
+,	yyCM
+יו"ר	NNT	gen=m|num=s
+ארגון	NNT	gen=m|num=s
+נפגעי	NNT	gen=m|num=p
+ה	DEF
+משכנתאות	NN	gen=f|num=p
+ו	CONJ
+חסרי	NNT	gen=m|num=p
+ה	DEF
+דיור	NN	gen=m|num=s
+,	yyCM
+תחת	IN
+ה	DEF
+כותרת	NN	gen=f|num=s
+"	yyQUOT
+אל	RB
+תיגעו	VB	gen=f|gen=m|num=p|per=2|tense=FUTURE
+ב	PREPOSITION
+ה	DEF
+משכנתא	NN	gen=f|num=s
+"	yyQUOT
+.	yyDOT
+
+ב	PREPOSITION
+רצוני	NN_S_PP	gen=m|num=s|suf_gen=f|suf_gen=m|suf_num=s|suf_per=1
+להדגיש	VB_TOINFINITIVE
+משפט	NN	gen=m|num=s
+אחד	CD	gen=m|num=s
+ב	PREPOSITION
+דבריה	NN_S_PP	gen=m|num=p|suf_gen=f|suf_num=s|suf_per=3
+:	yyCLN
+"	yyQUOT
+אנו	PRP	gen=f|gen=m|num=p|per=1
+,	yyCM
+נפגעי	NNT	gen=m|num=p
+ה	DEF
+משכנתאות	NN	gen=f|num=p
+,	yyCM
+נקלענו	VB	gen=f|gen=m|num=p|per=1|tense=PAST
+ל	PREPOSITION
+מצבנו	NN_S_PP	gen=m|num=s|suf_gen=f|suf_gen=m|suf_num=p|suf_per=1
+ה	DEF
+קשה	JJ	gen=m|num=s
+לא	RB
+בגלל	IN
+ריבית	NN	gen=f|num=s
+נמוכה	JJ	gen=f|num=s
+,	yyCM
+אלא	CC
+בגלל	IN
+ה	DEF
+אינפלציה	NN	gen=f|num=s
+ו	CONJ
+ה	DEF
+הצמדה	NN	gen=f|num=s
+"	yyQUOT
+.	yyDOT
+
+מלים	NN	gen=f|num=p
+כ	PREPOSITION
+דורבנות	NN	gen=m|num=p
+,	yyCM
+ה	REL
+תואמות	BN	gen=f|num=p|per=a
+במדויק	RB
+את	AT
+מה	QW
+ש	REL
+ה	DEF
+חתום	BN	gen=m|num=s|per=a
+מטה	RB
+טען	VB	gen=m|num=s|per=3|tense=PAST
+במשך	IN
+שנים	NN	gen=f|num=p
+רבות	JJ	gen=f|num=p
+.	yyDOT
+
+זו	PRP	gen=f|num=s|per=3
+לא	RB
+ה	DEF
+ריבית	NN	gen=f|num=s
+ש	REL
+סיבכה	VB	gen=f|num=s|per=3|tense=PAST
+את	AT
+מקבלי	NNT	gen=m|num=p
+ה	DEF
+משכנתאות	NN	gen=f|num=p
+או	CC
+לקוחות	NNT	gen=m|num=p
+ה	DEF
+בנקים	NN	gen=m|num=p
+ה	DEF
+אחרים	JJ	gen=m|num=p
+.	yyDOT
+
+יתר	NN	gen=m|num=s
+-	yyDASH
+על	IN
+-	yyDASH
+כן	PRP	per=3
+,	yyCM
+ה	DEF
+ריבית	NN	gen=f|num=s
+ב	PREPOSITION
+ישראל	NNP
+במיוחד	RB
+על	IN
+משכנתאות	NN	gen=f|num=p
+היא	COP	gen=f|num=s|per=3|polar=pos|tense=BEINONI
+מ	PREPOSITION
+ה	DEF
+נמוכות	JJ	gen=f|num=p
+ביותר	RB
+ב	PREPOSITION
+ה	DEF
+עולם	NN	gen=m|num=s
+,	yyCM
+אם	CC
+לא	RB
+ה	DEF
+נמוכה	JJ	gen=f|num=s
+ש	REL
+ב	IN
+הנ@suf	S_PRN	gen=f|num=p|per=3
+.	yyDOT
+
+ו	CONJ
+באשר	CC
+ל	PREPOSITION
+ה	DEF
+הצמדה	NN	gen=f|num=s
+ו	CONJ
+ל	PREPOSITION
+ה	DEF
+אינפלציה	NN	gen=f|num=s
+ה	DEF
+כתובת	NN	gen=f|num=s
+אינה	COP	gen=f|num=s|per=3|polar=neg|tense=BEINONI
+ה	DEF
+בנקים	NN	gen=m|num=p
+.	yyDOT
+
+ב	PREPOSITION
+ה	DEF
+16	CD
+ב	PREPOSITION
+אוקטובר	NNP
+הגיע	VB	gen=m|num=s|per=3|tense=PAST
+אל	IN
+ה	DEF
+עיר	NN	gen=f|num=s
+דה	NNP
+מוין	NNP	gen=f|gen=m|num=s
+,	yyCM
+ב	PREPOSITION
+ה	DEF
+מערב	NN	gen=m|num=s
+ה	DEF
+תיכון	JJ	gen=m|num=s
+של	POS
+ארצות	NNT	gen=f|num=p
+ה	DEF
+ברית	NN	gen=f|num=s
+,	yyCM
+ה	DEF
+נשיא	NN	gen=m|num=s
+גורג	NNP
+בוש	NNP
+.	yyDOT
+
+כאן	RB
+הוא	PRP	gen=m|num=s|per=3
+גם	RB
+נתקל	VB	gen=m|num=s|per=3|tense=PAST
+ב	PREPOSITION
+ה	DEF
+הפגנה	NN	gen=f|num=s
+ה	DEF
+ראשונה	JJ	gen=f|num=s
+נגד	IN
+מלחמה	NN	gen=f|num=s
+ב	PREPOSITION
+ה	DEF
+מפרץ	NN	gen=m|num=s
+ה	DEF
+פרסי	JJ	gen=m|num=s
+.	yyDOT
+
+"	yyQUOT
+לא	RB
+נשפוך	VB	gen=f|gen=m|num=p|per=1|tense=FUTURE
+דם	NN	gen=m|num=s
+למען	IN
+נפט	NN	gen=m|num=s
+"	yyQUOT
+,	yyCM
+קראו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+לעבר	IN
+הוא@suf	S_PRN	gen=m|num=s|per=3
+כמה	DTT
+צעירים	NN	gen=m|num=p
+ב	PREPOSITION
+אסיפת	NNT	gen=f|num=s
+בחירות	NN	gen=f|num=p
+ל	PREPOSITION
+טובת	NNT	compound=y|gen=f|num=s
+מועמד	NN	gen=m|num=s
+רפובליקאי	JJ	gen=m|num=s
+.	yyDOT
+
+"	yyQUOT
+לא	RB
+נפט	NN	gen=m|num=s
+"	yyQUOT
+,	yyCM
+כעס	VB	gen=m|num=s|per=3|tense=PAST
+ה	DEF
+נשיא	NN	gen=m|num=s
+,	yyCM
+"	yyQUOT
+מדובר	BN	gen=m|num=s|per=a
+פה	RB
+ב	PREPOSITION
+תוקפנות	NN	gen=f|num=s
+גלויה	JJ	gen=f|num=s
+"	yyQUOT
+.	yyDOT
+
+איובה	NNP
+היא	COP	gen=f|num=s|per=3|polar=pos|tense=BEINONI
+מקום	NN	gen=m|num=s
+לא	RB
+-	yyDASH
+שגרתי	JJ	gen=m|num=s
+.	yyDOT
+
+אומרים	BN	gen=m|num=p|per=a
+עלי	IN
+היא@suf	S_PRN	gen=f|num=s|per=3
+,	yyCM
+ש	REL
+יש	EX
+ב	IN
+היא@suf	S_PRN	gen=f|num=s|per=3
+יותר	RB
+ארגונים	NN	gen=m|num=p
+פציפיסטיים	JJ	gen=m|num=p
+ל	PREPOSITION
+קילומטר	NN	gen=m|num=s
+מרובע	JJ	gen=m|num=s
+מאשר	CC
+ב	PREPOSITION
+כל	DTT
+מדינה	NN	gen=f|num=s
+אחרת	JJ	gen=f|num=s
+של	POS
+ארה"ב	NNP
+.	yyDOT
+
+פציפיזם	NN	gen=m|num=s
+אינו	COP	gen=m|num=s|per=3|polar=neg|tense=BEINONI
+מוגבל	BN	gen=m|num=s|per=a
+ב	PREPOSITION
+איובה	NNP
+ל	PREPOSITION
+סטודנטים	NN	gen=m|num=p
+רדיקליים	JJ	gen=m|num=p
+,	yyCM
+אפשר	MD
+למצוא	VB_TOINFINITIVE
+אות	AT
+הוא@suf	S_PRN	gen=m|num=s|per=3
+גם	RB
+בין	IN
+חקלאים	NN	gen=m|num=p
+ו	CONJ
+פועלי	NNT	gen=m|num=p
+חרושת	NN	gen=f|num=s
+.	yyDOT
+
+איובה	NNP
+היא	COP	gen=f|num=s|per=3|polar=pos|tense=BEINONI
+מ	PREPOSITION
+אסמי	NNT	gen=m|num=p
+ה	DEF
+דגנים	NN	gen=m|num=p
+של	POS
+ארה"ב	NNP
+,	yyCM
+ו	CONJ
+ל	PREPOSITION
+פרנסתה	NN_S_PP	gen=f|num=s|suf_gen=f|suf_num=s|suf_per=3
+היא	PRP	gen=f|num=s|per=3
+מייצאת	BN	gen=f|num=s|per=a
+אות	AT
+המ@suf	S_PRN	gen=m|num=p|per=3
+ל	PREPOSITION
+מדינות	NN	gen=f|num=p
+כ	PREPOSITION
+ברית	NNT	gen=f|num=s
+ה	DEF
+מועצות	NN	gen=f|num=p
+.	yyDOT
+
+ב	PREPOSITION
+0891	CD
+נקלעה	VB	gen=f|num=s|per=3|tense=PAST
+איובה	NNP
+,	yyCM
+יחד	RB
+עם	IN
+מדינות	NN	gen=f|num=p
+חקלאיות	JJ	gen=f|num=p
+אחרות	JJ	gen=f|num=p
+ב	PREPOSITION
+ה	DEF
+מערב	NN	gen=m|num=s
+ה	DEF
+תיכון	JJ	gen=m|num=s
+,	yyCM
+ל	PREPOSITION
+סחרור	NN	gen=m|num=s
+קשה	JJ	gen=m|num=s
+:	yyCLN
+ה	DEF
+נשיא	NN	gen=m|num=s
+גימי	NNP
+קרטר	NNP
+החליט	VB	gen=m|num=s|per=3|tense=PAST
+להטיל	VB_TOINFINITIVE
+חרם	NNT	gen=m|num=s
+דגנים	NN	gen=m|num=p
+על	IN
+ה	DEF
+סובייטים	NN	gen=m|num=p
+,	yyCM
+בגלל	IN
+פלישתם	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=p|suf_per=3
+ל	PREPOSITION
+אפגניסטן	NNP
+.	yyDOT
+
+איובה	NNP
+שילמה	VB	gen=f|num=s|per=3|tense=PAST
+את	AT
+ה	DEF
+מחיר	NN	gen=m|num=s
+עד	IN
+אמצע	NNT	gen=m|num=s
+שנות	NNT	gen=f|num=p
+ה	DEF
+80	CD
+.	yyDOT
+
+כלכלתה	NN_S_PP	gen=f|num=s|suf_gen=f|suf_num=s|suf_per=3
+היתה	COP	gen=f|num=s|per=3|polar=pos|tense=PAST
+שקועה	BN	gen=f|num=s|per=a
+ב	PREPOSITION
+מיתון	NN	gen=m|num=s
+קשה	JJ	gen=m|num=s
+,	yyCM
+ב	PREPOSITION
+שעה	NN	gen=f|num=s
+ש	REL
+רוב	DTT
+ה	DEF
+מדינות	NN	gen=f|num=p
+ה	DEF
+אחרות	JJ	gen=f|num=p
+ב	PREPOSITION
+ארה"ב	NNP
+נהנו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+מ	PREPOSITION
+שגשוג	NN	gen=m|num=s
+חסר	JJT	gen=m|num=s
+תקדים	NN	gen=m|num=s
+.	yyDOT
+
+לא	RB
+רק	RB
+מניעים	NN	gen=m|num=p
+אלטרואיסטיים	JJ	gen=m|num=p
+מעוררים	BN	gen=m|num=p|per=a
+איפוא	CC
+ב	PREPOSITION
+איובה	NNP
+התנגדות	NN	gen=f|num=s
+ל	PREPOSITION
+מלחמות	NN	gen=f|num=p
+,	yyCM
+אלא	CC
+גם	RB
+מניעים	NN	gen=m|num=p
+תועלתניים	JJ	gen=m|num=p
+.	yyDOT
+
+כאן	RB
+אין	RB
+אוהבים	BN	gen=m|num=p|per=a
+ביותר	RB
+את	AT
+ה	DEF
+רעיון	NN	gen=m|num=s
+של	POS
+מלחמה	NN	gen=f|num=s
+ב	PREPOSITION
+ה	DEF
+מפרץ	NN	gen=m|num=s
+ה	DEF
+פרסי	JJ	gen=m|num=s
+.	yyDOT
+
+יום	NN	gen=m|num=s
+אחד	CD	gen=m|num=s
+ב	PREPOSITION
+ה	DEF
+שבוע	NN	gen=m|num=s
+ש	REL
+עבר	VB	gen=m|num=s|per=3|tense=PAST
+מרח	VB	gen=m|num=s|per=3|tense=PAST
+ה	DEF
+עיתון	NN	gen=m|num=s
+ה	DEF
+מקומי	JJ	gen=m|num=s
+"	yyQUOT
+דה	NNP
+מוין	NNP	gen=f|gen=m|num=s
+רגיסטר	NNP	gen=f|gen=m|num=s
+"	yyQUOT
+כותרת	NN	gen=f|num=s
+ענקית	JJ	gen=f|num=s
+ל	PREPOSITION
+רוחב	NN	compound=y|gen=m|num=s
+מלוא	NNT	gen=m|num=s
+ה	DEF
+עמוד	NN	gen=m|num=s
+ה	DEF
+ראשון	JJ	gen=m|num=s
+של	POS
+מוספו	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=s|suf_per=3
+ה	DEF
+יומי	JJ	gen=m|num=s
+.	yyDOT
+
+"	yyQUOT
+,	yyCM
+אמרה	VB	gen=f|num=s|per=3|tense=PAST
+ה	DEF
+כותרת	NN	gen=f|num=s
+ב	PREPOSITION
+אנגלית	NNP
+,	yyCM
+"	yyQUOT
+שלום	NN	gen=m|num=s
+עכשיו	RB
+"	yyQUOT
+.	yyDOT
+
+לצד	IN
+ה	DEF
+אותיות	NN	gen=f|num=p
+ה	DEF
+אדומות	JJ	gen=f|num=p
+הציב	VB	gen=m|num=s|per=3|tense=PAST
+ה	DEF
+עיתון	NN	gen=m|num=s
+את	AT
+סמל	NNT	gen=m|num=s
+תנועת	NNT	gen=f|num=s
+ה	DEF
+התנגדות	NN	gen=f|num=s
+ל	PREPOSITION
+מלחמת	NNT	gen=f|num=s
+וייטנאם	NNP
+.	yyDOT
+
+ב	PREPOSITION
+יום	NN	gen=m|num=s
+אחר	JJ	gen=m|num=s
+פירסם	VB	gen=m|num=s|per=3|tense=PAST
+ה	DEF
+עיתון	NN	gen=m|num=s
+ב	PREPOSITION
+עמוד	NNT	gen=m|num=s
+מאמרי	NNT	gen=m|num=p
+ה	DEF
+מערכת	NN	gen=f|num=s
+של	POS
+הוא@suf	S_PRN	gen=m|num=s|per=3
+קריקטורה	NN	gen=f|num=s
+מקפיאת	JJT	gen=f|num=s
+דם	NN	gen=m|num=s
+.	yyDOT
+
+נראה	VB	gen=m|num=s|per=3|tense=PAST
+ב	IN
+היא@suf	S_PRN	gen=f|num=s|per=3
+מלאך	NNT	gen=m|num=s
+ה	DEF
+מוות	NN	gen=m|num=s
+חבוש	JJT	gen=m|num=s
+כאפייה	NN	gen=f|num=s
+,	yyCM
+ו	CONJ
+מ	PREPOSITION
+פיו	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=s|suf_per=3
+בוקעות	BN	gen=f|num=p|per=a
+ה	DEF
+מלים	NN	gen=f|num=p
+:	yyCLN
+"	yyQUOT
+קרא	VB	gen=m|num=s|per=2|tense=IMPERATIVE
+את	AT
+שפתיי	NN_S_PP	gen=f|num=p|suf_gen=f|suf_gen=m|suf_num=s|suf_per=1
+,	yyCM
+גורג	NNP
+לא	RB
+תהיה	COP	gen=f|num=s|per=3|polar=pos|tense=FUTURE
+עוד	RB
+וייטנאם	NNP
+"	yyQUOT
+.	yyDOT
+
+"	yyQUOT
+גורג	NNP
+"	yyQUOT
+הוא	COP	gen=m|num=s|per=3|polar=pos|tense=BEINONI
+כמובן	RB
+גורג	NNP
+בוש	NNP
+.	yyDOT
+
+"	yyQUOT
+קרא	VB	gen=m|num=s|per=2|tense=IMPERATIVE
+את	AT
+שפתיי	NN_S_PP	gen=f|num=p|suf_gen=f|suf_gen=m|suf_num=s|suf_per=1
+...	yyELPS
+"	yyQUOT
+היא	COP	gen=f|num=s|per=3|polar=pos|tense=BEINONI
+פאראפראזה	NN	gen=f|num=s
+על	IN
+סיסמת	NNT	gen=f|num=s
+ה	DEF
+בחירות	NN	gen=f|num=p
+ה	DEF
+כוזבת	JJ	gen=f|num=s
+של	POS
+ה	DEF
+נשיא	NN	gen=m|num=s
+מ	PREPOSITION
+8891	CD
+,	yyCM
+"	yyQUOT
+קראו	VB	gen=f|gen=m|num=p|per=2|tense=IMPERATIVE
+את	AT
+שפתיי	NN_S_PP	gen=f|num=p|suf_gen=f|suf_gen=m|suf_num=s|suf_per=1
+לא	RB
+יהיו	COP	gen=f|gen=m|num=p|per=3|polar=pos|tense=FUTURE
+מסים	NN	gen=m|num=p
+חדשים	JJ	gen=m|num=p
+"	yyQUOT
+.	yyDOT
+
+ב	PREPOSITION
+מהלך	NN	compound=y|gen=m|num=s
+נשף	NNT	gen=m|num=s
+התרמה	NN	gen=f|num=s
+ל	PREPOSITION
+טום	NNP
+הארקין	NNP
+,	yyCM
+ה	DEF
+סנאטור	NN	gen=m|num=s
+ה	DEF
+דמוקרטי	JJ	gen=m|num=s
+ש	REL
+העמיד	VB	gen=m|num=s|per=3|tense=PAST
+את	AT
+עצמו	PRP	gen=m|num=s|per=3
+השבוע	RB
+ל	PREPOSITION
+בחירה	NN	gen=f|num=s
+חוזרת	JJ	gen=f|num=s
+,	yyCM
+הסביר	VB	gen=m|num=s|per=3|tense=PAST
+ל	IN
+אני@suf	S_PRN	gen=f|gen=m|num=s|per=1
+ב	PREPOSITION
+אריכות	NN	gen=f|num=s
+אחד	CDT	gen=m|num=s
+ה	DEF
+נוכחים	BN	gen=m|num=p|per=a
+כיצד	QW
+יכולה	MD	gen=f|num=s|per=a|tense=BEINONI
+ארה"ב	NNP
+ליישב	VB_TOINFINITIVE
+את	AT
+סכסוך	NNT	gen=m|num=s
+ה	DEF
+מפרץ	NN	gen=m|num=s
+ה	DEF
+פרסי	JJ	gen=m|num=s
+,	yyCM
+"	yyQUOT
+אם	CC
+רק	RB
+תביא	VB	gen=f|num=s|per=3|tense=FUTURE
+את	AT
+ה	DEF
+עניין	NN	gen=m|num=s
+לפני	IN
+בית	NNT	gen=m|num=s
+ה	DEF
+משפט	NN	gen=m|num=s
+ה	DEF
+בין	P
+-	yyDASH
+לאומי	JJ	gen=m|num=s
+"	yyQUOT
+ב	PREPOSITION
+האג	NNP
+.	yyDOT
+
+התבוננתי	VB	gen=f|gen=m|num=s|per=1|tense=PAST
+ב	PREPOSITION
+בן	NNT	gen=m|num=s
+שיחי	NN_S_PP	gen=m|num=s|suf_gen=f|suf_gen=m|suf_num=s|suf_per=1
+ב	PREPOSITION
+הפתעה	NN	gen=f|num=s
+ניכרת	JJ	gen=f|num=s
+.	yyDOT
+
+טיעונים	NN	gen=m|num=p
+כ	PREPOSITION
+ה	DEF
+אלה	PRP	gen=m|num=p|per=3
+,	yyCM
+ש	REL
+פעם	RB
+היו	COP	gen=f|gen=m|num=p|per=3|polar=pos|tense=PAST
+מקובלים	JJ	gen=m|num=p
+בין	IN
+ליברלים	NN	gen=m|num=p
+ב	PREPOSITION
+ארה"ב	NNP
+,	yyCM
+לא	RB
+שמעתי	VB	gen=f|gen=m|num=s|per=1|tense=PAST
+כבר	RB
+הרבה	DTT
+זמן	NN	gen=m|num=s
+.	yyDOT
+
+ב	PREPOSITION
+מעמקי	NNT	gen=m|num=p
+ה	DEF
+מערב	NN	gen=m|num=s
+ה	DEF
+תיכון	JJ	gen=m|num=s
+של	POS
+ארה"ב	NNP
+קל	MD	gen=m|num=s|tense=PAST
+להאמין	VB_TOINFINITIVE
+ש	REL
+ה	DEF
+עולם	NN	gen=m|num=s
+נברא	VB	gen=m|num=s|per=3|tense=PAST
+ב	PREPOSITION
+צלם	NNT	gen=m|num=s
+אמריקה	NNP
+,	yyCM
+ש	REL
+הוא	PRP	gen=m|num=s|per=3
+מלא	JJ	gen=m|num=s
+אנשים	NN	gen=m|num=p
+הגיוניים	JJ	gen=m|num=p
+ו	CONJ
+פרגמטיים	JJ	gen=m|num=p
+,	yyCM
+ו	CONJ
+ש	REL
+ה	DEF
+אותוריטה	NN	gen=f|num=s
+ה	DEF
+מוסרית	JJ	gen=f|num=s
+של	POS
+מוסד	NN	gen=m|num=s
+ש	REL
+איש	NN	gen=m|num=s
+,	yyCM
+כולל	BN	gen=m|num=s|per=a
+ארה"ב	NNP
+,	yyCM
+מעולם	RB
+לא	RB
+לקח	VB	gen=m|num=s|per=3|tense=PAST
+ב	PREPOSITION
+רצינות	NN	gen=f|num=s
+תעשה	VB	gen=f|num=s|per=3|tense=FUTURE
+רושם	NN	gen=m|num=s
+מיידי	JJ	gen=m|num=s
+על	IN
+סדאם	NNP
+חוסיין	NNP
+.	yyDOT
+
+ה	DEF
+משבר	NN	gen=m|num=s
+ב	PREPOSITION
+ה	DEF
+מפרץ	NN	gen=m|num=s
+ה	DEF
+פרסי	JJ	gen=m|num=s
+לא	RB
+היה	COP	gen=m|num=s|per=3|polar=pos|tense=PAST
+נושא	NNT	gen=m|num=s
+בחירות	NN	gen=f|num=p
+מרכזי	JJ	gen=m|num=s
+ב	PREPOSITION
+איובה	NNP
+.	yyDOT
+
+טום	NNP
+הארקין	NNP
+ה	DEF
+ליברלי	JJ	gen=m|num=s
+,	yyCM
+ו	CONJ
+יריבו	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=s|suf_per=3
+ה	DEF
+רפובליקאי	JJ	gen=m|num=s
+ה	DEF
+שמרן	JJ	gen=m|num=s
+טום	NNP
+טקי	NNP	gen=f|gen=m|num=s
+,	yyCM
+אמנם	RB
+לא	RB
+יכלו	VB	gen=f|gen=m|num=p|per=3|tense=FUTURE
+להסכים	VB_TOINFINITIVE
+על	IN
+שום	DTT
+עניין	NN	gen=m|num=s
+,	yyCM
+אבל	CC
+נטו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+להסכים	VB_TOINFINITIVE
+על	IN
+ה	DEF
+מפרץ	NN	gen=m|num=s
+ה	DEF
+פרסי	JJ	gen=m|num=s
+.	yyDOT
+
+שניהם	PRP	gen=m|num=p|per=3
+תומכים	BN	gen=m|num=p|per=a
+ב	PREPOSITION
+ה	DEF
+נשיא	NN	gen=m|num=s
+,	yyCM
+ו	CONJ
+שניהם	PRP	gen=m|num=p|per=3
+מאמינים	BN	gen=m|num=p|per=a
+ב	PREPOSITION
+ה	DEF
+צורך	NN	gen=m|num=s
+ב	PREPOSITION
+זהירות	NN	gen=f|num=s
+.	yyDOT
+
+ב	PREPOSITION
+ימי	NNT	gen=m|num=p
+ה	DEF
+מלחמה	NN	gen=f|num=s
+ה	DEF
+קרה	JJ	gen=f|num=s
+היה	COP	gen=m|num=s|per=3|polar=pos|tense=PAST
+טוקי	NNP	gen=f|gen=m|num=s
+אנטי	P
+-	yyDASH
+קומוניסט	NN	gen=m|num=s
+נלהב	BN	gen=m|num=s|per=a
+,	yyCM
+ו	CONJ
+הארקין	NNP
+היה	COP	gen=m|num=s|per=3|polar=pos|tense=PAST
+יונה	NN	gen=f|num=s
+נלהבת	BN	gen=f|num=s|per=a
+.	yyDOT
+
+טוקי	NNP	gen=f|gen=m|num=s
+תמך	VB	gen=m|num=s|per=3|tense=PAST
+ב	PREPOSITION
+כל	DTT
+סעיף	NNT	gen=m|num=s
+הוצאות	NN	gen=f|num=p
+צבאיות	JJ	gen=f|num=p
+אפשרי	JJ	gen=m|num=s
+,	yyCM
+ו	CONJ
+חייב	VB	gen=m|num=s|per=3|tense=PAST
+את	AT
+ה	DEF
+מאבק	NN	gen=m|num=s
+ל	PREPOSITION
+הפלת	NNT	gen=f|num=s
+ממשלת	NNT	gen=f|num=s
+ניקרגואה	NNP
+;	yySCLN
+הארקין	NNP
+רצה	VB	gen=m|num=s|per=3|tense=PAST
+קיצוצים	NN	gen=m|num=p
+ניכרים	JJ	gen=m|num=p
+ב	PREPOSITION
+תקציב	NNT	gen=m|num=s
+ה	DEF
+ביטחון	NN	gen=m|num=s
+,	yyCM
+ו	CONJ
+עמד	VB	gen=m|num=s|per=3|tense=PAST
+ב	PREPOSITION
+ראש	NNT	gen=m|num=s
+ה	DEF
+מאבק	NN	gen=m|num=s
+ב	PREPOSITION
+ה	DEF
+סנאט	NN	gen=m|num=s
+נגד	IN
+ה	DEF
+סיוע	NN	gen=m|num=s
+ל	IN
+ה	DEF
+קונטראס	NNP	gen=f|gen=m|num=p
+.	yyDOT
+
+ב	PREPOSITION
+ה	DEF
+מפרץ	NN	gen=m|num=s
+ה	DEF
+פרסי	JJ	gen=m|num=s
+שניהם	PRP	gen=m|num=p|per=3
+נצים	NN	gen=m|num=p
+יוניים	JJ	gen=m|num=p
+,	yyCM
+או	CC
+יונים	NN	gen=m|num=p
+נציות	JJ	gen=f|num=p
+,	yyCM
+ב	PREPOSITION
+מידה	NN	gen=f|num=s
+כמעט	RB
+שווה	JJ	gen=f|num=s
+.	yyDOT
+
+ב	PREPOSITION
+העדר	NN	compound=y|gen=m|num=s
+קומוניזם	NN	gen=m|num=s
+יש	EX
+פרגמטיזם	NN	gen=m|num=s
+ו	CONJ
+אל	IN
+פני	NNT	gen=f|gen=m|num=p
+ה	DEF
+שטח	NN	gen=m|num=s
+חוזרת	BN	gen=f|num=s|per=a
+גם	RB
+מידה	NN	gen=f|num=s
+הגונה	JJ	gen=f|num=s
+של	POS
+בדלנות	NN	gen=f|num=s
+אינסטינקטיווית	JJ	gen=f|num=s
+,	yyCM
+אפיון	NN	gen=m|num=s
+היסטורי	JJ	gen=m|num=s
+של	POS
+מדינות	NNT	gen=f|num=p
+ה	DEF
+מערב	NN	gen=m|num=s
+ה	DEF
+תיכון	JJ	gen=m|num=s
+ה	DEF
+אמריקאי	JJ	gen=m|num=s
+.	yyDOT
+
+ב	PREPOSITION
+מהלך	NN	compound=y|gen=m|num=s
+מערכת	NNT	gen=f|num=s
+ה	DEF
+בחירות	NN	gen=f|num=p
+הקרין	VB	gen=m|num=s|per=3|tense=PAST
+מטהו	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=s|suf_per=3
+של	POS
+טוקי	NNP	gen=f|gen=m|num=s
+תשדיר	NNT	gen=m|num=s
+טלוויזיה	NN	gen=f|num=s
+,	yyCM
+ש	REL
+אחד	CD	gen=m|num=s
+מ	PREPOSITION
+סעיפיו	NN_S_PP	gen=m|num=p|suf_gen=m|suf_num=s|suf_per=3
+היה	COP	gen=m|num=s|per=3|polar=pos|tense=PAST
+התנגדות	NN	gen=f|num=s
+ל	PREPOSITION
+סיוע	NNT	gen=m|num=s
+חוץ	NN	gen=m|num=s
+.	yyDOT
+
+ב	PREPOSITION
+עיני	NNT	gen=f|num=p
+ה	DEF
+שדולה	NN	gen=f|num=s
+ה	DEF
+פרו	P
+-	yyDASH
+ישראלית	JJ	gen=f|num=s
+ב	PREPOSITION
+וואשינגטון	NNP
+,	yyCM
+התנגדות	NN	gen=f|num=s
+ל	PREPOSITION
+סיוע	NNT	gen=m|num=s
+חוץ	NN	gen=m|num=s
+מעמידה	BN	gen=f|num=s|per=a
+את	AT
+ה	DEF
+מתנגד	NN	gen=m|num=s
+מ	PREPOSITION
+חוץ	NN	compound=y|gen=m|num=s
+ל	PREPOSITION
+ה	DEF
+מחנה	NN	gen=m|num=s
+גם	RB
+אם	CC
+אינה	COP	gen=f|num=s|per=3|polar=neg|tense=BEINONI
+מוסבת	BN	gen=f|num=s|per=a
+ספציפית	RB
+על	IN
+ישראל	NNP
+.	yyDOT
+
+פעילים	NN	gen=m|num=p
+פרו	P
+-	yyDASH
+ישראליים	JJ	gen=m|num=p
+עודדו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+מאז	RB
+ו	CONJ
+מעולם	RB
+יהודים	NN	gen=m|num=p
+לתרום	VB_TOINFINITIVE
+כספים	NN	gen=m|num=p
+ל	PREPOSITION
+מועמדים	NN	gen=m|num=p
+,	yyCM
+ה	REL
+נאבקים	BN	gen=m|num=p|per=a
+נגד	IN
+מתנגדי	NNT	gen=m|num=p
+סיוע	NNT	gen=m|num=s
+ה	DEF
+חוץ	NN	gen=m|num=s
+.	yyDOT
+
+ממילא	RB
+,	yyCM
+טום	NNP
+הארקין	NNP
+,	yyCM
+תומך	NN	gen=m|num=s
+עקיב	JJ	gen=m|num=s
+ב	PREPOSITION
+סיוע	NNT	gen=m|num=s
+ה	DEF
+חוץ	NN	gen=m|num=s
+,	yyCM
+היה	COP	gen=m|num=s|per=3|polar=pos|tense=PAST
+אחד	CDT	gen=m|num=s
+ה	DEF
+מקבלים	NN	gen=m|num=p
+ה	DEF
+גדולים	JJ	gen=m|num=p
+ביותר	RB
+של	POS
+תרומות	NN	gen=f|num=p
+יהודיות	JJ	gen=f|num=p
+ב	PREPOSITION
+שש	CDT	gen=f|num=s
+ה	DEF
+שנים	NN	gen=f|num=p
+ה	DEF
+אחרונות	JJ	gen=f|num=p
+.	yyDOT
+
+לפי	IN
+מקור	NN	gen=m|num=s
+יהודי	JJ	gen=m|num=s
+ב	PREPOSITION
+איובה	NNP
+,	yyCM
+הארקין	NNP
+קיבל	VB	gen=m|num=s|per=3|tense=PAST
+002	CD
+אלף	CD	gen=m|num=s
+דולר	NN	gen=m|num=s
+מ	PREPOSITION
+וועדי	NNT	gen=m|num=p
+פעולה	NN	gen=f|num=s
+פוליטיים	JJ	gen=m|num=p
+פרו	P
+-	yyDASH
+ישראליים	JJ	gen=m|num=p
+ב	PREPOSITION
+כל	DTT
+רחבי	NNT	gen=m|num=p
+ארה"ב	NNP
+.	yyDOT
+
+טוקי	NNP	gen=f|gen=m|num=s
+קיבל	VB	gen=m|num=s|per=3|tense=PAST
+רק	RB
+52	CD
+אלף	CD	gen=m|num=s
+.	yyDOT
+
+ב	PREPOSITION
+48	CD
+תיאר	VB	gen=m|num=s|per=3|tense=PAST
+מנכ"ל	NNT	gen=m|num=s
+אייפא"ק	NNP	gen=f|gen=m|num=s
+טום	NNP
+דאיין	NNP
+את	AT
+הארקין	NNP
+כ	PREPOSITION
+אחד	CD	gen=m|num=s
+מ	PREPOSITION
+ששה	CD	gen=m|num=s
+או	CC
+שבעה	CD	gen=m|num=s
+סנאטורים	NN	gen=m|num=p
+,	yyCM
+ש	REL
+נבחרו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+בזכות	IN
+"	yyQUOT
+כסף	NN	gen=m|num=s
+יהודי	JJ	gen=m|num=s
+"	yyQUOT
+.	yyDOT
+
+זו	PRP	gen=f|num=s|per=3
+היתה	COP	gen=f|num=s|per=3|polar=pos|tense=PAST
+התרברבות	NN	gen=f|num=s
+לא	RB
+-	yyDASH
+דיסקרטית	JJ	gen=f|num=s
+,	yyCM
+ו	CONJ
+אין	EX
+ספק	NN	gen=m|num=s
+ש	REL
+יימנע	VB	gen=m|num=s|per=3|tense=FUTURE
+ממן	IN
+היא@suf	S_PRN	gen=f|num=s|per=3
+השנה	RB
+.	yyDOT
+
+אף	CC
+-	yyDASH
+על	IN
+-	yyDASH
+פי	NNT	gen=m|num=s
+-	yyDASH
+כן	PRP	per=3
+,	yyCM
+שתדלנים	NN	gen=m|num=p
+פרו	P
+-	yyDASH
+ישראליים	JJ	gen=m|num=p
+ב	PREPOSITION
+וואשינגטון	NNP
+חככו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+השבוע	RB
+את	AT
+ידיהם	NN_S_PP	gen=f|num=p|suf_gen=m|suf_num=p|suf_per=3
+ב	PREPOSITION
+שביעות	NNT	gen=f|num=s
+רצון	NN	gen=m|num=s
+ל	PREPOSITION
+משמע	NNT	gen=m|num=s
+ה	DEF
+ידיעה	NN	gen=f|num=s
+,	yyCM
+ש	REL
+הארקין	NNP
+גבר	VB	gen=m|num=s|per=3|tense=PAST
+על	IN
+טוקי	NNP	gen=f|gen=m|num=s
+ב	PREPOSITION
+הפרש	NN	gen=m|num=s
+משכנע	BN	gen=m|num=s|per=a
+של	POS
+10	CD
+%	NN	gen=m|num=p|num=s
+.	yyDOT
+
+הוא	PRP	gen=m|num=s|per=3
+ה	DEF
+סנאטור	NN	gen=m|num=s
+ה	DEF
+דמוקרטי	JJ	gen=m|num=s
+ה	DEF
+ראשון	JJ	gen=m|num=s
+ב	PREPOSITION
+תולדות	NNT	gen=f|num=p
+איובה	NNP
+ה	REL
+נבחר	BN	gen=m|num=s|per=a
+ל	PREPOSITION
+תקופת	NNT	gen=f|num=s
+כהונה	NN	gen=f|num=s
+שנייה	CD	gen=f|num=s
+.	yyDOT
+
+הוא	PRP	gen=m|num=s|per=3
+גם	RB
+יודע	BN	gen=m|num=s|per=a
+,	yyCM
+ש	REL
+בלי	IN
+תרומות	NN	gen=f|num=p
+מ	PREPOSITION
+חוץ	NN	compound=y|gen=m|num=s
+ל	PREPOSITION
+גבולות	NNT	gen=m|num=p
+מדינתו	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=s|suf_per=3
+ה	DEF
+קטנה	JJ	gen=f|num=s
+,	yyCM
+יתקשה	VB	gen=m|num=s|per=3|tense=FUTURE
+לאסוף	VB_TOINFINITIVE
+די	DTT
+כסף	NN	gen=m|num=s
+ל	PREPOSITION
+ניהול	NNT	gen=m|num=s
+מערכת	NNT	gen=f|num=s
+ה	DEF
+בחירות	NN	gen=f|num=p
+ה	DEF
+טלוויזיונית	JJ	gen=f|num=s
+ה	DEF
+יקרה	JJ	gen=f|num=s
+,	yyCM
+ש	REL
+בלעדי	IN
+היא@suf	S_PRN	gen=f|num=s|per=3
+אין	RB
+פוליטיקאים	NN	gen=m|num=p
+אמריקאיים	JJ	gen=m|num=p
+מסוגלים	MD	gen=m|num=p|per=a
+לנצח	VB_TOINFINITIVE
+.	yyDOT
+
+חזקה	NN	gen=f|num=s
+על	IN
+הארקין	NNP
+,	yyCM
+ש	REL
+יצביע	VB	gen=m|num=s|per=3|tense=FUTURE
+גם	RB
+ב	PREPOSITION
+ה	DEF
+עתיד	NN	gen=m|num=s
+בעד	IN
+חוק	NNT	gen=m|num=s
+סיוע	NNT	gen=m|num=s
+ה	DEF
+חוץ	NN	gen=m|num=s
+.	yyDOT
+
+מזכירות	NNT	gen=f|num=s
+איגוד	NNT	gen=m|num=s
+ה	DEF
+פועלים	NN	gen=m|num=p
+ה	DEF
+חקלאיים	JJ	gen=m|num=p
+הציעה	VB	gen=f|num=s|per=3|tense=PAST
+אתמול	RB
+ש	REL
+ה	DEF
+ממשלה	NN	gen=f|num=s
+תשלם	VB	gen=f|num=s|per=3|tense=FUTURE
+מענק	NN	gen=m|num=s
+חודשי	JJ	gen=m|num=s
+של	POS
+500	CD
+ש"ח	NN	gen=m|num=s
+,	yyCM
+נוסף	BN	gen=m|num=s|per=a
+ל	PREPOSITION
+ה	DEF
+שכר	NN	gen=m|num=s
+ה	DEF
+רגיל	JJ	gen=m|num=s
+,	yyCM
+ל	PREPOSITION
+כל	DTT
+ישראלי	NN	gen=m|num=s
+ש	REL
+יעבוד	VB	gen=m|num=s|per=3|tense=FUTURE
+ב	PREPOSITION
+קטיף	NNT	gen=m|num=s
+ה	DEF
+הדרים	NN	gen=m|num=p
+במשך	IN
+שלושה	CD	gen=m|num=s
+חודשים	NN	gen=m|num=p
+לפחות	RB
+.	yyDOT
+
+מזכיר	NNT	gen=m|num=s
+איגוד	NNT	gen=m|num=s
+ה	DEF
+פועלים	NN	gen=m|num=p
+ה	DEF
+חקלאיים	JJ	gen=m|num=p
+,	yyCM
+חיים	NNP
+אביבי	NNP	gen=f|gen=m|num=s
+,	yyCM
+מסר	VB	gen=m|num=s|per=3|tense=PAST
+ש	REL
+ה	DEF
+הצעה	NN	gen=f|num=s
+הועלתה	VB	gen=f|num=s|per=3|tense=PAST
+לנוכח	IN
+ה	DEF
+מחסור	NN	gen=m|num=s
+ב	PREPOSITION
+עובדי	NNT	gen=m|num=p
+קטיף	NN	gen=m|num=s
+ה	REL
+מורגש	BN	gen=m|num=s|per=a
+כבר	RB
+כעת	RB
+ו	CONJ
+יוחרף	VB	gen=m|num=s|per=3|tense=FUTURE
+ב	PREPOSITION
+ה	DEF
+חודש	NN	gen=m|num=s
+ה	DEF
+בא	JJ	gen=m|num=s
+,	yyCM
+כש	TEMP
+ה	DEF
+קטיף	NN	gen=m|num=s
+יהיה	COP	gen=m|num=s|per=3|polar=pos|tense=FUTURE
+ב	PREPOSITION
+עיצומו	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=s|suf_per=3
+,	yyCM
+בעיקר	RB
+עקב	CC
+היעדרות	NNT	gen=f|num=s
+עובדים	NN	gen=m|num=p
+מ	PREPOSITION
+ה	DEF
+שטחים	NN	gen=m|num=p
+.	yyDOT
+
+ה	DEF
+מעסיקים	NN	gen=m|num=p
+אינם	COP	gen=m|num=p|per=3|polar=neg|tense=BEINONI
+מצפים	BN	gen=m|num=p|per=a
+ש	REL
+יצליחו	VB	gen=f|gen=m|num=p|per=3|tense=FUTURE
+למשוך	VB_TOINFINITIVE
+מספר	NN	gen=m|num=s
+ניכר	JJ	gen=m|num=s
+של	POS
+עובדים	NN	gen=m|num=p
+ישראליים	JJ	gen=m|num=p
+ל	PREPOSITION
+ה	DEF
+קטיף	NN	gen=m|num=s
+,	yyCM
+בגלל	IN
+ה	DEF
+שכר	NN	gen=m|num=s
+ה	DEF
+נמוך	JJ	gen=m|num=s
+ה	REL
+משולם	BN	gen=m|num=s|per=a
+ל	PREPOSITION
+עבודה	NN	gen=f|num=s
+זו	PRP	gen=f|num=s|per=3
+מעט	RB
+מעל	IN
+שכר	NNT	gen=m|num=s
+ה	DEF
+מינימום	NN	gen=m|num=s
+ב	PREPOSITION
+ה	DEF
+משק	NN	gen=m|num=s
+.	yyDOT
+
+ב	PREPOSITION
+ה	DEF
+שבוע	NN	gen=m|num=s
+ה	DEF
+בא	JJ	gen=m|num=s
+ידון	VB	gen=m|num=s|per=3|tense=FUTURE
+מנכ"ל	NNT	gen=m|num=s
+התאחדות	NNT	gen=f|num=s
+ה	DEF
+איכרים	NN	gen=m|num=p
+,	yyCM
+שלמה	NNP
+רייזמן	NNP
+,	yyCM
+עם	IN
+מנכ"ל	NNT	gen=m|num=s
+שירות	NNT	gen=m|num=s
+ה	DEF
+תעסוקה	NN	gen=f|num=s
+,	yyCM
+דוד	NNP
+מנע	NN	gen=m|num=s
+,	yyCM
+ב	PREPOSITION
+דרישת	NNT	gen=f|num=s
+ה	DEF
+התאחדות	NN	gen=f|num=s
+לשכנע	VB_TOINFINITIVE
+עולים	NN	gen=m|num=p
+חדשים	JJ	gen=m|num=p
+ה	REL
+לומדים	BN	gen=m|num=p|per=a
+ב	PREPOSITION
+אולפנים	NN	gen=m|num=p
+לעבוד	VB_TOINFINITIVE
+ב	PREPOSITION
+ה	DEF
+קטיף	NN	gen=m|num=s
+.	yyDOT
+
+רייזמן	NNP
+מציע	BN	gen=m|num=s|per=a
+ש	REL
+ה	DEF
+ממשלה	NN	gen=f|num=s
+תסבסד	VB	gen=f|num=s|per=3|tense=FUTURE
+מחצית	DTT
+מ	PREPOSITION
+עלות	NNT	gen=f|num=s
+העסקתם	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=p|suf_per=3
+של	POS
+ה	DEF
+עולים	NN	gen=m|num=p
+ב	PREPOSITION
+ה	DEF
+קטיף	NN	gen=m|num=s
+.	yyDOT
+
+מזכירות	NNT	gen=f|num=s
+איגוד	NNT	gen=m|num=s
+ה	DEF
+פועלים	NN	gen=m|num=p
+ה	DEF
+חקלאיים	JJ	gen=m|num=p
+אישרה	VB	gen=f|num=s|per=3|tense=PAST
+אתמול	RB
+נקיטת	NNT	gen=f|num=s
+עיצומים	NN	gen=m|num=p
+אם	CC
+עד	IN
+סוף	NNT	gen=m|num=s
+ה	DEF
+שבוע	NN	gen=m|num=s
+ה	DEF
+בא	JJ	gen=m|num=s
+לא	RB
+יושג	VB	gen=m|num=s|per=3|tense=FUTURE
+הסכם	NNT	gen=m|num=s
+שכר	NN	gen=m|num=s
+ל	PREPOSITION
+ה	DEF
+שנתיים	NN	gen=f|num=d
+ה	DEF
+באות	JJ	gen=f|num=p
+,	yyCM
+ב	PREPOSITION
+מסגרתו	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=s|suf_per=3
+יועלה	VB	gen=m|num=s|per=3|tense=FUTURE
+שכר	NNT	gen=m|num=s
+ה	DEF
+עובדים	NN	gen=m|num=p
+ב	PREPOSITION
+20	CD
+%	NN	gen=m|num=p|num=s
+.	yyDOT
+
+הסכם	NNT	gen=m|num=s
+ה	DEF
+שכר	NN	gen=m|num=s
+פג	VB	gen=m|num=s|per=3|tense=PAST
+ב	PREPOSITION
+אפריל	NNP
+.	yyDOT
+
+יו"ר	NNT	gen=m|num=s
+רשות	NNT	gen=f|num=s
+שדות	NNT	gen=m|num=p
+ה	DEF
+תעופה	NN	gen=f|num=s
+,	yyCM
+אריה	NNP
+גרוסבורד	NNP	gen=f|gen=m|num=s
+,	yyCM
+נהרג	VB	gen=m|num=s|per=3|tense=PAST
+ב	PREPOSITION
+יום	NNT	gen=m|num=s
+שני	NNP
+ב	PREPOSITION
+תאונת	NNT	gen=f|num=s
+דרכים	NN	gen=f|num=p
+ב	PREPOSITION
+ארצות	NNT	gen=f|num=p
+-	yyDASH
+ה	DEF
+ברית	NN	gen=f|num=s
+.	yyDOT
+
+גרוסבורד	NNP	gen=f|gen=m|num=s
+נהג	VB	gen=m|num=s|per=3|tense=PAST
+לבדו	RB
+ב	PREPOSITION
+ה	DEF
+מכונית	NN	gen=f|num=s
+,	yyCM
+ב	PREPOSITION
+דרכו	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=s|suf_per=3
+מ	PREPOSITION
+ה	DEF
+עיר	NN	gen=f|num=s
+מיניאפוליס	NNP
+ב	PREPOSITION
+אינדיאנה	NNP
+ל	PREPOSITION
+נמל	NNT	gen=m|num=s
+ה	DEF
+תעופה	NN	gen=f|num=s
+של	POS
+היא@suf	S_PRN	gen=f|num=s|per=3
+.	yyDOT
+
+משאית	NN	gen=f|num=s
+פגעה	VB	gen=f|num=s|per=3|tense=PAST
+ב	PREPOSITION
+מכוניתו	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=s|suf_per=3
+,	yyCM
+ו	CONJ
+הוא	PRP	gen=m|num=s|per=3
+נהרג	VB	gen=m|num=s|per=3|tense=PAST
+ב	PREPOSITION
+ה	DEF
+מקום	NN	gen=m|num=s
+.	yyDOT
+
+אריה	NNP
+גרוסבורד	NNP	gen=f|gen=m|num=s
+אמור	MD	gen=m|num=s|per=a
+היה	COP	gen=m|num=s|per=3|polar=pos|tense=PAST
+לטוס	VB_TOINFINITIVE
+מ	PREPOSITION
+מיניאפוליס	NNP
+ל	PREPOSITION
+שיקאגו	NNP
+,	yyCM
+ו	CONJ
+ממן	IN
+היא@suf	S_PRN	gen=f|num=s|per=3
+ל	IN
+ניו	NNP	gen=f|gen=m|num=s
+-	yyDASH
+יורק	NNP	gen=f|num=s
+.	yyDOT
+
+שם	RB
+היה	COP	gen=m|num=s|per=3|polar=pos|tense=PAST
+אמור	MD	gen=m|num=s|per=a
+להיפגש	VB_TOINFINITIVE
+עם	IN
+אשתו	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=s|suf_per=3
+,	yyCM
+ש	REL
+עשתה	VB	gen=f|num=s|per=3|tense=PAST
+ב	PREPOSITION
+בוסטון	NNP
+.	yyDOT
+
+בני	NNT	gen=m|num=p
+ה	DEF
+זוג	NN	gen=m|num=s
+גרוסבורד	NNP	gen=f|gen=m|num=s
+תוכננו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+לשוב	VB_TOINFINITIVE
+היום	RB
+אחרי	IN
+-	yyDASH
+ה	DEF
+צהריים	NN	gen=m|num=p
+ל	PREPOSITION
+ישראל	NNP
+.	yyDOT
+
+דבר	NNT	gen=m|num=s
+מותו	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=s|suf_per=3
+של	POS
+גרוסבורד	NNP	gen=f|gen=m|num=s
+נודע	VB	gen=m|num=s|per=3|tense=PAST
+רק	RB
+אתמול	RB
+ב	PREPOSITION
+ה	DEF
+צהריים	NN	gen=m|num=p
+ל	PREPOSITION
+רשות	NNT	gen=f|num=s
+שדות	NNT	gen=m|num=p
+ה	DEF
+תעופה	NN	gen=f|num=s
+.	yyDOT
+
+ה	DEF
+גורמים	NN	gen=m|num=p
+,	yyCM
+ש	REL
+טיפלו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+ב	PREPOSITION
+ה	DEF
+דבר	NN	gen=m|num=s
+ב	PREPOSITION
+ה	DEF
+ארץ	NN	gen=f|num=s
+,	yyCM
+לא	RB
+קישרו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+את	AT
+שמו	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=s|suf_per=3
+עם	IN
+תפקידו	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=s|suf_per=3
+.	yyDOT
+
+משטרת	NNT	gen=f|num=s
+מיניאפוליס	NNP
+מצאה	VB	gen=f|num=s|per=3|tense=PAST
+ב	PREPOSITION
+מכוניתו	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=s|suf_per=3
+את	AT
+מזוודותיו	NN_S_PP	gen=f|num=p|suf_gen=m|suf_num=s|suf_per=3
+עם	IN
+תגי	NNT	gen=m|num=p
+ה	DEF
+זיהוי	NN	gen=f|num=s
+.	yyDOT
+
+ה	DEF
+משטרה	NN	gen=f|num=s
+דיווחה	VB	gen=f|num=s|per=3|tense=PAST
+ל	PREPOSITION
+מחלקת	NNT	gen=f|num=s
+ה	DEF
+מדינה	NN	gen=f|num=s
+ה	DEF
+אמריקאית	JJ	gen=f|num=s
+,	yyCM
+ש	REL
+העבירה	VB	gen=f|num=s|per=3|tense=PAST
+את	AT
+ה	DEF
+מידע	NN	gen=m|num=s
+ל	PREPOSITION
+ה	DEF
+קונסוליה	NN	gen=f|num=s
+ה	DEF
+ישראלית	JJ	gen=f|num=s
+ב	PREPOSITION
+שיקאגו	NNP
+,	yyCM
+ה	REL
+מטפלת	BN	gen=f|num=s|per=a
+ב	PREPOSITION
+אזור	NNT	gen=m|num=s
+מיניאפוליס	NNP
+.	yyDOT
+
+ה	DEF
+קונסוליה	NN	gen=f|num=s
+ב	PREPOSITION
+שיקאגו	NNP
+הבריקה	VB	gen=f|num=s|per=3|tense=PAST
+ל	PREPOSITION
+ירושלים	NNP
+.	yyDOT
+
+מ	PREPOSITION
+משרד	NNT	gen=m|num=s
+ה	DEF
+חוץ	NN	gen=m|num=s
+ב	PREPOSITION
+ירושלים	NNP
+נשלח	VB	gen=m|num=s|per=3|tense=PAST
+שליח	NN	gen=m|num=s
+להודיע	VB_TOINFINITIVE
+על	IN
+דבר	NNT	gen=m|num=s
+ה	DEF
+מוות	NN	gen=m|num=s
+ל	PREPOSITION
+בני	NNT	gen=m|num=p
+ה	DEF
+משפחה	NN	gen=f|num=s
+,	yyCM
+אולם	CC
+לא	RB
+היה	COP	gen=m|num=s|per=3|polar=pos|tense=PAST
+איש	NN	gen=m|num=s
+ב	PREPOSITION
+דירתו	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=s|suf_per=3
+.	yyDOT
+
+רק	RB
+אחר	IN
+-	yyDASH
+כך	PRP	per=3
+נמצא	VB	gen=m|num=s|per=3|tense=PAST
+כרטיס	NNT	gen=m|num=s
+ביקור	NN	gen=m|num=s
+,	yyCM
+ו	CONJ
+ב	IN
+הוא@suf	S_PRN	gen=m|num=s|per=3
+שמו	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=s|suf_per=3
+ו	CONJ
+תוארו	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=s|suf_per=3
+של	POS
+גרוסבורד	NNP	gen=f|gen=m|num=s
+כ	PREPOSITION
+מנהל	NNT	gen=m|num=s
+מפעל	NN	gen=m|num=s
+פרטי	JJ	gen=m|num=s
+.	yyDOT
+
+אנשי	NNT	gen=m|num=p
+משרד	NNT	gen=m|num=s
+ה	DEF
+חוץ	NN	gen=m|num=s
+התקשרו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+אתמול	RB
+ל	PREPOSITION
+ה	DEF
+מפעל	NN	gen=m|num=s
+,	yyCM
+ו	CONJ
+רק	RB
+אז	RB
+התברר	VB	gen=m|num=s|per=3|tense=PAST
+כי	CC
+מדובר	BN	gen=m|num=s|per=a
+ב	PREPOSITION
+יו"ר	NNT	gen=m|num=s
+רשות	NNT	gen=f|num=s
+שדות	NNT	gen=m|num=p
+ה	DEF
+תעופה	NN	gen=f|num=s
+.	yyDOT
+
+גרוסבורד	NNP	gen=f|gen=m|num=s
+,	yyCM
+בן	NNT	gen=m|num=s
+95	CD
+ב	PREPOSITION
+מותו	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=s|suf_per=3
+,	yyCM
+השאיר	VB	gen=m|num=s|per=3|tense=PAST
+אחרי	IN
+הוא@suf	S_PRN	gen=m|num=s|per=3
+אם	NN	gen=f|num=s
+,	yyCM
+אחות	NN	gen=f|num=s
+,	yyCM
+רעיה	NN	gen=f|num=s
+,	yyCM
+בן	NN	gen=m|num=s
+ו	CONJ
+שתי	CDT	gen=f|num=p
+בנות	NN	gen=f|num=p
+.	yyDOT
+
+עדיין	RB
+לא	RB
+נקבע	VB	gen=m|num=s|per=3|tense=PAST
+מועד	NN	gen=m|num=s
+ל	PREPOSITION
+הלווייתו	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=s|suf_per=3
+.	yyDOT
+
+מרכז	NNT	gen=m|num=s
+ה	DEF
+מידע	NN	gen=m|num=s
+ל	PREPOSITION
+זכויות	NNT	gen=f|num=p
+ה	DEF
+אדם	NN	gen=m|num=s
+ב	PREPOSITION
+ה	DEF
+שטחים	NN	gen=m|num=p
+,	yyCM
+"	yyQUOT
+בצלם	NNP	gen=f|gen=m|num=s
+"	yyQUOT
+,	yyCM
+מפרסם	BN	gen=m|num=s|per=a
+מ	PREPOSITION
+פעם	RB
+ל	PREPOSITION
+פעם	RB
+דפי	NNT	gen=m|num=p
+מידע	NN	gen=m|num=s
+ו	CONJ
+ב	IN
+המ@suf	S_PRN	gen=m|num=p|per=3
+פרטים	NN	gen=m|num=p
+על	IN
+ה	REL
+נעשה	BN	gen=m|num=s|per=a
+ב	PREPOSITION
+ה	DEF
+שטחים	NN	gen=m|num=p
+ב	PREPOSITION
+תחומים	NN	gen=m|num=p
+שונים	JJ	gen=m|num=p
+.	yyDOT
+
+ה	DEF
+סגנון	NN	gen=m|num=s
+ענייני	JJ	gen=m|num=s
+מאוד	RB
+,	yyCM
+ב	PREPOSITION
+דרך	NNT	gen=f|num=s
+כלל	NN	gen=m|num=s
+יש	EX
+ב	IN
+הוא@suf	S_PRN	gen=m|num=s|per=3
+נגיעה	NN	gen=f|num=s
+ל	PREPOSITION
+ענייני	NNT	gen=m|num=p
+חוק	NN	gen=m|num=s
+.	yyDOT
+
+"	yyQUOT
+בצלם	NNP	gen=f|gen=m|num=s
+"	yyQUOT
+נוהג	BN	gen=m|num=s|per=a
+להפיץ	VB_TOINFINITIVE
+את	AT
+דפי	NNT	gen=m|num=p
+ה	DEF
+מידע	NN	gen=m|num=s
+של	POS
+הוא@suf	S_PRN	gen=m|num=s|per=3
+בין	IN
+בעלי	NNT	gen=m|num=p
+עניין	NN	gen=m|num=s
+שונים	JJ	gen=m|num=p
+,	yyCM
+חלקם	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=p|suf_per=3
+בעלי	NNT	gen=m|num=p
+משרות	NN	gen=f|num=p
+ב	PREPOSITION
+מערכת	NNT	gen=f|num=s
+ה	DEF
+משפט	NN	gen=m|num=s
+.	yyDOT
+
+ב	PREPOSITION
+ימים	NN	gen=m|num=p
+אלה	PRP	gen=m|num=p|per=3
+התקבל	VB	gen=m|num=s|per=3|tense=PAST
+ב	PREPOSITION
+משרדי	NNT	gen=m|num=p
+ה	DEF
+ארגון	NN	gen=m|num=s
+מכתב	NN	gen=m|num=s
+מ	PREPOSITION
+משרד	NNT	gen=m|num=s
+ה	DEF
+משפטים	NN	gen=m|num=p
+,	yyCM
+על	IN
+נייר	NN	gen=m|num=s
+רשמי	JJ	gen=m|num=s
+,	yyCM
+ו	CONJ
+זה	PRP	gen=m|num=s|per=3
+לשונו	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=s|suf_per=3
+:	yyCLN
+"	yyQUOT
+ה	DEF
+נדון	NN	gen=m|num=s
+ה	DEF
+חוברת	NN	gen=f|num=s
+של	POS
+אתמ@suf	S_PRN	gen=m|num=p|per=2
+.	yyDOT
+
+רצ"ב	RB
+מוחזר	BN	gen=m|num=s|per=a
+אלי	IN
+אתמ@suf	S_PRN	gen=m|num=p|per=2
+ה	DEF
+חומר	NN	gen=m|num=s
+ש	REL
+נשלח	VB	gen=m|num=s|per=3|tense=PAST
+אל	IN
+אני@suf	S_PRN	gen=f|gen=m|num=s|per=1
+.	yyDOT
+
+כמות	IN
+הוא@suf	S_PRN	gen=m|num=s|per=3
+אתם	PRP	gen=m|num=p|per=2
+שולחים	BN	gen=m|num=p|per=a
+אל	IN
+אני@suf	S_PRN	gen=f|gen=m|num=s|per=1
+מדי	RB
+פעם	RB
+ו	CONJ
+הוא	PRP	gen=m|num=s|per=3
+נזרק	VB	gen=m|num=s|per=3|tense=PAST
+ישר	RB
+ל	PREPOSITION
+ה	DEF
+פח	NN	gen=m|num=s
+.	yyDOT
+
+אבקש	VB	gen=f|gen=m|num=s|per=1|tense=FUTURE
+אות@suf	DUMMY_AT
+אתמ@suf	PRP	gen=m|num=p|per=2
+לשלוח	VB_TOINFINITIVE
+אל	IN
+אני@suf	S_PRN	gen=f|gen=m|num=s|per=1
+חומר	NN	gen=m|num=s
+זה	PRP	gen=m|num=s|per=3
+.	yyDOT
+
+מען	NNT	gen=m|num=s
+עבודתי	NN_S_PP	gen=f|num=s|suf_gen=f|suf_gen=m|suf_num=s|suf_per=1
+מיועד	BN	gen=m|num=s|per=a
+ל	PREPOSITION
+קבלת	NNT	gen=f|num=s
+חומר	NNT	gen=m|num=s
+עבודה	NN	gen=f|num=s
+בלבד	RB
+"	yyQUOT
+.	yyDOT
+
+על	IN
+ה	DEF
+חתום	NN	gen=m|num=s
+נגה	NNP
+ענתבי	NNP	gen=f|gen=m|num=s
+,	yyCM
+ה	DEF
+ממונה	NN	gen=f|num=s
+על	IN
+נוסח	NNT	gen=m|num=s
+ה	DEF
+חוק	NN	gen=m|num=s
+ו	CONJ
+רשומות	NN	gen=f|num=p
+.	yyDOT
+
+ו	CONJ
+ל	PREPOSITION
+מי	QW
+ש	REL
+יספר	VB	gen=m|num=s|per=3|tense=FUTURE
+פעם	RB
+את	AT
+סיפורה	NN_S_PP	gen=m|num=s|suf_gen=f|suf_num=s|suf_per=3
+של	POS
+שגרת	NNT	gen=f|num=s
+ה	DEF
+חיים	NN	gen=m|num=p
+ב	PREPOSITION
+ה	DEF
+ימים	NN	gen=m|num=p
+ה	DEF
+מטורפים	JJ	gen=m|num=p
+ה	DEF
+אלה	PRP	gen=m|num=p|per=3
+,	yyCM
+הנה	RB
+הערת	NNT	gen=f|num=s
+שוליים	NN	gen=m|num=d|num=p
+.	yyDOT
+
+על	IN
+חשבונות	NNT	gen=m|num=p
+ה	DEF
+מים	NN	gen=m|num=p
+ש	REL
+עיריית	NNT	gen=f|num=s
+ירושלים	NNP
+שלחה	VB	gen=f|num=s|per=3|tense=PAST
+ב	PREPOSITION
+ימים	NN	gen=m|num=p
+אלה	PRP	gen=m|num=p|per=3
+ל	PREPOSITION
+ה	DEF
+תושבים	NN	gen=m|num=p
+הודפסה	VB	gen=f|num=s|per=3|tense=PAST
+הנחיה	NN	gen=f|num=s
+ב	PREPOSITION
+זו	PRP	gen=f|num=s|per=3
+ה	DEF
+לשון	NN	gen=f|num=s
+:	yyCLN
+"	yyQUOT
+אם	CC
+יש	EX
+ל	IN
+אתה@suf	S_PRN	gen=m|num=s|per=2
+מיכל	NN
+מים	NN	gen=m|num=p
+על	IN
+גג	NNT	gen=m|num=s
+ה	DEF
+בית	NN	gen=m|num=s
+,	yyCM
+אנא	RB
+דאג	VB	gen=m|num=s|per=2|tense=IMPERATIVE
+ל	PREPOSITION
+נעילת	NNT	gen=f|num=s
+ה	DEF
+כניסה	NN	gen=f|num=s
+אל	IN
+ה	DEF
+גג	NN	gen=m|num=s
+,	yyCM
+כדי	IN
+למנוע	VB_TOINFINITIVE
+מ	PREPOSITION
+אנשים	NN	gen=m|num=p
+זרים	JJ	gen=m|num=p
+לזהם	VB_TOINFINITIVE
+או	CC
+להרעיל	VB_TOINFINITIVE
+את	AT
+מי	NNT	gen=m|num=p
+ה	DEF
+שתייה	NN	gen=f|num=s
+"	yyQUOT
+.	yyDOT
+
+ה	DEF
+סתיו	NN	gen=m|num=s
+עם	IN
+אנחנו@suf	S_PRN	gen=f|gen=m|num=p|per=1
+.	yyDOT
+
+ה	DEF
+עלים	NN	gen=m|num=p
+מזהיבים	BN	gen=m|num=p|per=a
+.	yyDOT
+
+קצה	NN_S_PP	gen=m|num=s|suf_gen=f|suf_num=s|suf_per=3
+של	POS
+שנה	NN	gen=f|num=s
+נוספת	JJ	gen=f|num=s
+נראה	BN	gen=m|num=s|per=a
+במעורפל	RB
+ב	PREPOSITION
+ה	DEF
+אופק	NN	gen=m|num=s
+,	yyCM
+ו	CONJ
+עדיין	RB
+לא	RB
+זכית	VB	gen=m|num=s|per=2|tense=PAST
+ב	PREPOSITION
+מענק	NNT	gen=m|num=s
+"	yyQUOT
+גאונות	NN	gen=f|num=s
+"	yyQUOT
+של	POS
+קרן	NNT	gen=f|num=s
+מקארתור	NNP
+.	yyDOT
+
+גם	RB
+אני	PRP	gen=f|gen=m|num=s|per=1
+לא	RB
+.	yyDOT
+
+פרסום	NNT	gen=m|num=s
+רשימת	NNT	gen=f|num=s
+ה	DEF
+זוכים	BN	gen=m|num=p|per=a
+השנה	RB
+,	yyCM
+כמו	IN
+תמיד	RB
+,	yyCM
+די	RB
+ב	IN
+הוא@suf	S_PRN	gen=m|num=s|per=3
+כדי	IN
+לגרום	VB_TOINFINITIVE
+ל	PREPOSITION
+סופרים	NN	gen=m|num=p
+,	yyCM
+ל	PREPOSITION
+אמנים	NN	gen=m|num=p
+,	yyCM
+ל	PREPOSITION
+אקדמאים	NN	gen=m|num=p
+ו	CONJ
+ל	PREPOSITION
+פעילים	NN	gen=m|num=p
+ב	PREPOSITION
+מסגרות	NN	gen=f|num=p
+שונות	JJ	gen=f|num=p
+ב	PREPOSITION
+רחבי	NNT	gen=m|num=p
+ארצות	NNT	gen=f|num=p
+ה	DEF
+ברית	NN	gen=f|num=s
+כולה	??	gen=f|num=s
+לצפות	VB_TOINFINITIVE
+ל	PREPOSITION
+רשימת	NNT	gen=f|num=s
+ה	DEF
+שנה	NN	gen=f|num=s
+ה	DEF
+באה	JJ	gen=f|num=s
+,	yyCM
+כש	TEMP
+ב	PREPOSITION
+לבם	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=p|suf_per=3
+מקננת	BN	gen=f|num=s|per=a
+ה	DEF
+תקווה	NN	gen=f|num=s
+ש	REL
+אולי	RB
+גם	RB
+הם	PRP	gen=m|num=p|per=3
+ייכללו	VB	gen=f|gen=m|num=p|per=3|tense=FUTURE
+ב	IN
+היא@suf	S_PRN	gen=f|num=s|per=3
+.	yyDOT
+
+אחרי	IN
+כ	PREPOSITION
+כלות	NNT	gen=f|num=p
+הכל	NN
+,	yyCM
+63	CD
+ה	DEF
+זוכים	BN	gen=m|num=p|per=a
+אם	CC
+לשפוט	VB_TOINFINITIVE
+על	IN
+פי	NNT	gen=m|num=s
+ה	REL
+כתוב	BN	gen=m|num=s|per=a
+עלי	IN
+המ@suf	S_PRN	gen=m|num=p|per=3
+ב	PREPOSITION
+ה	DEF
+עיתונות	NN	gen=f|num=s
+אינם	COP	gen=m|num=p|per=3|polar=neg|tense=BEINONI
+נראים	BN	gen=m|num=p|per=a
+מיוחדים	JJ	gen=m|num=p
+כל	DTT
+כך	RB
+.	yyDOT
+
+אבל	CC
+כמובן	RB
+,	yyCM
+לאחר	IN
+בדיקה	NN	gen=f|num=s
+קפדנית	JJ	gen=f|num=s
+,	yyCM
+מתברר	BN	gen=m|num=s|per=a
+ש	REL
+זה	PRP	gen=m|num=s|per=3
+בדיוק	RB
+מה	QW
+ש	REL
+הם	PRP	gen=m|num=p|per=3
+מיוחדים	JJ	gen=m|num=p
+.	yyDOT
+
+קחו	VB	gen=f|gen=m|num=p|per=2|tense=IMPERATIVE
+למשל	CC
+את	AT
+מריה	NNP
+ואראלה	NNP	gen=f|gen=m|num=s
+.	yyDOT
+
+ב	PREPOSITION
+תחילה	NN	compound=y|gen=f|num=s
+היא	PRP	gen=f|num=s|per=3
+מצטיירת	BN	gen=f|num=s|per=a
+כמו	IN
+כל	DTT
+מארגנת	BN	gen=f|num=s|per=a
+קהילתית	JJ	gen=f|num=s
+אחרת	JJ	gen=f|num=s
+.	yyDOT
+
+אבל	CC
+ב	PREPOSITION
+מבט	NN	gen=m|num=s
+מ	PREPOSITION
+קרוב	JJ	gen=m|num=s
+מתברר	BN	gen=m|num=s|per=a
+ש	REL
+היא	PRP	gen=f|num=s|per=3
+נמנתה	VB	gen=f|num=s|per=3|tense=PAST
+עם	IN
+מקימי	BNT	gen=m|num=p|per=a
+גנאדאס	NNP	gen=f|gen=m|num=s
+דל	NNP	gen=f|gen=m|num=s
+ואיה	NNP	gen=f|gen=m|num=s
+,	yyCM
+קואופרטיב	NN	gen=m|num=s
+ל	PREPOSITION
+גידול	NNT	gen=m|num=s
+כבשים	NN	gen=m|num=p
+ו	CONJ
+ל	PREPOSITION
+אריגה	NN	gen=f|num=s
+ב	IN
+לוס	NNP	gen=f|gen=m|num=s
+אוחוס	NNP	gen=f|gen=m|num=s
+,	yyCM
+ניו	NNP	gen=f|gen=m|num=s
+-	yyDASH
+מקסיקו	NNP
+.	yyDOT
+
+האם	QW
+אתם	PRP	gen=m|num=p|per=2
+יכולים	MD	gen=m|num=p|per=a|tense=BEINONI
+להתעלות	VB_TOINFINITIVE
+על	IN
+כך	PRP	per=3
+?	yyQM
+
+ו	CONJ
+ישנם	EX
+גם	RB
+ה	DEF
+זוכים	BN	gen=m|num=p|per=a
+ה	DEF
+מיוחדים	JJ	gen=m|num=p
+ב	PREPOSITION
+ה	DEF
+מובן	NN	gen=m|num=s
+ה	REL
+יותר	RB
+שנוי	JJ	gen=m|num=s
+ב	PREPOSITION
+מחלוקת	NN	gen=f|num=s
+של	POS
+ה	DEF
+מלה	NN	gen=f|num=s
+.	yyDOT
+
+למרות	IN
+ש	REL
+מענקי	NNT	gen=m|num=p
+קרן	NNT	gen=f|num=s
+מקארתור	NNP
+נועדו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+לשחרר	VB_TOINFINITIVE
+את	AT
+ה	DEF
+מוכשרים	BN	gen=m|num=p|per=a
+מ	PREPOSITION
+נטל	NNT	gen=m|num=s
+ה	DEF
+השתכרות	NN	gen=f|num=s
+ל	PREPOSITION
+מחייתם	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=p|suf_per=3
+,	yyCM
+כמה	DTT
+מענקים	NN	gen=m|num=p
+מגיעים	BN	gen=m|num=p|per=a
+תמיד	RB
+ל	PREPOSITION
+אנשים	NN	gen=m|num=p
+ש	REL
+אינם	COP	gen=m|num=p|per=3|polar=neg|tense=BEINONI
+בדיוק	RB
+נאבקים	BN	gen=m|num=p|per=a
+כדי	IN
+לזכות	VB_TOINFINITIVE
+ב	PREPOSITION
+הכרה	NN	gen=f|num=s
+ו	CONJ
+ב	PREPOSITION
+חופש	NNT	gen=m|num=s
+יצירה	NN	gen=f|num=s
+-LRB-	yyLRB
+ה	DEF
+דוגמה	NN	gen=f|num=s
+ה	DEF
+עיקרית	JJ	gen=f|num=s
+של	POS
+ה	DEF
+שנה	NN	gen=f|num=s
+היא	COP	gen=f|num=s|per=3|polar=pos|tense=BEINONI
+סוזן	NNP
+זונטג	NNP	gen=f|gen=m|num=s
+-RRB-	yyRRB
+.	yyDOT
+
+אם	CC
+ב	PREPOSITION
+כל	DTT
+זאת	PRP	gen=f|num=s|per=3
+אתם	PRP	gen=m|num=p|per=2
+רוצים	BN	gen=m|num=p|per=a
+סבסוד	NN	gen=m|num=s
+ל	PREPOSITION
+מחשבותיכם	NN_S_PP	gen=f|num=p|suf_gen=m|suf_num=p|suf_per=2
+ו	CONJ
+ל	PREPOSITION
+מעשיכם	NN_S_PP	gen=m|num=p|suf_gen=m|suf_num=p|suf_per=2
+,	yyCM
+עלי	IN
+אתמ@suf	S_PRN	gen=m|num=p|per=2
+להשיג	VB_TOINFINITIVE
+אות	AT
+הוא@suf	S_PRN	gen=m|num=s|per=3
+ב	PREPOSITION
+ה	DEF
+דרך	NN	gen=f|num=s
+ה	DEF
+מיושנת	JJ	gen=f|num=s
+:	yyCLN
+לפנות	VB_TOINFINITIVE
+ל	PREPOSITION
+ה	DEF
+קרן	NN	gen=f|num=s
+,	yyCM
+ו	CONJ
+לשכנע	VB_TOINFINITIVE
+אנשים	NN	gen=m|num=p
+בעלי	NNT	gen=m|num=p
+כסף	NN	gen=m|num=s
+ש	REL
+אתם	PRP	gen=m|num=p|per=2
+זכאים	MD	gen=m|num=p
+ל	PREPOSITION
+חלק	NN	gen=m|num=s
+ממן	IN
+הוא@suf	S_PRN	gen=m|num=s|per=3
+.	yyDOT
+
+להלן	RB
+כמה	DTT
+עצות	NN	gen=f|num=p
+.	yyDOT
+
+עצה	NN	gen=f|num=s
+מספר	NN	gen=m|num=s
+1	CD
+:	yyCLN
+הצטרפו	VB	gen=f|gen=m|num=p|per=2|tense=IMPERATIVE
+ל	PREPOSITION
+גופים	NN	gen=m|num=p
+.	yyDOT
+
+כמעט	RB
+אף	DTT
+אחד	CD	gen=m|num=s
+מ	PREPOSITION
+שבעה	CD	gen=m|num=s
+מיליארדי	CDT	gen=m|num=p
+ה	DEF
+דולרים	NN	gen=m|num=p
+ש	REL
+קרנות	NN	gen=f|num=p
+אמריקאיות	JJ	gen=f|num=p
+מחלקות	BN	gen=f|num=p|per=a
+מדי	RB
+שנה	NN	gen=f|num=s
+אינו	COP	gen=m|num=s|per=3|polar=neg|tense=BEINONI
+מיועד	BN	gen=m|num=s|per=a
+ל	PREPOSITION
+יחידים	JJ	gen=m|num=p
+.	yyDOT
+
+זו	PRP	gen=f|num=s|per=3
+אחת	CDT	gen=f|num=s
+ה	DEF
+סיבות	NN	gen=f|num=p
+ל	PREPOSITION
+כך	PRP	per=3
+ש	REL
+מענקי	NNT	gen=m|num=p
+מקארתור	NNP
+מבוקשים	JJ	gen=m|num=p
+כל	DTT
+כך	RB
+.	yyDOT
+
+ב	PREPOSITION
+דרך	NNT	gen=f|num=s
+כלל	NN	gen=m|num=s
+מופנה	BN	gen=m|num=s|per=a
+ה	DEF
+כסף	NN	gen=m|num=s
+ל	PREPOSITION
+קולגים	NN	gen=m|num=p
+,	yyCM
+ל	PREPOSITION
+מכוני	NNT	gen=m|num=p
+מחקר	NN	gen=m|num=s
+,	yyCM
+-LRB-	yyLRB
+כולל	BN	gen=m|num=s|per=a
+צוותות	NNT	gen=m|num=p
+חשיבה	NN	gen=f|num=s
+-RRB-	yyRRB
+,	yyCM
+ל	PREPOSITION
+קבוצות	NN	gen=f|num=p
+ל	PREPOSITION
+שירות	NN	gen=m|num=s
+קהילתי	JJ	gen=m|num=s
+,	yyCM
+ל	PREPOSITION
+מוזיאונים	NN	gen=m|num=p
+,	yyCM
+ל	PREPOSITION
+ספריות	NN	gen=f|num=p
+ו	CONJ
+ל	PREPOSITION
+ארגונים	NN	gen=m|num=p
+אחרים	JJ	gen=m|num=p
+שלא	RB
+ל	PREPOSITION
+מטרות	NNT	gen=f|num=p
+רווח	NN	gen=m|num=s
+.	yyDOT
+
+משום	CC
+כך	PRP	per=3
+,	yyCM
+ראשית	RB
+כל	DTT
+עלי	IN
+אתה@suf	S_PRN	gen=m|num=s|per=2
+לחשוב	VB_TOINFINITIVE
+על	IN
+קבלת	NNT	gen=f|num=s
+תפקיד	NN	gen=m|num=s
+חשוב	JJ	gen=m|num=s
+ב	PREPOSITION
+אחד	CD	gen=m|num=s
+מ	PREPOSITION
+מאות	CDT	gen=f|num=p
+ה	DEF
+גופים	NN	gen=m|num=p
+הללו	PRP	gen=m|num=p|per=3
+.	yyDOT
+
+אז	RB
+תוכל	MD	gen=m|num=s|per=2|tense=FUTURE
+לתור	VB_TOINFINITIVE
+אחר	IN
+כסף	NN	gen=m|num=s
+ב	PREPOSITION
+אורח	NN	gen=m|num=s
+עצמאי	JJ	gen=m|num=s
+פחות	RB
+או	CC
+יותר	RB
+,	yyCM
+אפילו	CC
+לייסד	VB_TOINFINITIVE
+במשך	IN
+ה	DEF
+זמן	NN	gen=m|num=s
+מכון	NN	gen=m|num=s
+מ	PREPOSITION
+של	POS
+אתה@suf	S_PRN	gen=m|num=s|per=2
+ב	PREPOSITION
+מסגרת	NN	compound=y|gen=f|num=s
+ה	DEF
+מכון	NN	gen=m|num=s
+נותן	BNT	gen=m|num=s|per=a
+ה	DEF
+חסות	NN	gen=f|num=s
+,	yyCM
+למרות	IN
+ש	REL
+נותן	BNT	gen=m|num=s|per=a
+ה	DEF
+חסות	NN	gen=f|num=s
+של	POS
+אתה@suf	S_PRN	gen=m|num=s|per=2
+ירצה	VB	gen=m|num=s|per=3|tense=FUTURE
+אחוז	NN	gen=m|num=s
+שמן	JJ	gen=m|num=s
+מ	PREPOSITION
+ה	DEF
+מענק	NN	gen=m|num=s
+כדי	IN
+לכסות	VB_TOINFINITIVE
+"	yyQUOT
+הוצאות	NN	gen=f|num=p
+קבועות	JJ	gen=f|num=p
+"	yyQUOT
+.	yyDOT
+
+אם	CC
+אתה	PRP	gen=m|num=s|per=2
+מעדיף	BN	gen=m|num=s|per=a
+לפעול	VB_TOINFINITIVE
+בלי	IN
+איש	NNT	gen=m|num=s
+ביניים	NN	gen=m|num=s
+,	yyCM
+אתה	PRP	gen=m|num=s|per=2
+יכול	MD	gen=m|num=s|per=a|tense=BEINONI
+להקים	VB_TOINFINITIVE
+ארגון	NN	gen=m|num=s
+מ	PREPOSITION
+של	POS
+אתה@suf	S_PRN	gen=m|num=s|per=2
+שלא	RB
+ל	PREPOSITION
+מטרות	NNT	gen=f|num=p
+רווח	NN	gen=m|num=s
+.	yyDOT
+
+כך	RB
+נהג	VB	gen=m|num=s|per=3|tense=PAST
+איל	NNT	gen=m|num=s
+ה	DEF
+הון	NN	gen=m|num=s
+בעל	NNT	gen=m|num=s
+ה	DEF
+מודעות	NN	gen=f|num=s
+ה	DEF
+חברתית	JJ	gen=f|num=s
+טד	NNP
+טרנר	NNP
+,	yyCM
+כאשר	CC
+מימן	VB	gen=m|num=s|per=3|tense=PAST
+את	AT
+"	yyQUOT
+ה	DEF
+התאחדות	NN	gen=f|num=s
+ל	PREPOSITION
+עולם	NN	gen=m|num=s
+טוב	JJ	gen=m|num=s
+יותר	RB
+"	yyQUOT
+,	yyCM
+ה	REL
+מבקשת	BN	gen=f|num=s|per=a
+מענקים	NN	gen=m|num=p
+מ	PREPOSITION
+קרנות	NN	gen=f|num=p
+כדי	IN
+להפיק	VB_TOINFINITIVE
+סרטי	NNT	gen=m|num=p
+טלוויזיה	NN	gen=f|num=s
+דוקומנטריים	JJ	gen=m|num=p
+.	yyDOT
+
+לפעמים	RB
+,	yyCM
+אחרי	IN
+ש	REL
+קיבל	VB	gen=m|num=s|per=3|tense=PAST
+מימון	NN	gen=m|num=s
+פטור	JJ	gen=m|num=s
+מ	PREPOSITION
+מס	NN	gen=m|num=s
+באמצעות	IN
+ה	DEF
+התאחדות	NN	gen=f|num=s
+של	POS
+הוא@suf	S_PRN	gen=m|num=s|per=3
+שלא	RB
+ל	PREPOSITION
+מטרות	NNT	gen=f|num=p
+רווח	NN	gen=m|num=s
+מקרין	BN	gen=m|num=s|per=a
+טרנר	NNP
+את	AT
+ה	DEF
+סרטים	NN	gen=m|num=p
+ה	DEF
+דוקומנטריים	JJ	gen=m|num=p
+ב	PREPOSITION
+רשת	NNT	gen=f|num=s
+ה	DEF
+טלוויזיה	NN	gen=f|num=s
+של	POS
+הוא@suf	S_PRN	gen=m|num=s|per=3
+ה	REL
+קיימת	JJ	gen=f|num=s
+בהחלט	RB
+כדי	IN
+לשאת	VB_TOINFINITIVE
+רווחים	NN	gen=m|num=p
+ו	CONJ
+ב	PREPOSITION
+רשתות	NN	gen=f|num=p
+אחרות	JJ	gen=f|num=p
+כמו	IN
+היא@suf	S_PRN	gen=f|num=s|per=3
+.	yyDOT
+
+אבל	CC
+אל	RB
+תטרחו	VB	gen=f|gen=m|num=p|per=2|tense=FUTURE
+לדווח	VB_TOINFINITIVE
+ל	PREPOSITION
+ה	DEF
+שלטונות	NN	gen=m|num=p
+ה	DEF
+מקומיים	JJ	gen=m|num=p
+.	yyDOT
+
+ה	DEF
+גבול	NN	gen=m|num=s
+בין	IN
+"	yyQUOT
+ש	REL
+לא	RB
+ל	PREPOSITION
+מטרות	NNT	gen=f|num=p
+רווח	NN	gen=m|num=s
+"	yyQUOT
+ו	CONJ
+בין	IN
+"	yyQUOT
+ל	PREPOSITION
+מטרות	NNT	gen=f|num=p
+רווח	NN	gen=m|num=s
+"	yyQUOT
+מטושטש	JJ	gen=m|num=s
+מאוד	RB
+,	yyCM
+ו	CONJ
+ב	PREPOSITION
+דרך	NNT	gen=f|num=s
+כלל	NN	gen=m|num=s
+הכל	NN
+חוקי	JJ	gen=m|num=s
+למהדרין	RB
+.	yyDOT
+
+ה	DEF
+דוגמה	NN	gen=f|num=s
+ה	DEF
+ידועה	JJ	gen=f|num=s
+ביותר	RB
+ל	PREPOSITION
+שמצה	NN	gen=f|num=s
+מ	PREPOSITION
+ה	DEF
+תקופה	NN	gen=f|num=s
+ה	DEF
+אחרונה	JJ	gen=f|num=s
+היא	COP	gen=f|num=s|per=3|polar=pos|tense=BEINONI
+ה	DEF
+שימוש	NN	gen=m|num=s
+ב	PREPOSITION
+כספי	NNT	gen=m|num=p
+קרן	NNT	gen=f|num=s
+גאנט	NNP	gen=f|gen=m|num=s
+ל	PREPOSITION
+רכישת	NNT	gen=f|num=s
+אלפי	CDT	gen=m|num=p
+עותקים	NN	gen=m|num=p
+של	POS
+ה	DEF
+אוטוביוגרפיה	NN	gen=f|num=s
+של	POS
+יו"ר	NNT	gen=m|num=s
+גאנט	NNP	gen=f|gen=m|num=s
+לשעבר	RB
+,	yyCM
+אלאן	NNP	gen=m|num=s
+נויהארט	NNP	gen=f|gen=m|num=s
+.	yyDOT
+
+ה	DEF
+דבר	NN	gen=m|num=s
+סייע	VB	gen=m|num=s|per=3|tense=PAST
+להכניס	VB_TOINFINITIVE
+את	AT
+ה	DEF
+ספר	NN	gen=m|num=s
+ל	PREPOSITION
+רשימת	NNT	gen=f|num=s
+רבי	NNT	gen=m|num=s
+-	yyDASH
+ה	DEF
+מכר	NN	gen=m|num=s
+של	POS
+"	yyQUOT
+ניו	NNP	gen=f|gen=m|num=s
+יורק	NNP	gen=f|num=s
+טיימס	NNP
+"	yyQUOT
+,	yyCM
+מעמד	NN	gen=m|num=s
+ש	REL
+ב	PREPOSITION
+דרך	NNT	gen=f|num=s
+כלל	NN	gen=m|num=s
+גורר	BN	gen=m|num=s|per=a
+בעקבות	IN
+הוא@suf	S_PRN	gen=m|num=s|per=3
+מכירת	NNT	gen=f|num=s
+עשרות	CDT	gen=f|num=p
+אלפי	CDT	gen=m|num=p
+עותקים	NN	gen=m|num=p
+נוספים	JJ	gen=m|num=p
+.	yyDOT
+
+עצה	NN	gen=f|num=s
+מספר	NN	gen=m|num=s
+2	CD
+.	yyDOT
+
+לך	VB	gen=m|num=s|per=2|tense=IMPERATIVE
+להיות	COP_TOINFINITIVE	polar=pos
+זמר	NNT	gen=m|num=s
+אופרה	NN	gen=f|num=s
+או	CC
+ביולוג	NN	gen=m|num=s
+מולקולרי	JJ	gen=m|num=s
+.	yyDOT
+
+ב	PREPOSITION
+ה	DEF
+ספר	NN	gen=m|num=s
+"	yyQUOT
+צדקה	NN	gen=f|num=s
+מתחילה	BN	gen=f|num=s|per=a
+מ	PREPOSITION
+בית	NN	gen=m|num=s
+"	yyQUOT
+התלוננה	VB	gen=f|num=s|per=3|tense=PAST
+תרזה	NNP
+אודנדל	NNP	gen=f|gen=m|num=s
+על	IN
+מחזוריות	NNT	gen=f|num=s
+ה	DEF
+פילנטרופיה	NN	gen=f|num=s
+.	yyDOT
+
+חלק	NN	gen=m|num=s
+נכבד	JJ	gen=m|num=s
+מ	PREPOSITION
+תרומותיהן	NN_S_PP	gen=f|num=p|suf_gen=f|suf_num=p|suf_per=3
+של	POS
+קרנות	NN	gen=f|num=p
+-LRB-	yyLRB
+ו	CONJ
+של	POS
+חברות	NN	gen=f|num=p
+ו	CONJ
+אנשים	NN	gen=m|num=p
+עשירים	JJ	gen=m|num=p
+-RRB-	yyRRB
+מגיע	BN	gen=m|num=s|per=a
+לבסוף	RB
+ל	PREPOSITION
+נקודת	NNT	gen=f|num=s
+ה	DEF
+התחלה	NN	gen=f|num=s
+של	POS
+הנ@suf	S_PRN	gen=f|num=p|per=3
+:	yyCLN
+ל	PREPOSITION
+ה	DEF
+דרגים	NN	gen=m|num=p
+ה	DEF
+עליונים	JJ	gen=m|num=p
+של	POS
+ה	DEF
+חברה	NN	gen=f|num=s
+,	yyCM
+ל	PREPOSITION
+מוזיאונים	NN	gen=m|num=p
+,	yyCM
+ל	PREPOSITION
+אולמות	NNT	gen=m|num=p
+קונצרטים	NN	gen=m|num=p
+ו	CONJ
+ל	PREPOSITION
+תיאטראות	NN	gen=m|num=p
+קהילתיים	JJ	gen=m|num=p
+,	yyCM
+ש	REL
+סוג	NNT	gen=m|num=s
+ה	DEF
+אנשים	NN	gen=m|num=p
+ה	REL
+יכול	MD	gen=m|num=s|per=a|tense=BEINONI
+להרשות	VB_TOINFINITIVE
+ל	PREPOSITION
+עצמו	PRP	gen=m|num=s|per=3
+לתרום	VB_TOINFINITIVE
+תרומות	NNT	gen=f|num=p
+צדקה	NN	gen=f|num=s
+הוא	COP	gen=m|num=s|per=3|polar=pos|tense=BEINONI
+ה	REL
+מנהל	BN	gen=m|num=s|per=a
+אות	AT
+המ@suf	S_PRN	gen=m|num=p|per=3
+ו	CONJ
+פוקד	BN	gen=m|num=s|per=a
+אות	AT
+המ@suf	S_PRN	gen=m|num=p|per=3
+.	yyDOT
+
+51	CD
+%	NN	gen=m|num=p|num=s
+מ	PREPOSITION
+כספי	NNT	gen=m|num=p
+ה	DEF
+קרנות	NN	gen=f|num=p
+מופנים	BN	gen=m|num=p|per=a
+ל	PREPOSITION
+פעילויות	NN	gen=f|num=p
+תרבותיות	JJ	gen=f|num=p
+.	yyDOT
+
+ל	PREPOSITION
+דעת	NNT	gen=f|num=s
+אנשים	NN	gen=m|num=p
+ה	REL
+עשויים	MD	gen=m|num=p|per=a
+לחשוב	VB_TOINFINITIVE
+על	IN
+קדימויות	NN	gen=m|num=p
+חברתיות	JJ	gen=f|num=p
+נאצלות	JJ	gen=f|num=p
+יותר	RB
+מאשר	CC
+הקמת	NNT	gen=f|num=s
+סביבה	NN	gen=f|num=s
+תומכת	JJ	gen=f|num=s
+ל	PREPOSITION
+אופרה	NN	gen=f|num=s
+,	yyCM
+זה	PRP	gen=m|num=s|per=3
+שיעור	NN	gen=m|num=s
+גבוה	JJ	gen=m|num=s
+מאוד	RB
+.	yyDOT
+
+ל	IN
+מרבה	DTT	gen=m|num=s
+ה	DEF
+מזל	NN	gen=m|num=s
+,	yyCM
+כ	ADVERB
+שליש	NN	gen=m|num=s
+מ	PREPOSITION
+ה	DEF
+כסף	NN	gen=m|num=s
+מועבר	BN	gen=m|num=s|per=a
+ל	PREPOSITION
+פרויקטים	NN	gen=m|num=p
+ש	REL
+ה	DEF
+תועלת	NN	gen=f|num=s
+ב	IN
+המ@suf	S_PRN	gen=m|num=p|per=3
+קונקרטית	JJ	gen=f|num=s
+יותר	RB
+,	yyCM
+כגון	IN
+שירותי	NNT	gen=m|num=p
+בריאות	NN	gen=f|num=s
+או	CC
+מחקרים	NN	gen=m|num=p
+ב	PREPOSITION
+תחומי	NNT	gen=m|num=p
+ה	DEF
+רפואה	NN	gen=f|num=s
+או	CC
+מדעי	NNT	gen=m|num=p
+ה	DEF
+טבע	NN	gen=m|num=s
+.	yyDOT
+
+קצת	RB
+יותר	RB
+מ	PREPOSITION
+שליש	NN	gen=m|num=s
+מושקע	BN	gen=m|num=s|per=a
+ב	PREPOSITION
+שטח	NNT	gen=m|num=s
+ה	DEF
+הפקר	NN	gen=m|num=s
+ה	DEF
+גדול	JJ	gen=m|num=s
+ש	REL
+ב	IN
+הוא@suf	S_PRN	gen=m|num=s|per=3
+מתחרים	BN	gen=m|num=p|per=a
+על	IN
+תשומת	NNT	gen=f|num=s
+ה	DEF
+לב	NN	gen=m|num=s
+רעיונות	NN	gen=m|num=p
+ו	CONJ
+תוכניות	NN	gen=f|num=p
+ב	PREPOSITION
+מדעי	NNT	gen=m|num=p
+ה	DEF
+חברה	NN	gen=f|num=s
+ו	CONJ
+ב	PREPOSITION
+תחום	NNT	gen=m|num=s
+ה	DEF
+מדיניות	NN	gen=f|num=s
+ה	DEF
+ציבורית	JJ	gen=f|num=s
+.	yyDOT
+
+ב	IN
+תוככי	NNT	gen=m|num=p
+אזור	NN	gen=m|num=s
+זה	PRP	gen=m|num=s|per=3
+,	yyCM
+ש	REL
+בירתו	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=s|suf_per=3
+היא	COP	gen=f|num=s|per=3|polar=pos|tense=BEINONI
+ואשינגטון	NNP
+,	yyCM
+ה	DEF
+עצות	NN	gen=f|num=p
+ה	DEF
+באות	JJ	gen=f|num=p
+הן	COP	gen=f|num=p|per=3|polar=pos|tense=BEINONI
+ה	DEF
+ישימות	JJ	gen=f|num=p
+ביותר	RB
+.	yyDOT
+
+עצה	NN	gen=f|num=s
+מספר	NN	gen=m|num=s
+3	CD
+.	yyDOT
+
+הייה	COP	gen=m|num=s|per=2|polar=pos|tense=IMPERATIVE
+מודע	JJ	gen=m|num=s
+ל	PREPOSITION
+ה	DEF
+השלכות	NN	gen=f|num=p
+ה	DEF
+מרובות	JJ	gen=f|num=p
+של	POS
+עבודתך	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=s|suf_per=2
+.	yyDOT
+
+"	yyQUOT
+אתה	PRP	gen=m|num=s|per=2
+מתבונן	BN	gen=m|num=s|per=a
+ב	PREPOSITION
+נושא	NN	gen=m|num=s
+ש	REL
+יהיה	COP	gen=m|num=s|per=3|polar=pos|tense=FUTURE
+בעל	NNT	gen=m|num=s
+ערך	NN	gen=m|num=s
+לגיטימי	JJ	gen=m|num=s
+ל	PREPOSITION
+מחקר	NN	gen=m|num=s
+,	yyCM
+ו	CONJ
+ב	IN
+הוא@suf	S_PRN	gen=m|num=s|per=3
+ב	PREPOSITION
+ה	DEF
+זמן	NN	gen=m|num=s
+יכבוש	VB	gen=m|num=s|per=3|tense=FUTURE
+את	AT
+דמיונו	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=s|suf_per=3
+של	POS
+פקיד	NNT	gen=m|num=s
+ה	DEF
+תוכנית	NN	gen=f|num=s
+"	yyQUOT
+,	yyCM
+אומר	BN	gen=m|num=s|per=a
+וורן	NNP
+מילר	NNP
+,	yyCM
+איש	NNT	gen=m|num=s
+מדעי	NNT	gen=m|num=p
+ה	DEF
+מדינה	NN	gen=f|num=s
+ב	PREPOSITION
+אוניברסיטת	NNT	gen=f|num=s
+אריזונה	NNP
+.	yyDOT
+
+במשך	IN
+עשרות	CDT	gen=f|num=p
+שנים	NN	gen=f|num=p
+שימש	VB	gen=m|num=s|per=3|tense=PAST
+מילר	NNP
+מגייס	BNT	gen=m|num=s|per=a
+מענקים	NN	gen=m|num=p
+מרכזי	JJ	gen=m|num=s
+ל	PREPOSITION
+פרויקט	NNT	gen=m|num=s
+חקר	NNT	gen=m|num=s
+ה	DEF
+בחירות	NN	gen=f|num=p
+ה	DEF
+ארציות	JJ	gen=f|num=p
+,	yyCM
+מחקר	NN	gen=m|num=s
+על	IN
+התנהגות	NNT	gen=f|num=s
+מצביעים	NN	gen=m|num=p
+ש	REL
+בעקבות	IN
+הוא@suf	S_PRN	gen=m|num=s|per=3
+נכתב	VB	gen=m|num=s|per=3|tense=PAST
+ב	PREPOSITION
+1960	CD
+ה	DEF
+חיבור	NN	gen=m|num=s
+ה	DEF
+קלאסי	JJ	gen=m|num=s
+"	yyQUOT
+ה	DEF
+מצביע	NN	gen=m|num=s
+ה	DEF
+אמריקאי	JJ	gen=m|num=s
+"	yyQUOT
+.	yyDOT
+
+מאז	RB
+המשיך	VB	gen=m|num=s|per=3|tense=PAST
+ב	PREPOSITION
+ה	DEF
+מחקר	NN	gen=m|num=s
+ו	CONJ
+הגדיל	VB	gen=m|num=s|per=3|tense=PAST
+את	AT
+מאגר	NNT	gen=m|num=s
+ה	DEF
+נתונים	NN	gen=m|num=p
+של	POS
+הוא@suf	S_PRN	gen=m|num=s|per=3
+.	yyDOT
+
+עצה	NN	gen=f|num=s
+מספר	NN	gen=m|num=s
+4	CD
+.	yyDOT
+
+תבטיח	VB	gen=m|num=s|per=2|tense=FUTURE
+להציל	VB_TOINFINITIVE
+את	AT
+ה	DEF
+עולם	NN	gen=m|num=s
+.	yyDOT
+
+על	IN
+פי	NNT	gen=m|num=s
+כל	DTT
+ה	DEF
+דיווחים	NN	gen=m|num=p
+חלה	VB	gen=f|num=s|per=3|tense=PAST
+ב	PREPOSITION
+ה	DEF
+עשורים	NN	gen=m|num=p
+ה	DEF
+אחרונים	JJ	gen=m|num=p
+ירידה	NN	gen=f|num=s
+תלולה	JJ	gen=f|num=s
+ב	PREPOSITION
+ה	DEF
+תמיכה	NN	gen=f|num=s
+ב	PREPOSITION
+עבודות	NNT	gen=f|num=p
+מחקר	NN	gen=m|num=s
+ב	PREPOSITION
+מדעי	NNT	gen=m|num=p
+ה	DEF
+חברה	NN	gen=f|num=s
+ש	REL
+אין	EX
+ל	IN
+הנ@suf	S_PRN	gen=f|num=p|per=3
+יישום	NN	gen=m|num=s
+מעשי	JJ	gen=m|num=s
+מידי	JJ	gen=m|num=s
+.	yyDOT
+
+מילר	NNP
+זוכר	BN	gen=m|num=s|per=a
+ש	REL
+ב	PREPOSITION
+שנות	NNT	gen=f|num=p
+ה	DEF
+05	CD
+ו	CONJ
+ה	DEF
+06	CD
+הוא	PRP	gen=m|num=s|per=3
+יכול	MD	gen=m|num=s|per=a|tense=BEINONI
+היה	COP	gen=m|num=s|per=3|polar=pos|tense=PAST
+להסתמך	VB_TOINFINITIVE
+על	IN
+סיוע	NN	gen=m|num=s
+מ	PREPOSITION
+קרנות	NNT	gen=f|num=p
+פורד	NNP
+ו	CONJ
+רוקפלר	NNP
+.	yyDOT
+
+ניסיונו	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=s|suf_per=3
+ה	DEF
+אחרון	JJ	gen=m|num=s
+של	POS
+מילר	NNP
+להשיג	VB_TOINFINITIVE
+כספים	NN	gen=m|num=p
+מ	PREPOSITION
+קרן	NNT	gen=f|num=s
+פורד	NNP
+היה	COP	gen=m|num=s|per=3|polar=pos|tense=PAST
+ב	PREPOSITION
+תחילת	NNT	gen=f|num=s
+שנות	NNT	gen=f|num=p
+ה	DEF
+07	CD
+.	yyDOT
+
+אז	RB
+הוא	PRP	gen=m|num=s|per=3
+גילה	VB	gen=m|num=s|per=3|tense=PAST
+עניין	NN	gen=m|num=s
+ב	PREPOSITION
+ה	DEF
+גורמים	NN	gen=m|num=p
+ה	REL
+משפיעים	BN	gen=m|num=p|per=a
+על	IN
+שיעור	NNT	gen=m|num=s
+ה	DEF
+מצביעים	NN	gen=m|num=p
+,	yyCM
+ו	CONJ
+פקיד	NNT	gen=m|num=s
+ה	DEF
+תוכנית	NN	gen=f|num=s
+גילה	VB	gen=m|num=s|per=3|tense=PAST
+עניין	NN	gen=m|num=s
+ב	PREPOSITION
+שיעור	NNT	gen=m|num=s
+ה	DEF
+מצביעים	NN	gen=m|num=p
+ה	DEF
+נמוך	JJ	gen=m|num=s
+בקרב	IN
+בני	NNT	gen=m|num=p
+מיעוטים	NN	gen=m|num=p
+.	yyDOT
+
+נראה	BN	gen=m|num=s|per=a
+היה	COP	gen=m|num=s|per=3|polar=pos|tense=PAST
+ש	REL
+זה	PRP	gen=m|num=s|per=3
+זיווג	NN	gen=m|num=s
+טוב	JJ	gen=m|num=s
+.	yyDOT
+
+מילר	NNP
+הדגיש	VB	gen=m|num=s|per=3|tense=PAST
+ש	REL
+יעד	NNT	gen=m|num=s
+ה	DEF
+מחקר	NN	gen=m|num=s
+יהיה	COP	gen=m|num=s|per=3|polar=pos|tense=FUTURE
+איתור	NNT	gen=m|num=s
+מחסומים	NN	gen=m|num=p
+ה	REL
+מונעים	BN	gen=m|num=p|per=a
+מ	PREPOSITION
+בני	NNT	gen=m|num=p
+מיעוטים	NN	gen=m|num=p
+להצביע	VB_TOINFINITIVE
+,	yyCM
+דבר	NN	gen=m|num=s
+ש	REL
+ל	PREPOSITION
+דעתו	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=s|suf_per=3
+עשוי	MD	gen=m|num=s|per=a
+היה	COP	gen=m|num=s|per=3|polar=pos|tense=PAST
+להיות	COP_TOINFINITIVE	polar=pos
+צעד	NN	gen=m|num=s
+ראשון	JJ	gen=m|num=s
+לקראת	IN
+העלאת	NNT	gen=f|num=s
+שיעור	NNT	gen=m|num=s
+ה	DEF
+הצבעה	NN	gen=f|num=s
+.	yyDOT
+
+אך	CC
+זה	PRP	gen=m|num=s|per=3
+לא	RB
+היה	COP	gen=m|num=s|per=3|polar=pos|tense=PAST
+מספיק	RB
+טוב	JJ	gen=m|num=s
+ל	PREPOSITION
+ה	DEF
+קרן	NN	gen=f|num=s
+.	yyDOT
+
+קרן	NNT	gen=f|num=s
+פורד	NNP
+רצתה	VB	gen=f|num=s|per=3|tense=PAST
+להיות	COP_TOINFINITIVE	polar=pos
+בטוחה	JJ	gen=f|num=s
+ש	REL
+ה	DEF
+מחקר	NN	gen=m|num=s
+יגדיר	VB	gen=m|num=s|per=3|tense=FUTURE
+במפורש	RB
+את	AT
+ה	DEF
+דרכים	NN	gen=f|num=p
+ל	PREPOSITION
+העלאת	NNT	gen=f|num=s
+שיעור	NNT	gen=m|num=s
+ה	DEF
+מצביעים	NN	gen=m|num=p
+בקרב	IN
+מיעוטים	NN	gen=m|num=p
+.	yyDOT
+
+מילר	NNP
+לא	RB
+יכול	MD	gen=m|num=s|per=a|tense=BEINONI
+היה	COP	gen=m|num=s|per=3|polar=pos|tense=PAST
+להבטיח	VB_TOINFINITIVE
+זאת	PRP	gen=f|num=s|per=3
+ב	PREPOSITION
+מצפון	NN	gen=m|num=s
+נקי	JJ	gen=m|num=s
+.	yyDOT
+
+מ	PREPOSITION
+אז	RB-COMPOUND
+7791	CD
+מומן	VB	gen=m|num=s|per=3|tense=PAST
+פרויקט	NNT	gen=m|num=s
+חקר	NNT	gen=m|num=s
+ה	DEF
+בחירות	NN	gen=f|num=p
+ה	DEF
+ארציות	JJ	gen=f|num=p
+על	IN
+-	yyDASH
+ידי	NNT	gen=f|num=p
+קרן	NNT	gen=f|num=s
+ה	DEF
+מדע	NN	gen=m|num=s
+ה	DEF
+ארצית	JJ	gen=f|num=s
+,	yyCM
+ה	DEF
+תומכת	NN	gen=f|num=s
+ה	DEF
+גדולה	JJ	gen=m|num=s
+ביותר	RB
+ב	PREPOSITION
+מדעי	NNT	gen=m|num=p
+חברה	NN	gen=f|num=s
+בסיסיים	JJ	gen=m|num=p
+.	yyDOT
+
+עצה	NN	gen=f|num=s
+מספר	NN	gen=m|num=s
+5	CD
+.	yyDOT
+
+הייה	COP	gen=m|num=s|per=2|polar=pos|tense=IMPERATIVE
+קטליזטור	NN	gen=m|num=s
+ל	PREPOSITION
+שינוי	NN	gen=m|num=s
+.	yyDOT
+
+יש	EX
+אנשים	NN	gen=m|num=p
+ה	REL
+מתקשים	BN	gen=m|num=p|per=a
+להבטיח	VB_TOINFINITIVE
+ב	PREPOSITION
+פרצוף	NNT	gen=m|num=s
+פוקר	NN	gen=m|num=s
+ש	REL
+הם	PRP	gen=m|num=p|per=3
+יציעו	VB	gen=f|gen=m|num=p|per=3|tense=FUTURE
+פתרון	NN	gen=m|num=s
+ל	PREPOSITION
+בעיה	NN	gen=f|num=s
+חברתית	JJ	gen=f|num=s
+מרכזית	JJ	gen=f|num=s
+.	yyDOT
+
+ל	PREPOSITION
+אנשים	NN	gen=m|num=p
+אלה	PRP	gen=m|num=p|per=3
+מומלץ	MD	gen=m|num=s|tense=PAST
+ליהפך	VB_TOINFINITIVE
+ל	PREPOSITION
+קטליזטורים	NN	gen=m|num=p
+:	yyCLN
+לקבץ	VB_TOINFINITIVE
+יחד	RB
+אנשים	NN	gen=m|num=p
+רבים	JJ	gen=m|num=p
+ה	REL
+יכולים	MD	gen=m|num=p|per=a|tense=BEINONI
+להבטיח	VB_TOINFINITIVE
+פתרונות	NN	gen=m|num=p
+או	CC
+ש	REL
+לפחות	RB
+יכולים	BN	gen=m|num=p|per=a
+היו	COP	gen=f|gen=m|num=p|per=3|polar=pos|tense=PAST
+,	yyCM
+אילו	CC
+סגרו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+אות	AT
+המ@suf	S_PRN	gen=m|num=p|per=3
+ב	PREPOSITION
+מרכז	NNT	gen=m|num=s
+ועידות	NN	gen=f|num=p
+במשך	IN
+ימים	NN	gen=m|num=p
+,	yyCM
+להציע	VB_TOINFINITIVE
+פתרון	NN	gen=m|num=s
+.	yyDOT
+
+ה	DEF
+קרנות	NN	gen=f|num=p
+אוהבות	BN	gen=f|num=p|per=a
+יותר	RB
+ו	CONJ
+יותר	RB
+סימנים	NN	gen=m|num=p
+מוחשיים	JJ	gen=m|num=p
+כ	PREPOSITION
+ה	DEF
+אלה	PRP	gen=m|num=p|per=3
+ל	PREPOSITION
+ה	DEF
+השפעה	NN	gen=f|num=s
+ש	REL
+יש	EX
+ל	PREPOSITION
+כנסים	NN	gen=m|num=p
+ו	CONJ
+ל	PREPOSITION
+התוועדויות	NN	gen=f|num=p
+.	yyDOT
+
+בעיקר	RB
+הן	PRP	gen=f|num=p|per=3
+אוהבות	BN	gen=f|num=p|per=a
+לאסוף	VB_TOINFINITIVE
+אנשים	NN	gen=m|num=p
+ש	REL
+אילולא	CC
+כן	PRP	per=3
+אפשר	MD
+ש	REL
+לא	RB
+היו	COP	gen=f|gen=m|num=p|per=3|polar=pos|tense=PAST
+נפגשים	BN	gen=m|num=p|per=a
+לעולם	RB
+:	yyCLN
+אקדמאים	NN	gen=m|num=p
+ו	CONJ
+פוליטיקאים	NN	gen=m|num=p
+,	yyCM
+ביורוקרטים	NN	gen=m|num=p
+ו	CONJ
+נבחרי	NNT	gen=m|num=p
+ציבור	NN	gen=m|num=s
+,	yyCM
+פנאטים	JJ	gen=m|num=p
+של	POS
+ה	DEF
+שמאל	NN	gen=m|num=s
+ו	CONJ
+פנאטים	JJ	gen=m|num=p
+של	POS
+ה	DEF
+ימין	NN	gen=m|num=s
+.	yyDOT
+
+ו	CONJ
+זכרו	VB	gen=f|gen=m|num=p|per=2|tense=IMPERATIVE
+:	yyCLN
+אפשר	MD
+ש	REL
+פקיד	NNT	gen=m|num=s
+ה	DEF
+תוכנית	NN	gen=f|num=s
+של	POS
+ה	DEF
+קרן	NN	gen=f|num=s
+יצטרף	VB	gen=m|num=s|per=3|tense=FUTURE
+גם	RB
+הוא	PRP	gen=m|num=s|per=3
+ל	PREPOSITION
+ה	DEF
+מסע	NN	gen=m|num=s
+;	yySCLN
+הקפידו	VB	gen=f|gen=m|num=p|per=2|tense=IMPERATIVE
+איפוא	CC
+ב	PREPOSITION
+בחירת	NNT	gen=f|num=s
+ה	DEF
+אתר	NN	gen=m|num=s
+.	yyDOT
+
+אומרים	BN	gen=m|num=p|per=a
+ש	REL
+מרכז	NNT	gen=m|num=s
+ה	DEF
+וועידות	NN	gen=f|num=p
+ו	CONJ
+ה	DEF
+לימודים	NN	gen=m|num=p
+של	POS
+קרן	NNT	gen=f|num=s
+רוקפלר	NNP
+ב	IN
+בלאגיו	NNP	gen=f|num=s
+ש	REL
+ב	PREPOSITION
+איטליה	NNP
+הוא	COP	gen=m|num=s|per=3|polar=pos|tense=BEINONI
+מקום	NN	gen=m|num=s
+טוב	JJ	gen=m|num=s
+ל	PREPOSITION
+חישול	NNT	gen=m|num=s
+קונסנזוס	NN	gen=m|num=s
+על	IN
+בעיות	NN	gen=f|num=p
+דחופות	JJ	gen=f|num=p
+של	POS
+ה	DEF
+עולם	NN	gen=m|num=s
+.	yyDOT
+
+גם	RB
+אם	CC
+לא	RB
+ייווצר	VB	gen=m|num=s|per=3|tense=FUTURE
+קונסנסוס	NN	gen=m|num=s
+חדש	JJ	gen=m|num=s
+מ	PREPOSITION
+אלכימיה	NN	gen=f|num=s
+זו	PRP	gen=f|num=s|per=3
+,	yyCM
+קרוב	JJ	gen=m|num=s
+ל	PREPOSITION
+וודאי	JJ	gen=m|num=s
+ש	REL
+ייצא	VB	gen=m|num=s|per=3|tense=PAST
+כרך	NN	gen=m|num=s
+של	POS
+ניירות	NN	gen=m|num=p
+.	yyDOT
+
+בקרב	IN
+אקדמאים	NN	gen=m|num=p
+ש	REL
+אינם	COP	gen=m|num=p|per=3|polar=neg|tense=BEINONI
+מוזמנים	BN	gen=m|num=p|per=a
+ל	PREPOSITION
+וועידות	NN	gen=f|num=p
+אלה	PRP	gen=m|num=p|per=3
+שוררת	BN	gen=f|num=s|per=a
+ציניות	NN	gen=f|num=s
+רבה	JJ	gen=f|num=s
+באשר	CC
+ל	PREPOSITION
+מטר	NNT	gen=m|num=s
+כרכי	NNT	gen=m|num=p
+ה	DEF
+מאמרים	NN	gen=m|num=p
+ו	CONJ
+ה	DEF
+ניירות	NN	gen=m|num=p
+ה	REL
+מונפקים	BN	gen=m|num=p|per=a
+ב	PREPOSITION
+חסות	NNT	gen=f|num=s
+קרנות	NN	gen=f|num=p
+.	yyDOT
+
+אין	RB
+זה	PRP	gen=m|num=s|per=3
+סביר	MD	gen=m|num=s|tense=PAST
+ש	REL
+על	IN
+שולחנות	NNT	gen=m|num=p
+עיתונאים	NN	gen=m|num=p
+ו	CONJ
+מעצבי	NNT	gen=m|num=p
+מדיניות	NN	gen=f|num=s
+רובצים	BN	gen=m|num=p|per=a
+כל	DTT
+כרכי	NNT	gen=m|num=p
+"	yyQUOT
+אמריקן	NNP	gen=f|gen=m|num=s
+אקונומיק	NNP	gen=f|gen=m|num=s
+ריוויו	NNP	gen=f|gen=m|num=s
+"	yyQUOT
+של	POS
+שלוש	CDT	gen=f|num=s
+ה	DEF
+שנים	NN	gen=f|num=p
+ה	DEF
+אחרונות	JJ	gen=f|num=p
+,	yyCM
+אך	CC
+בהחלט	RB
+הגיוני	JJ	gen=m|num=s
+ש	REL
+יש	EX
+ל	IN
+המ@suf	S_PRN	gen=m|num=p|per=3
+כמה	DTT
+כרכים	NN	gen=m|num=p
+ה	REL
+מספקים	BN	gen=m|num=p|per=a
+מידע	NN	gen=m|num=s
+ב	PREPOSITION
+נושא	NN	gen=m|num=s
+נתון	JJ	gen=m|num=s
+ב	PREPOSITION
+מינונים	NN	gen=m|num=p
+קטנים	JJ	gen=m|num=p
+ו	CONJ
+חזקים	JJ	gen=m|num=p
+.	yyDOT
+
+עצה	NN	gen=f|num=s
+מספר	NN	gen=m|num=s
+6	CD
+.	yyDOT
+
+ערוך	VB	gen=m|num=s|per=2|tense=IMPERATIVE
+בדיקה	NN	gen=f|num=s
+מחודשת	JJ	gen=f|num=s
+,	yyCM
+נוקבת	BN	gen=f|num=s|per=a
+ו	CONJ
+קטלנית	JJ	gen=f|num=s
+,	yyCM
+ל	PREPOSITION
+דוגמות	NN	gen=f|num=p
+ליברליות	JJ	gen=f|num=p
+עייפות	JJ	gen=f|num=p
+.	yyDOT
+
+זה	PRP	gen=m|num=s|per=3
+כ	ADVERB
+02	CD
+שנה	NN	gen=f|num=s
+מתאמצת	BN	gen=f|num=s|per=a
+חבורת	NNT	gen=f|num=s
+שמרנים	NN	gen=m|num=p
+,	yyCM
+ביני	IN
+המ@suf	S_PRN	gen=m|num=p|per=3
+אירווינג	NNP
+קריסטול	NNP	gen=f|gen=m|num=s
+,	yyCM
+להשיג	VB_TOINFINITIVE
+סובסידיה	NN	gen=f|num=s
+פילנטרופית	JJ	gen=f|num=s
+ל	PREPOSITION
+הוגים	NN	gen=m|num=p
+רבים	JJ	gen=m|num=p
+יותר	RB
+מ	PREPOSITION
+ה	DEF
+ימין	NN	gen=m|num=s
+.	yyDOT
+
+הם	PRP	gen=m|num=p|per=3
+סבורים	BN	gen=m|num=p|per=a
+ש	REL
+יש	EX
+אירוניה	NN	gen=f|num=s
+ב	PREPOSITION
+כך	PRP	per=3
+ש	REL
+מענקי	NNT	gen=m|num=p
+קרנות	NN	gen=f|num=p
+באים	BN	gen=m|num=p|per=a
+ב	PREPOSITION
+דרך	NNT	gen=f|num=s
+כלל	NN	gen=m|num=s
+מ	PREPOSITION
+טיפוסים	NN	gen=m|num=p
+שמרניים	JJ	gen=m|num=p
+,	yyCM
+אך	CC
+ה	DEF
+קרן	NN	gen=f|num=s
+לובשת	BN	gen=f|num=s|per=a
+לעיתים	RB
+קרובות	JJ	gen=f|num=p
+חזות	NN	gen=f|num=s
+של	POS
+שמאלה	RB
+מ	PREPOSITION
+ה	DEF
+מרכז	NN	gen=m|num=s
+ב	PREPOSITION
+הנהגת	NNT	gen=f|num=s
+ה	DEF
+פילנטרופואידים	NN	gen=m|num=p
+-LRB-	yyLRB
+ה	DEF
+מונח	NN	gen=m|num=s
+ש	REL
+טבע	VB	gen=m|num=s|per=3|tense=PAST
+דווייט	NNP	gen=m|num=s
+מקדונלד	NNP
+ב	PREPOSITION
+קרן	NNT	gen=f|num=s
+פורד	NNP
+-RRB-	yyRRB
+,	yyCM
+ש	REL
+ב	PREPOSITION
+סופו	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=s|suf_per=3
+של	POS
+דבר	NN	gen=m|num=s
+מנהלים	BN	gen=m|num=p|per=a
+אות	AT
+המ@suf	S_PRN	gen=m|num=p|per=3
+.	yyDOT
+
+קריסטול	NNP	gen=f|gen=m|num=s
+ו	CONJ
+חבריו	NN_S_PP	gen=m|num=p|suf_gen=m|suf_num=s|suf_per=3
+ה	DEF
+שמרנים	JJ	gen=m|num=p
+עשו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+שני	CDT	gen=m|num=p
+דברים	NN	gen=m|num=p
+:	yyCLN
+ראשית	RB
+,	yyCM
+הם	PRP	gen=m|num=p|per=3
+עודדו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+חברות	NN	gen=f|num=p
+לתעל	VB_TOINFINITIVE
+את	AT
+ה	DEF
+פילנטרופיה	NN	gen=f|num=s
+של	POS
+הנ@suf	S_PRN	gen=f|num=p|per=3
+ל	PREPOSITION
+ה	DEF
+יוצאים	NN	gen=m|num=p
+מן	IN
+ה	DEF
+כלל	NN	gen=m|num=s
+של	POS
+כלל	NN	gen=m|num=s
+זה	PRP	gen=m|num=s|per=3
+,	yyCM
+כמו	IN
+קרן	NNT	gen=f|num=s
+גון	NN	gen=m|num=s
+מ	NNP	gen=f|gen=m|num=s
+.	yyDOT
+
+שנית	RB
+,	yyCM
+הם	PRP	gen=m|num=p|per=3
+עודדו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+את	AT
+ה	DEF
+יוצאים	NN	gen=m|num=p
+מן	IN
+ה	DEF
+כלל	NN	gen=m|num=s
+להפעיל	VB_TOINFINITIVE
+השפעה	NN	gen=f|num=s
+מודעת	JJ	gen=f|num=s
+יותר	RB
+על	IN
+עיצוב	NNT	gen=m|num=s
+מדיניות	NN	gen=f|num=s
+ב	PREPOSITION
+דרג	NN	gen=m|num=s
+ארצי	JJ	gen=m|num=s
+.	yyDOT
+
+אנשים	NN	gen=m|num=p
+ב	PREPOSITION
+מרכז	NNT	gen=m|num=s
+אותה	PRP	gen=f|num=s|per=3
+תנועה	NN	gen=f|num=s
+מדגישים	BN	gen=m|num=p|per=a
+כי	CC
+לא	RB
+היתה	COP	gen=f|num=s|per=3|polar=pos|tense=PAST
+זו	PRP	gen=f|num=s|per=3
+מזימה	NN	gen=f|num=s
+של	POS
+ה	DEF
+ימין	NN	gen=m|num=s
+.	yyDOT
+
+"	yyQUOT
+איש	NN	gen=m|num=s
+לא	RB
+אמר	VB	gen=m|num=s|per=3|tense=PAST
+הבה	MD	gen=f|gen=m|num=p|per=1
+ניצור	VB	gen=f|gen=m|num=p|per=1|tense=FUTURE
+אווירה	NN	gen=f|num=s
+ש	REL
+ב	IN
+היא@suf	S_PRN	gen=f|num=s|per=3
+נוכל	MD	gen=f|gen=m|num=p|per=1|tense=FUTURE
+לבחור	VB_TOINFINITIVE
+נשיא	NN	gen=m|num=s
+שמרן	JJ	gen=m|num=s
+"	yyQUOT
+,	yyCM
+זוכר	BN	gen=m|num=s|per=a
+לזלי	NNP	gen=m|num=s
+לנקובסקי	NNP
+,	yyCM
+אחד	CDT	gen=m|num=s
+ה	DEF
+שותפים	NN	gen=m|num=p
+ל	PREPOSITION
+ה	DEF
+מזימה	NN	gen=f|num=s
+.	yyDOT
+
+לנקובסקי	NNP
+,	yyCM
+ש	REL
+ניהל	VB	gen=m|num=s|per=3|tense=PAST
+את	AT
+קרן	NNT	gen=f|num=s
+סמית	NNP
+-	yyDASH
+ריצרדסון	NNP
+ו	CONJ
+כיום	RB
+מנהל	BN	gen=m|num=s|per=a
+את	AT
+מכון	NNT	gen=m|num=s
+הדסון	NNP	gen=f|gen=m|num=s
+,	yyCM
+אומר	BN	gen=m|num=s|per=a
+כי	CC
+ה	DEF
+רעיון	NN	gen=m|num=s
+לא	RB
+היה	COP	gen=m|num=s|per=3|polar=pos|tense=PAST
+כל	DTT
+-	yyDASH
+כך	RB
+לתת	VB_TOINFINITIVE
+מענקים	NN	gen=m|num=p
+ל	PREPOSITION
+ה	DEF
+חשיבה	NN	gen=f|num=s
+ה	DEF
+ימנית	JJ	gen=f|num=s
+כש	TEMP
+ל	PREPOSITION
+עצמה	PRP	gen=f|num=s|per=3
+,	yyCM
+אלא	CC
+לתגמל	VB_TOINFINITIVE
+חלופות	NN	gen=f|num=p
+ל	PREPOSITION
+כל	DTT
+ה	DEF
+חשיבה	NN	gen=f|num=s
+ה	DEF
+שמאלית	JJ	gen=f|num=s
+ש	REL
+קיבלה	VB	gen=f|num=s|per=3|tense=PAST
+עד	IN
+אז	RB
+תגמולים	NN	gen=m|num=p
+ו	CONJ
+מימון	NN	gen=m|num=s
+.	yyDOT
+
+הוא	PRP	gen=m|num=s|per=3
+ו	CONJ
+קריסטול	NNP	gen=f|gen=m|num=s
+ו	CONJ
+ה	DEF
+אחרים	JJ	gen=m|num=p
+פשוט	RB
+חשו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+ש	REL
+"	yyQUOT
+קיים	JJ	gen=m|num=s
+מגוון	NN	gen=m|num=s
+שלם	JJ	gen=m|num=s
+של	POS
+נושאים	NN	gen=m|num=p
+ה	REL
+ראויים	MD	gen=m|num=p|per=a
+ל	PREPOSITION
+בדיקה	NN	gen=f|num=s
+"	yyQUOT
+.	yyDOT
+
+הם	PRP	gen=m|num=p|per=3
+פשוט	RB
+תהו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+,	yyCM
+נזכר	BN	gen=m|num=s|per=a
+לנקובסקי	NNP
+,	yyCM
+"	yyQUOT
+ל	PREPOSITION
+מי	QW
+יש	EX
+רעיונות	NN	gen=m|num=p
+מעניינים	JJ	gen=m|num=p
+?	yyQM
+"	yyQUOT
+.	yyDOT
+
+ובכן	RB
+,	yyCM
+התברר	VB	gen=m|num=s|per=3|tense=PAST
+ש	REL
+בעלי	NNT	gen=m|num=p
+ה	DEF
+רעיונות	NN	gen=m|num=p
+ה	DEF
+מעניינים	JJ	gen=m|num=p
+היו	COP	gen=f|gen=m|num=p|per=3|polar=pos|tense=PAST
+אנשים	NN	gen=m|num=p
+כמו	IN
+רוברט	NNP
+בורק	NNP	gen=f|gen=m|num=s
+,	yyCM
+מרטין	NNP
+פלדסטיין	NNP	gen=f|gen=m|num=s
+,	yyCM
+צארלס	NNP
+מאריי	NNP	gen=f|gen=m|num=s
+ו	CONJ
+אלן	NNP
+בלום	NNP
+ש	REL
+גם	RB
+הודות	IN
+ל	PREPOSITION
+ה	DEF
+תמיכה	NN	gen=f|num=s
+ה	DEF
+פילנטרופית	JJ	gen=f|num=s
+ש	REL
+קיבלו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+ב	PREPOSITION
+שנות	NNT	gen=f|num=p
+ה	DEF
+70	CD
+ו	CONJ
+או	CC
+ב	PREPOSITION
+ראשית	NNT	gen=f|num=s
+שנות	NNT	gen=f|num=p
+ה	DEF
+80	CD
+אין	EX
+צורך	NN	gen=m|num=s
+להציג	VB_TOINFINITIVE
+אות@suf	DUMMY_AT
+המ@suf	S_ANP	gen=m|num=p|per=3
+ב	PREPOSITION
+ה	DEF
+ציבור	NN	gen=m|num=s
+.	yyDOT
+
+אם	CC
+אתה	PRP	gen=m|num=s|per=2
+משמיע	BN	gen=m|num=s|per=a
+באוזני	IN
+ה	DEF
+שמרנים	NN	gen=m|num=p
+רמז	NN	gen=m|num=s
+ל	PREPOSITION
+כך	PRP	per=3
+ש	REL
+קריסטול	NNP	gen=f|gen=m|num=s
+ו	CONJ
+שות	NN	gen=m|num=p
+הפכו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+את	AT
+ה	DEF
+קערה	NN	gen=f|num=s
+על	IN
+פיה	NN_S_PP	gen=m|num=s|suf_gen=f|suf_num=s|suf_per=3
+,	yyCM
+ו	CONJ
+לכן	CC
+כיום	RB
+כסף	NN	gen=m|num=s
+ימני	JJ	gen=m|num=s
+הוא	COP	gen=m|num=s|per=3|polar=pos|tense=BEINONI
+ה	REL
+חולש	BN	gen=m|num=s|per=a
+ב	PREPOSITION
+ה	DEF
+כיפה	NN	gen=f|num=s
+ב	PREPOSITION
+עולם	NNT	gen=m|num=s
+ה	DEF
+רעיונות	NN	gen=m|num=p
+,	yyCM
+הם	PRP	gen=m|num=p|per=3
+יפנו	VB	gen=f|gen=m|num=p|per=3|tense=FUTURE
+אות	AT
+אתה@suf	S_PRN	gen=m|num=s|per=2
+ל	PREPOSITION
+רשימת	NNT	gen=f|num=s
+ה	DEF
+קרנות	NN	gen=f|num=p
+ה	DEF
+פילנטרופיות	JJ	gen=f|num=p
+ה	DEF
+גדולות	JJ	gen=f|num=p
+ביותר	RB
+,	yyCM
+ו	CONJ
+יזכירו	VB	gen=f|gen=m|num=p|per=3|tense=FUTURE
+ל	IN
+אתה@suf	S_PRN	gen=m|num=s|per=2
+ש	REL
+מבין	IN
+ה	DEF
+קרנות	NN	gen=f|num=p
+ה	DEF
+שמרניות	JJ	gen=f|num=p
+אולין	NNP
+,	yyCM
+סמית	NNP
+-	yyDASH
+ריצרדסון	NNP
+,	yyCM
+לינד	NNP	gen=f|gen=m|num=s
+ו	CONJ
+הרי	NNP	gen=m|num=s
+בראדלו	NNP	gen=f|gen=m|num=s
+,	yyCM
+פיו	NNP	gen=f|gen=m|num=s
+,	yyCM
+שרה	NNP
+סקאיף	NNP	gen=f|gen=m|num=s
+רק	RB
+פיו	NNP	gen=f|gen=m|num=s
+כלולה	BN	gen=f|num=s|per=a
+ב	PREPOSITION
+רשימת	NNT	gen=f|num=s
+ה	DEF
+גדולות	NN	gen=f|num=s
+.	yyDOT
+
+בהחלט	RB
+נכון	JJ	gen=m|num=s
+.	yyDOT
+
+ו	CONJ
+לא	RB
+זו	PRP	gen=f|num=s|per=3
+בלבד	RB
+,	yyCM
+אלא	CC
+נכון	JJ	gen=m|num=s
+גם	RB
+ש	REL
+קרן	NNT	gen=f|num=s
+מקארתור	NNP
+,	yyCM
+ה	DEF
+דוגמה	NN	gen=f|num=s
+ה	DEF
+שכיחה	JJ	gen=f|num=s
+ביותר	RB
+ל	PREPOSITION
+ה	DEF
+ליברליזם	NN	gen=m|num=s
+ה	DEF
+מבולבל	JJ	gen=m|num=s
+של	POS
+שנות	NNT	gen=f|num=p
+ה	DEF
+60	CD
+,	yyCM
+אכן	RB
+ראויה	MD	gen=f|num=s|per=a
+ל	PREPOSITION
+תיאור	NN	gen=m|num=s
+זה	PRP	gen=m|num=s|per=3
+.	yyDOT
+
+לפני	IN
+כמה	DTT
+שנים	NN	gen=f|num=p
+תרמה	VB	gen=f|num=s|per=3|tense=PAST
+ה	DEF
+קרן	NN	gen=f|num=s
+82000	CD
+דולר	NN	gen=m|num=s
+ל	PREPOSITION
+אוניברסיטת	NNT	gen=f|num=s
+קיימברידג	NNP	gen=f|num=s
+ל	PREPOSITION
+ניסיונו	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=s|suf_per=3
+של	POS
+סטיוון	NNP
+הוקינג	NNP	gen=f|gen=m|num=s
+לאחד	VB_TOINFINITIVE
+את	AT
+תיאוריית	NNT	gen=f|num=s
+ה	DEF
+קוונטים	NN	gen=m|num=p
+ו	CONJ
+תיאוריית	NNT	gen=f|num=s
+ה	DEF
+יחסות	NN	gen=f|num=s
+של	POS
+איינשטיין	NNP
+.	yyDOT
+
+כיום	RB
+היתה	COP	gen=f|num=s|per=3|polar=pos|tense=PAST
+תיאוריה	NN	gen=f|num=s
+כ	PREPOSITION
+ה	DEF
+זו	PRP	gen=f|num=s|per=3
+ב	PREPOSITION
+חזקת	NNT	gen=f|num=s
+מציאה	NN	gen=f|num=s
+גם	RB
+ב	PREPOSITION
+מחיר	NN	gen=m|num=s
+כפול	JJ	gen=m|num=s
+.	yyDOT
+
+אבל	CC
+כמה	DTT
+כסף	NN	gen=m|num=s
+העניקה	VB	gen=f|num=s|per=3|tense=PAST
+קרן	NNT	gen=f|num=s
+מקארתור	NNP
+ל	PREPOSITION
+פיסיקאים	NN	gen=m|num=p
+מבריקים	JJ	gen=m|num=p
+ה	REL
+מתעמקים	BN	gen=m|num=p|per=a
+ב	PREPOSITION
+בעיה	NN	gen=f|num=s
+זו	PRP	gen=f|num=s|per=3
+ו	CONJ
+אינם	COP	gen=m|num=p|per=3|polar=neg|tense=BEINONI
+סובלים	BN	gen=m|num=p|per=a
+מ	PREPOSITION
+שיתוק	NN	gen=m|num=s
+טרגי	JJ	gen=m|num=s
+בעקבות	IN
+מחלה	NN	gen=f|num=s
+מנוונת	JJ	gen=f|num=s
+חסרת	JJT	gen=f|num=s
+רחמים	NN	gen=m|num=p
+?	yyQM
+
+עם	IN
+זאת	PRP	gen=f|num=s|per=3
+,	yyCM
+גם	RB
+ה	DEF
+קרנות	NN	gen=f|num=p
+בעלות	NNT	gen=f|num=p
+ה	DEF
+שמות	NN	gen=m|num=p
+ה	DEF
+גדולים	JJ	gen=m|num=p
+אינן	COP	gen=f|num=p|per=3|polar=neg|tense=BEINONI
+בהכרח	RB
+מעיינות	NNT	gen=m|num=p
+ה	DEF
+חשיבה	NN	gen=f|num=s
+ה	DEF
+ליברלית	JJ	gen=f|num=s
+ה	DEF
+סטריאוטיפית	JJ	gen=f|num=s
+כפי	CC
+ש	REL
+ל	PREPOSITION
+עתים	NN	gen=f|num=p
+קרובות	JJ	gen=f|num=p
+מתארים	BN	gen=m|num=p|per=a
+אות	AT
+הנ@suf	S_PRN	gen=f|num=p|per=3
+.	yyDOT
+
+קרן	NNT	gen=f|num=s
+רוקפלר	NNP
+אמנם	RB
+מוכנה	MD	gen=f|num=s|per=a
+לחלק	VB_TOINFINITIVE
+פה	RB
+ו	CONJ
+שם	RB
+52000	CD
+דולר	NN	gen=m|num=s
+ל	PREPOSITION
+לימוד	NNT	gen=m|num=s
+"	yyQUOT
+פמיניזם	NN	gen=m|num=s
+ו	CONJ
+תיאוריה	NN	gen=f|num=s
+מוסרית	JJ	gen=f|num=s
+:	yyCLN
+מבוא	NN	gen=m|num=s
+ל	PREPOSITION
+אתיקה	NN	gen=f|num=s
+ל	PREPOSITION
+חברות	NN	gen=f|num=p
+פוסט	P
+-	yyDASH
+תעשייתיות	JJ	gen=f|num=p
+"	yyQUOT
+.	yyDOT
+
+אבל	CC
+אתה	PRP	gen=m|num=s|per=2
+יכול	MD	gen=m|num=s|per=a|tense=BEINONI
+לעיין	VB_TOINFINITIVE
+ב	PREPOSITION
+עשרות	CDT	gen=f|num=p
+דפי	NNT	gen=m|num=p
+דו"ח	NNT	gen=m|num=s
+רוקפלר	NNP
+ה	DEF
+שנתי	JJ	gen=m|num=s
+בלי	IN
+למצוא	VB_TOINFINITIVE
+פריט	NNT	gen=m|num=s
+הוצאה	NN	gen=f|num=s
+ש	REL
+קל	MD	gen=m|num=s|tense=PAST
+כל	DTT
+כך	RB
+ללעוג	VB_TOINFINITIVE
+ל	IN
+הוא@suf	S_PRN	gen=m|num=s|per=3
+.	yyDOT
+
+אשר	CC
+ל	PREPOSITION
+קרן	NNT	gen=f|num=s
+פורד	NNP
+שמרנים	NN	gen=m|num=p
+מתלוננים	BN	gen=m|num=p|per=a
+ש	REL
+מדיניות	NNT	gen=f|num=s
+העדפת	NNT	gen=f|num=s
+שחורים	JJ	gen=m|num=p
+כ	PREPOSITION
+קיזוז	NN	gen=m|num=s
+ל	PREPOSITION
+אפליית	NNT	gen=f|num=s
+ה	DEF
+עבר	NN	gen=m|num=s
+-LRB-	yyLRB
+עצה	NN	gen=f|num=s
+מספר	NN	gen=m|num=s
+7	CD
+,	yyCM
+היה	COP	gen=m|num=s|per=2|polar=pos|tense=IMPERATIVE
+שחור	JJ	gen=m|num=s
+-RRB-	yyRRB
+ש	REL
+היא	PRP	gen=f|num=s|per=3
+נוקטת	BN	gen=f|num=s|per=a
+,	yyCM
+היא	COP	gen=f|num=s|per=3|polar=pos|tense=BEINONI
+שריד	NN	gen=m|num=s
+ל	PREPOSITION
+ליברליזם	NN	gen=m|num=s
+קדום	JJ	gen=m|num=s
+.	yyDOT
+
+ו	CONJ
+אין	EX
+ספק	NN	gen=m|num=s
+ש	REL
+חלק	NN	gen=m|num=s
+נכבד	JJ	gen=m|num=s
+מבין	IN
+50	CD
+אלף	CD	gen=m|num=s
+ה	DEF
+צקים	NN	gen=m|num=p
+ש	REL
+עלי	IN
+המ@suf	S_PRN	gen=m|num=p|per=3
+חותמת	NNT	gen=f|num=s
+ה	DEF
+קרן	NN	gen=f|num=s
+נמסר	VB	gen=m|num=s|per=3|tense=PAST
+ל	PREPOSITION
+קבוצות	NN	gen=f|num=p
+כמו	IN
+"	yyQUOT
+פראפראז	NNP	gen=f|num=s
+"	yyQUOT
+,	yyCM
+כדי	IN
+"	yyQUOT
+לשרטט	VB_TOINFINITIVE
+את	AT
+מסלול	NNT	gen=m|num=s
+ה	DEF
+מורשת	NN	gen=f|num=s
+ה	DEF
+שחורה	JJ	gen=f|num=s
+ב	IN
+ה	DEF
+איסט	NNP	gen=f|gen=m|num=s
+סייד	NNP
+ה	DEF
+תחתית	JJ	gen=f|num=s
+של	POS
+ניו	NNP	gen=f|gen=m|num=s
+-	yyDASH
+יורק	NNP	gen=f|num=s
+"	yyQUOT
+.	yyDOT
+
+עם	IN
+זאת	PRP	gen=f|num=s|per=3
+,	yyCM
+"	yyQUOT
+טובת	NNT	gen=f|num=s
+ה	DEF
+כלל	NN	gen=m|num=s
+"	yyQUOT
+,	yyCM
+ה	DEF
+דו"ח	NN	gen=m|num=s
+ה	DEF
+גדול	JJ	gen=m|num=s
+על	IN
+סעד	NN	gen=m|num=s
+ש	REL
+פרסמה	VB	gen=f|num=s|per=3|tense=PAST
+קרן	NNT	gen=f|num=s
+פורד	NNP
+ב	PREPOSITION
+9891	CD
+,	yyCM
+סיפק	VB	gen=m|num=s|per=3|tense=PAST
+תמיכה	NN	gen=f|num=s
+מנומקת	JJ	gen=f|num=s
+-LRB-	yyLRB
+ב	PREPOSITION
+גיבוי	NNT	gen=m|num=s
+קונסנזוס	NN	gen=m|num=s
+רחב	JJ	gen=m|num=s
+להפתיע	RB
+של	POS
+שמות	NN	gen=m|num=p
+מפורסמים	JJ	gen=m|num=p
+-RRB-	yyRRB
+ל	PREPOSITION
+תוכנית	NNT	gen=f|num=s
+עבודה	NN	gen=f|num=s
+ו	CONJ
+סעד	NN	gen=m|num=s
+נוקשה	JJ	gen=f|num=s
+ו	CONJ
+יקרה	JJ	gen=f|num=s
+למדי	RB
+,	yyCM
+ש	REL
+אמנם	RB
+הבטיחה	VB	gen=f|num=s|per=3|tense=PAST
+מקומות	NNT	gen=m|num=p
+עבודה	NN	gen=f|num=s
+,	yyCM
+אבל	CC
+גם	RB
+קבעה	VB	gen=f|num=s|per=3|tense=PAST
+ש	REL
+כל	DTT
+אדם	NN	gen=m|num=s
+ייזרק	VB	gen=m|num=s|per=3|tense=FUTURE
+מ	PREPOSITION
+רשימות	NNT	gen=f|num=p
+מקבלי	NNT	gen=m|num=p
+ה	DEF
+סעד	NN	gen=m|num=s
+כעבור	IN
+שנתיים	NN	gen=f|num=d
+.	yyDOT
+
+נוסף	BN	gen=m|num=s|per=a
+על	IN
+כל	DTT
+זה	PRP	gen=m|num=s|per=3
+,	yyCM
+אין	RB
+זה	PRP	gen=m|num=s|per=3
+משנה	BN	gen=m|num=s|per=a
+עד	IN
+כמה	DTT
+גדול	JJ	gen=m|num=s
+מספרן	NN_S_PP	gen=m|num=s|suf_gen=f|suf_num=p|suf_per=3
+של	POS
+ה	DEF
+קרנות	NN	gen=f|num=p
+ב	PREPOSITION
+ה	DEF
+מרכז	NN	gen=m|num=s
+ו	CONJ
+מעט	RB
+שמאלה	RB
+ממן	IN
+הוא@suf	S_PRN	gen=m|num=s|per=3
+.	yyDOT
+
+כאשר	CC
+מגיעים	BN	gen=m|num=p|per=a
+ה	DEF
+דברים	NN	gen=m|num=p
+ל	PREPOSITION
+מדיניות	NN	gen=f|num=s
+ציבורית	JJ	gen=f|num=s
+,	yyCM
+כסף	NN	gen=m|num=s
+שמרן	JJ	gen=m|num=s
+מקבל	BN	gen=m|num=s|per=a
+יותר	RB
+תמורת	IN
+ה	DEF
+דולר	NN	gen=m|num=s
+של	POS
+הוא@suf	S_PRN	gen=m|num=s|per=3
+.	yyDOT
+
+די	RB
+לתת	VB_TOINFINITIVE
+מבט	NN	gen=m|num=s
+ב	PREPOSITION
+צוותות	NNT	gen=m|num=p
+ה	DEF
+חשיבה	NN	gen=f|num=s
+,	yyCM
+ה	DEF
+צינורות	NN	gen=m|num=p
+ה	DEF
+עיקריים	JJ	gen=m|num=p
+בין	IN
+ה	DEF
+קרנות	NN	gen=f|num=p
+לבין	IN
+ה	DEF
+דיון	NN	gen=m|num=s
+ה	DEF
+ציבורי	JJ	gen=m|num=s
+.	yyDOT
+
+קרנות	NN	gen=f|num=p
+שמרניות	JJ	gen=f|num=p
+נמנעו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+ב	PREPOSITION
+תבונה	NN	compound=y|gen=f|num=s
+מ	PREPOSITION
+להגביל	VB_TOINFINITIVE
+את	AT
+ה	DEF
+תמיכה	NN	gen=f|num=s
+ה	DEF
+פיננסית	JJ	gen=f|num=s
+של	POS
+הנ@suf	S_PRN	gen=f|num=p|per=3
+ל	PREPOSITION
+צוותות	NNT	gen=m|num=p
+חשיבה	NN	gen=f|num=s
+שמרניים	JJ	gen=m|num=p
+.	yyDOT
+
+בעוד	IN
+ה	DEF
+פורדים	NN	gen=m|num=p
+ו	CONJ
+ה	DEF
+רוקפלרים	NN	gen=m|num=p
+הפכו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+ל	PREPOSITION
+מקורות	NN	gen=m|num=p
+פחות	RB
+מהימנים	JJ	gen=m|num=p
+של	POS
+תמיכה	NN	gen=f|num=s
+ב	PREPOSITION
+מחקר	NN	gen=m|num=s
+,	yyCM
+נשאו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+תמיד	RB
+מוסדות	NN	gen=m|num=p
+כמו	IN
+ברוקינגס	NNP	gen=f|gen=m|num=s
+את	AT
+עיניהם	NN_S_PP	gen=f|num=p|suf_gen=m|suf_num=p|suf_per=3
+ל	PREPOSITION
+קרנות	NN	gen=f|num=p
+שמרניות	JJ	gen=f|num=p
+כדי	IN
+למלא	VB_TOINFINITIVE
+את	AT
+ה	DEF
+חסר	NN	gen=m|num=s
+.	yyDOT
+
+עצה	NN	gen=f|num=s
+מספר	NN	gen=m|num=s
+8	CD
+.	yyDOT
+
+הייה	COP	gen=m|num=s|per=2|polar=pos|tense=IMPERATIVE
+שבשבת	NNT	gen=f|num=s
+רוח	NN	gen=f|num=s
+של	POS
+רוח	NNT	gen=f|num=s
+ה	DEF
+תקופה	NN	gen=f|num=s
+.	yyDOT
+
+כמו	IN
+כל	DTT
+דבר	NN	gen=m|num=s
+אחר	JJ	gen=m|num=s
+,	yyCM
+נושאים	NN	gen=m|num=p
+ה	REL
+זוכים	BN	gen=m|num=p|per=a
+ל	PREPOSITION
+סבסוד	NN	gen=m|num=s
+נכבד	JJ	gen=m|num=s
+באים	BN	gen=m|num=p|per=a
+ו	CONJ
+הולכים	BN	gen=m|num=p|per=a
+.	yyDOT
+
+ב	PREPOSITION
+סוף	NNT	gen=m|num=s
+שנות	NNT	gen=f|num=p
+ה	DEF
+07	CD
+הרבו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+למשל	CC
+לדבר	VB_TOINFINITIVE
+ב	PREPOSITION
+תחום	NNT	gen=m|num=s
+ה	DEF
+יחסים	NN	gen=m|num=p
+ה	DEF
+בין	P
+-	yyDASH
+לאומיים	JJ	gen=m|num=p
+על	IN
+"	yyQUOT
+ה	DEF
+דיאלוג	NN	gen=m|num=s
+בין	IN
+צפון	NN	gen=m|num=s
+ו	CONJ
+דרום	NN	gen=m|num=s
+"	yyQUOT
+ו	CONJ
+על	IN
+"	yyQUOT
+תלות	NN	gen=f|num=s
+הדדית	JJ	gen=f|num=s
+"	yyQUOT
+,	yyCM
+ו	CONJ
+הרבה	DTT
+כסף	NN	gen=m|num=s
+הוקדש	VB	gen=m|num=s|per=3|tense=PAST
+ל	PREPOSITION
+הגות	NN	gen=f|num=s
+על	IN
+מדינות	NNT	gen=f|num=p
+ה	DEF
+עולם	NN	gen=m|num=s
+ה	DEF
+שלישי	CD	gen=m|num=s
+.	yyDOT
+
+אז	RB
+באו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+ה	DEF
+פלישה	NN	gen=f|num=s
+ל	PREPOSITION
+אפגניסטן	NNP
+ו	CONJ
+רונלד	NNP
+רייגן	NNP
+ו	CONJ
+נאום	NNT	gen=m|num=s
+אימפריית	NNT	gen=f|num=s
+ה	DEF
+רשע	NN	gen=m|num=s
+.	yyDOT
+
+לפתע	RB
+פתאום	RB
+לא	RB
+היה	COP	gen=m|num=s|per=3|polar=pos|tense=PAST
+ה	DEF
+נושא	NN	gen=m|num=s
+ה	DEF
+חם	JJ	gen=m|num=s
+ב	PREPOSITION
+ה	DEF
+יחסים	NN	gen=m|num=p
+ה	DEF
+בין	P
+-	yyDASH
+לאומיים	JJ	gen=m|num=p
+תלות	NN	gen=f|num=s
+הדדית	JJ	gen=f|num=s
+גלובלית	JJ	gen=f|num=s
+,	yyCM
+אלא	CC
+ביטחון	NN	gen=m|num=s
+לאומי	JJ	gen=m|num=s
+.	yyDOT
+
+ה	DEF
+קרנות	NN	gen=f|num=p
+ה	DEF
+לא	RB
+-	yyDASH
+שמרניות	JJ	gen=f|num=p
+היו	COP	gen=f|gen=m|num=p|per=3|polar=pos|tense=PAST
+בעיקר	RB
+אלה	PRP	gen=m|num=p|per=3
+ש	REL
+פרסמו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+מחקרים	NN	gen=m|num=p
+ל	PREPOSITION
+אין	RB
+-	yyDASH
+ספור	BN	gen=m|num=s|per=a
+ב	PREPOSITION
+ה	DEF
+שאלה	NN	gen=f|num=s
+כיצד	QW
+לשמור	VB_TOINFINITIVE
+על	IN
+ה	DEF
+שלום	NN	gen=m|num=s
+.	yyDOT
+
+עכשיו	RB
+,	yyCM
+כש	TEMP
+ה	DEF
+מלחמה	NN	gen=f|num=s
+ה	DEF
+קרה	JJ	gen=f|num=s
+חלפה	VB	gen=f|num=s|per=3|tense=PAST
+,	yyCM
+מנסים	BN	gen=m|num=p|per=a
+כולם	NN	gen=m|num=p
+למצוא	VB_TOINFINITIVE
+משפטים	NN	gen=m|num=p
+ו	CONJ
+מטבעות	NNT	gen=f|gen=m|num=p
+לשון	NN	gen=f|num=s
+חדשים	JJ	gen=m|num=p
+ש	REL
+ילכדו	VB	gen=f|gen=m|num=p|per=3|tense=FUTURE
+את	AT
+תשומת	NNT	gen=f|num=s
+לבם	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=p|suf_per=3
+של	POS
+פקידי	NNT	gen=m|num=p
+תוכניות	NN	gen=f|num=p
+.	yyDOT
+
+עצה	NN	gen=f|num=s
+מספר	NN	gen=m|num=s
+9	CD
+.	yyDOT
+
+גייס	VB	gen=m|num=s|per=2|tense=IMPERATIVE
+ו	CONJ
+הפקע	VB	gen=m|num=s|per=2|tense=IMPERATIVE
+ל	IN
+רשותך	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=s|suf_per=2
+טרמינולוגיה	NN	gen=f|num=s
+קיימת	JJ	gen=f|num=s
+.	yyDOT
+
+נראה	BN	gen=m|num=s|per=a
+ש	REL
+יעד	NNT	gen=m|num=s
+ה	DEF
+משחק	NN	gen=m|num=s
+הוא	COP	gen=m|num=s|per=3|polar=pos|tense=BEINONI
+לחטוף	VB_TOINFINITIVE
+"	yyQUOT
+ביטחון	NN	gen=m|num=s
+לאומי	JJ	gen=m|num=s
+"	yyQUOT
+,	yyCM
+נושא	NN	gen=m|num=s
+רב	P
+-	yyDASH
+שנתי	JJ	gen=m|num=s
+עמיד	JJ	gen=m|num=s
+,	yyCM
+ו	CONJ
+לנווט	VB_TOINFINITIVE
+אות	AT
+הוא@suf	S_PRN	gen=m|num=s|per=3
+ל	PREPOSITION
+תחום	NNT	gen=m|num=s
+ה	DEF
+מומחיות	NN	gen=f|num=s
+של	POS
+אתה@suf	S_PRN	gen=m|num=s|per=2
+.	yyDOT
+
+בעלי	NNT	gen=m|num=p
+ה	DEF
+מודעות	NN	gen=f|num=s
+ה	DEF
+סביבתית	JJ	gen=f|num=s
+ה	DEF
+כלל	P
+-	yyDASH
+עולמית	JJ	gen=f|num=s
+מדגישים	BN	gen=m|num=p|per=a
+ש	REL
+כעת	RB
+אי	P
+-	yyDASH
+אפשר	MD
+כמעט	RB
+להבדיל	VB_TOINFINITIVE
+בין	IN
+ביטחון	NN	gen=m|num=s
+לאומי	JJ	gen=m|num=s
+לבין	IN
+"	yyQUOT
+ביטחון	NNT	gen=m|num=s
+כדור	NNT	gen=m|num=s
+ה	DEF
+ארץ	NN	gen=f|num=s
+"	yyQUOT
+.	yyDOT
+
+ה	DEF
+טיפוסים	NN	gen=m|num=p
+לובשי	BNT	gen=m|num=p|per=a
+ה	DEF
+חליפות	NN	gen=f|num=p
+ה	DEF
+כהות	JJ	gen=f|num=p
+,	yyCM
+ה	REL
+שייכים	JJ	gen=m|num=p
+ל	PREPOSITION
+זרם	NN	gen=m|num=s
+מרכזי	JJ	gen=m|num=s
+יותר	RB
+,	yyCM
+אומרים	BN	gen=m|num=p|per=a
+ש	REL
+שום	DTT
+מדינה	NN	gen=f|num=s
+אינה	COP	gen=f|num=s|per=3|polar=neg|tense=BEINONI
+יכולה	MD	gen=f|num=s|per=a|tense=BEINONI
+להיות	COP_TOINFINITIVE	polar=pos
+בטוחה	JJ	gen=f|num=s
+אם	CC
+לא	RB
+יהיה	COP	gen=m|num=s|per=3|polar=pos|tense=FUTURE
+"	yyQUOT
+מבנה	NNT	gen=m|num=s
+ביטחון	NN	gen=m|num=s
+אירופי	JJ	gen=m|num=s
+יציב	JJ	gen=m|num=s
+"	yyQUOT
+.	yyDOT
+
+ו	CONJ
+כלכלנים	NN	gen=m|num=p
+ב	PREPOSITION
+חבורת	NNT	gen=f|num=s
+מקדמי	NNT	gen=m|num=p
+ה	DEF
+מדיניות	NN	gen=f|num=s
+ה	DEF
+תעשייתית	JJ	gen=f|num=s
+,	yyCM
+יחד	RB
+עם	IN
+מחנכים	NN	gen=m|num=p
+ב	PREPOSITION
+חבורת	NNT	gen=f|num=s
+ה	DEF
+חינוך	NN	gen=m|num=s
+ל	PREPOSITION
+מצוינות	NN	gen=f|num=s
+,	yyCM
+ניסו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+ב	PREPOSITION
+עורמה	NN	compound=y|gen=f|num=s
+לשים	VB_TOINFINITIVE
+ידם	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=p|suf_per=3
+על	IN
+כספי	NNT	gen=m|num=p
+מדיניות	NNT	gen=f|num=s
+ה	DEF
+חוץ	NN	gen=m|num=s
+,	yyCM
+ב	PREPOSITION
+טענה	NN	gen=f|num=s
+ש	REL
+ב	PREPOSITION
+ה	DEF
+עתיד	NN	gen=m|num=s
+יוגדר	VB	gen=m|num=s|per=3|tense=FUTURE
+ה	DEF
+ביטחון	NN	gen=m|num=s
+ה	DEF
+לאומי	JJ	gen=m|num=s
+ב	PREPOSITION
+מונחים	NN	gen=m|num=p
+של	POS
+כושר	NNT	gen=m|num=s
+תחרות	NN	gen=f|num=s
+כלכלי	JJ	gen=m|num=s
+,	yyCM
+לא	RB
+של	POS
+עוצמה	NN	gen=f|num=s
+צבאית	JJ	gen=f|num=s
+.	yyDOT
+
+לגבי	IN
+אנשים	NN	gen=m|num=p
+אלה	PRP	gen=m|num=p|per=3
+סדאם	NNP
+חוסיין	NNP
+הוא	COP	gen=m|num=s|per=3|polar=pos|tense=BEINONI
+מטרד	NN	gen=m|num=s
+.	yyDOT
+
+אבל	CC
+סדאם	NNP
+חוסיין	NNP
+היה	COP	gen=m|num=s|per=3|polar=pos|tense=PAST
+מתת	NNT	gen=f|num=s
+-	yyDASH
+שמים	NN	gen=m|num=p
+ל	PREPOSITION
+כל	DTT
+ה	DEF
+מומחים	NN	gen=m|num=p
+ל	PREPOSITION
+פיקוח	NN	gen=m|num=s
+רב	P
+-	yyDASH
+צדדי	JJ	gen=m|num=s
+על	IN
+ה	DEF
+נשק	NN	gen=m|num=s
+,	yyCM
+ה	REL
+טוענים	BN	gen=m|num=p|per=a
+זה	PRP	gen=m|num=s|per=3
+שנים	NN	gen=f|num=p
+ש	REL
+יש	MD
+להפסיק	VB_TOINFINITIVE
+את	AT
+הזרמתו	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=s|suf_per=3
+של	POS
+נשק	NN	gen=m|num=s
+מתוחכם	JJ	gen=m|num=s
+ל	PREPOSITION
+דיקטטורים	NN	gen=m|num=p
+רברבנים	JJ	gen=m|num=p
+ב	PREPOSITION
+ה	DEF
+עולם	NN	gen=m|num=s
+ה	DEF
+שלישי	CD	gen=m|num=s
+.	yyDOT
+
+מדובר	BN	gen=m|num=s|per=a
+ב	PREPOSITION
+קומץ	NNT	gen=m|num=s
+אנשים	NN	gen=m|num=p
+ש	REL
+ניסו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+למשוך	VB_TOINFINITIVE
+אלי	IN
+המ@suf	S_PRN	gen=m|num=p|per=3
+כספי	NNT	gen=m|num=p
+מענקים	NN	gen=m|num=p
+ב	PREPOSITION
+עת	NN	gen=f|num=s
+ש	REL
+ה	DEF
+עולם	NN	gen=m|num=s
+המטיר	VB	gen=m|num=s|per=3|tense=PAST
+דולרים	NN	gen=m|num=p
+על	IN
+אסטרטגיה	NN	gen=f|num=s
+גרעינית	JJ	gen=f|num=s
+ו	CONJ
+פיקוח	NN	gen=m|num=s
+רב	P
+-	yyDASH
+צדדי	JJ	gen=m|num=s
+על	IN
+ה	DEF
+נשק	NN	gen=m|num=s
+.	yyDOT
+
+עובדה	NN	gen=f|num=s
+זו	PRP	gen=f|num=s|per=3
+שימשה	VB	gen=f|num=s|per=3|tense=PAST
+יסוד	NN	gen=m|num=s
+ל	PREPOSITION
+תלונה	NN	gen=f|num=s
+שכיחה	JJ	gen=f|num=s
+ב	PREPOSITION
+תחום	NNT	gen=m|num=s
+ה	DEF
+פילנטרופיה	NN	gen=f|num=s
+:	yyCLN
+התמקדותם	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=p|suf_per=3
+של	POS
+קרנות	NN	gen=f|num=p
+ו	CONJ
+צוותות	NNT	gen=m|num=p
+חשיבה	NN	gen=f|num=s
+ב	PREPOSITION
+מגמות	NN	gen=f|num=p
+אופנתיות	JJ	gen=f|num=p
+גורמת	BN	gen=f|num=s|per=a
+ל	PREPOSITION
+כך	PRP	per=3
+ש	REL
+ה	DEF
+חברה	NN	gen=f|num=s
+בקושי	RB
+ערוכה	JJ	gen=f|num=s
+ל	PREPOSITION
+גלים	NN	gen=m|num=p
+היסטוריים	JJ	gen=m|num=p
+חדשים	JJ	gen=m|num=p
+.	yyDOT
+
+גיימס	NNP
+אלן	NNP
+סמית	NNP
+,	yyCM
+מחבר	NNT	gen=m|num=s
+ה	DEF
+ספר	NN	gen=m|num=s
+"	yyQUOT
+ה	DEF
+ברוקרים	NN	gen=m|num=p
+של	POS
+ה	DEF
+רעיונות	NN	gen=m|num=p
+:	yyCLN
+צוותות	NNT	gen=m|num=p
+חשיבה	NN	gen=f|num=s
+ו	CONJ
+עלייתה	NN_S_PP	gen=f|num=s|suf_gen=f|suf_num=s|suf_per=3
+של	POS
+עלית	NNT	gen=f|num=s
+מדיניות	NN	gen=f|num=s
+חדשה	JJ	gen=f|num=s
+"	yyQUOT
+,	yyCM
+אומר	BN	gen=m|num=s|per=a
+כי	CC
+ה	DEF
+התמקדות	NN	gen=f|num=s
+ב	PREPOSITION
+בעיות	NNT	gen=f|num=p
+מדיניות	NN	gen=f|num=s
+דוחקות	BN	gen=f|num=p|per=a
+,	yyCM
+ו	CONJ
+דעיכת	NNT	gen=f|num=s
+ה	DEF
+אמונה	NN	gen=f|num=s
+ב	PREPOSITION
+ערכו	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=s|suf_per=3
+של	POS
+מחקר	NN	gen=m|num=s
+בסיסי	JJ	gen=m|num=s
+ב	PREPOSITION
+מדעי	NNT	gen=m|num=p
+ה	DEF
+חברה	NN	gen=f|num=s
+,	yyCM
+הותירו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+אות	AT
+אנחנו@suf	S_PRN	gen=f|gen=m|num=p|per=1
+ללא	IN
+מאגר	NN	gen=m|num=s
+נרחב	JJ	gen=m|num=s
+של	POS
+מומחים	NN	gen=m|num=p
+,	yyCM
+ש	REL
+ממן	IN
+הוא@suf	S_PRN	gen=m|num=s|per=3
+ניתן	MD	gen=m|num=s|per=a
+לשאוב	VB_TOINFINITIVE
+כאשר	CC
+יתעורר	VB	gen=m|num=s|per=3|tense=FUTURE
+ה	DEF
+צורך	NN	gen=m|num=s
+.	yyDOT
+
+זה	PRP	gen=m|num=s|per=3
+נכון	JJ	gen=m|num=s
+.	yyDOT
+
+אחרי	IN
+הכל	NN
+,	yyCM
+כמה	DTT
+מחקרים	NN	gen=m|num=p
+ב	PREPOSITION
+חסות	NNT	gen=f|num=s
+קרנות	NN	gen=f|num=p
+הוקדשו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+ב	PREPOSITION
+תקופת	NNT	gen=f|num=s
+ה	DEF
+אובססיה	NN	gen=f|num=s
+ה	DEF
+ממושכת	JJ	gen=f|num=s
+ל	PREPOSITION
+ה	DEF
+מלחמה	NN	gen=f|num=s
+ה	DEF
+קרה	JJ	gen=f|num=s
+ל	PREPOSITION
+ניסיון	NN	gen=m|num=s
+לגלות	VB_TOINFINITIVE
+ב	PREPOSITION
+איזו	QW
+מידה	NN	gen=f|num=s
+אדם	NN	gen=m|num=s
+כמו	IN
+סדאם	NNP
+חוסיין	NNP
+עלול	MD	gen=m|num=s|per=a
+להיות	COP_TOINFINITIVE	polar=pos
+מסוכן	JJ	gen=m|num=s
+?	yyQM
+
+כמה	DTT
+מחקרים	NN	gen=m|num=p
+שאלו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+כיצד	QW
+להפוך	VB_TOINFINITIVE
+כלכלה	NN	gen=f|num=s
+סטליניסטית	JJ	gen=f|num=s
+ל	PREPOSITION
+כלכלת	NNT	gen=f|num=s
+שוק	NN	gen=m|num=s
+חופשי	JJ	gen=m|num=s
+?	yyQM
+
+יש	EX
+סימוכין	NN	gen=m|num=p
+ל	PREPOSITION
+ה	DEF
+דעה	NN	gen=f|num=s
+ש	REL
+כיום	RB
+אלו	PRP	gen=f|gen=m|num=p|per=3
+הן	COP	gen=f|num=p|per=3|polar=pos|tense=BEINONI
+שתי	CDT	gen=f|num=p
+ה	DEF
+בעיות	NN	gen=f|num=p
+ה	DEF
+דוחקות	BN	gen=f|num=p|per=a
+ביותר	RB
+של	POS
+ה	DEF
+עולם	NN	gen=m|num=s
+.	yyDOT
+
+אך	CC
+אפשר	MD
+לומר	VB_TOINFINITIVE
+ב	PREPOSITION
+ביטחון	NN	gen=m|num=s
+,	yyCM
+ש	REL
+אף	DTT
+לא	RB
+דולר	NN	gen=m|num=s
+אחד	CD	gen=m|num=s
+מבין	IN
+למעלה	RB
+מ	PREPOSITION
+05	CD
+מיליארד	CD	gen=m|num=s
+ה	DEF
+דולרים	NN	gen=m|num=p
+ש	REL
+הוציאו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+קרנות	NN	gen=f|num=p
+בין	IN
+9791	CD
+ל	PREPOSITION
+9891	CD
+לא	RB
+הוקדש	VB	gen=m|num=s|per=3|tense=PAST
+ל	PREPOSITION
+הבהרתן	NN_S_PP	gen=f|num=s|suf_gen=f|suf_num=p|suf_per=3
+.	yyDOT
+
+האם	QW
+ה	DEF
+כסף	NN	gen=m|num=s
+דוחף	BN	gen=m|num=s|per=a
+את	AT
+ה	DEF
+רעיונות	NN	gen=m|num=p
+או	CC
+שמא	CC
+זוכים	BN	gen=m|num=p|per=a
+ה	DEF
+רעיונות	NN	gen=m|num=p
+ל	PREPOSITION
+תמיכה	NN	gen=f|num=s
+כספית	JJ	gen=f|num=s
+בזכות	IN
+ערכם	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=p|suf_per=3
+ו	CONJ
+ה	DEF
+חידוש	NN	gen=m|num=s
+ש	REL
+ב	IN
+המ@suf	S_PRN	gen=m|num=p|per=3
+?	yyQM
+
+כדי	IN
+לענות	VB_TOINFINITIVE
+על	IN
+שאלות	NN	gen=f|num=p
+אלו	PRP	gen=f|gen=m|num=p|per=3
+עלי	IN
+אתה@suf	S_PRN	gen=m|num=s|per=2
+להשתקע	VB_TOINFINITIVE
+קודם	RB
+ל	PREPOSITION
+הכל	DTT
+ב	PREPOSITION
+אי	P
+-	yyDASH
+אלו	PRP	gen=f|gen=m|num=p|per=3
+הרהורים	NN	gen=m|num=p
+קוסמיים	JJ	gen=m|num=p
+על	IN
+טבעה	NN_S_PP	gen=m|num=s|suf_gen=f|suf_num=s|suf_per=3
+של	POS
+ה	DEF
+היסטוריה	NN	gen=f|num=s
+,	yyCM
+ו	CONJ
+להקדיש	VB_TOINFINITIVE
+מחשבה	NN	gen=f|num=s
+ל	PREPOSITION
+דיאלקטיקה	NN	gen=f|num=s
+הגליאנית	JJ	gen=f|num=s
+,	yyCM
+ל	PREPOSITION
+תיאוריות	NN	gen=f|num=p
+על	IN
+מקומו	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=s|suf_per=3
+של	POS
+ה	DEF
+אדם	NN	gen=m|num=s
+ה	DEF
+גדול	JJ	gen=m|num=s
+ב	PREPOSITION
+ה	DEF
+היסטוריה	NN	gen=f|num=s
+ו	CONJ
+כך	RB
+הלאה	RB
+.	yyDOT
+
+ו	CONJ
+זה	PRP	gen=m|num=s|per=3
+אינו	COP	gen=m|num=s|per=3|polar=neg|tense=BEINONI
+מבצע	NN	gen=m|num=s
+מ	PREPOSITION
+ה	DEF
+סוג	NN	gen=m|num=s
+ש	REL
+יש	MD
+לגשת	VB_TOINFINITIVE
+אלי	IN
+הוא@suf	S_PRN	gen=m|num=s|per=3
+ללא	IN
+מימון	NN	gen=m|num=s
+נכבד	JJ	gen=m|num=s
+.	yyDOT
+
+ה	DEF
+יכולת	NN	gen=f|num=s
+לחזות	VB_TOINFINITIVE
+תוצאות	NNT	gen=f|num=p
+בחירות	NN	gen=f|num=p
+ב	PREPOSITION
+ארצות	NNT	gen=f|num=p
+ה	DEF
+ברית	NN	gen=f|num=s
+באמצעות	IN
+סקרי	NNT	gen=m|num=p
+דעת	NNT	gen=f|num=s
+קהל	NN	gen=m|num=s
+עשויה	MD	gen=f|num=s|per=a
+להצטמצם	VB_TOINFINITIVE
+ב	PREPOSITION
+ה	DEF
+שנים	NN	gen=f|num=p
+ה	DEF
+באות	JJ	gen=f|num=p
+עד	IN
+ל	PREPOSITION
+ה	DEF
+מינימום	NN	gen=m|num=s
+.	yyDOT
+
+כישלונות	NNT	gen=m|num=p
+חיזוי	NN	gen=m|num=s
+כבר	RB
+נראו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+ב	PREPOSITION
+כמה	DTT
+מ	PREPOSITION
+מירוצי	NNT	gen=m|num=p
+ה	DEF
+בחירות	NN	gen=f|num=p
+של	POS
+ה	DEF
+שבוע	NN	gen=m|num=s
+.	yyDOT
+
+ה	DEF
+אשמה	NN	gen=f|num=s
+אינה	COP	gen=f|num=s|per=3|polar=neg|tense=BEINONI
+ב	PREPOSITION
+ה	DEF
+שיטה	NN	gen=f|num=s
+או	CC
+ב	PREPOSITION
+ה	DEF
+מדגם	NN	gen=m|num=s
+,	yyCM
+אלא	CC
+ב	PREPOSITION
+שתי	CDT	gen=f|num=p
+עובדות	NN	gen=f|num=p
+:	yyCLN
+-LRB-	yyLRB
+1	CD
+-RRB-	yyRRB
+אמריקאים	NN	gen=m|num=p
+אינם	COP	gen=m|num=p|per=3|polar=neg|tense=BEINONI
+מתעניינים	BN	gen=m|num=p|per=a
+ביותר	RB
+ב	PREPOSITION
+ה	DEF
+תהליך	NN	gen=m|num=s
+ה	DEF
+אלקטורלי	JJ	gen=m|num=s
+,	yyCM
+ו	CONJ
+גם	RB
+אלה	PRP	gen=m|num=p|per=3
+ה	REL
+יודעים	BN	gen=m|num=p|per=a
+בעד	IN
+מי	QW
+היו	COP	gen=f|gen=m|num=p|per=3|polar=pos|tense=PAST
+רוצים	BN	gen=m|num=p|per=a
+להצביע	VB_TOINFINITIVE
+אינם	COP	gen=m|num=p|per=3|polar=neg|tense=BEINONI
+יודעים	BN	gen=m|num=p|per=a
+עד	IN
+ה	DEF
+רגע	NN	gen=m|num=s
+ה	DEF
+אחרון	JJ	gen=m|num=s
+אם	CC
+יטרחו	VB	gen=f|gen=m|num=p|per=3|tense=FUTURE
+להצביע	VB_TOINFINITIVE
+.	yyDOT
+
+רק	RB
+35	CD
+%	NN	gen=m|num=p|num=s
+מ	IN
+המ@suf	S_PRN	gen=m|num=p|per=3
+הצביעו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+ב	PREPOSITION
+יום	NNT	gen=m|num=s
+ג	NNP	gen=f|gen=m|num=s
+ב	PREPOSITION
+ה	DEF
+בחירות	NN	gen=f|num=p
+ל	PREPOSITION
+ה	DEF
+קונגרס	NN	gen=m|num=s
+ו	CONJ
+ל	PREPOSITION
+מושלי	NNT	gen=m|num=p
+ה	DEF
+מדינות	NN	gen=f|num=p
+.	yyDOT
+
+-LRB-	yyLRB
+2	CD
+-RRB-	yyRRB
+תחנת	NNT	gen=f|num=s
+ה	DEF
+קלפי	NN	gen=f|num=s
+שוב	RB
+אינה	COP	gen=f|num=s|per=3|polar=neg|tense=BEINONI
+מקום	NNT	gen=m|num=s
+ה	DEF
+הצבעה	NN	gen=f|num=s
+ה	DEF
+הכרחי	JJ	gen=m|num=s
+ה	DEF
+יחיד	JJ	gen=m|num=s
+.	yyDOT
+
+ב	PREPOSITION
+קליפורניה	NNP
+הצביעו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+השנה	RB
+לא	RB
+פחות	RB
+מ	PREPOSITION
+20	CD
+%	NN	gen=m|num=p|num=s
+מ	PREPOSITION
+בעלי	NNT	gen=m|num=p
+זכות	NNT	gen=f|num=s
+ה	DEF
+בחירה	NN	gen=f|num=s
+ב	PREPOSITION
+ה	DEF
+דואר	NN	gen=m|num=s
+,	yyCM
+לא	RB
+מפני	IN
+ש	REL
+היו	COP	gen=f|gen=m|num=p|per=3|polar=pos|tense=PAST
+ב	PREPOSITION
+ארץ	NN	gen=f|num=s
+אחרת	JJ	gen=f|num=s
+,	yyCM
+או	CC
+ב	PREPOSITION
+יבשת	NN	gen=f|num=s
+אחרת	JJ	gen=f|num=s
+,	yyCM
+אלא	CC
+מפני	IN
+ש	REL
+העדיפו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+את	AT
+ה	DEF
+נוחות	NN	gen=f|num=s
+ה	REL
+כרוכה	BN	gen=f|num=s|per=a
+ב	PREPOSITION
+מילוי	NNT	gen=m|num=s
+טופסי	NNT	gen=m|num=p
+ה	DEF
+הצבעה	NN	gen=f|num=s
+בין	IN
+כותלי	NNT	gen=m|num=p
+ביתם	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=p|suf_per=3
+.	yyDOT
+
+ייתכן	MD
+מאוד	RB
+ש	REL
+ב	PREPOSITION
+ה	DEF
+הצבעה	NN	gen=f|num=s
+ב	PREPOSITION
+ה	DEF
+קלפי	NN	gen=f|num=s
+היתה	COP	gen=f|num=s|per=3|polar=pos|tense=PAST
+ידה	NN_S_PP	gen=f|num=s|suf_gen=f|suf_num=s|suf_per=3
+של	POS
+ה	DEF
+מועמדת	NN	gen=f|num=s
+ה	DEF
+דמוקרטית	JJ	gen=f|num=s
+ל	PREPOSITION
+ה	DEF
+מושל	NN	gen=m|num=s
+,	yyCM
+דיאן	NNP
+פיינסטיין	NNP	gen=f|gen=m|num=s
+,	yyCM
+על	IN
+ה	DEF
+עליונה	JJ	gen=f|num=s
+.	yyDOT
+
+כנראה	RB
+רק	RB
+בזכות	IN
+ה	DEF
+הצבעה	NN	gen=f|num=s
+ב	PREPOSITION
+ה	DEF
+דואר	NN	gen=m|num=s
+הצליח	VB	gen=m|num=s|per=3|tense=PAST
+לבסוף	RB
+ה	DEF
+סנאטור	NN	gen=m|num=s
+פיט	NNP	gen=m|num=s
+ווילסון	NNP
+לנצח	VB_TOINFINITIVE
+,	yyCM
+ב	PREPOSITION
+הפרש	NN	gen=m|num=s
+קטן	JJ	gen=m|num=s
+.	yyDOT
+
+משימתם	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=p|suf_per=3
+של	POS
+עורכי	NNT	gen=m|num=p
+סקרים	NN	gen=m|num=p
+ב	PREPOSITION
+ה	DEF
+שנים	NN	gen=f|num=p
+ה	DEF
+באות	JJ	gen=f|num=p
+תהיה	COP	gen=f|num=s|per=3|polar=pos|tense=FUTURE
+לברר	VB_TOINFINITIVE
+תחילה	RB
+האם	QW
+ה	DEF
+נשאל	BN	gen=m|num=s|per=a
+מתכוון	BN	gen=m|num=s|per=a
+להצביע	VB_TOINFINITIVE
+,	yyCM
+ו	CONJ
+באם	CC
+אין	RB
+הוא	PRP	gen=m|num=s|per=3
+מתכוון	BN	gen=m|num=s|per=a
+להצביע	VB_TOINFINITIVE
+ה	DEF
+ייתכן	MD
+ש	REL
+ב	PREPOSITION
+כל	DTT
+זאת	PRP	gen=f|num=s|per=3
+יצביע	VB	gen=m|num=s|per=3|tense=FUTURE
+באמצעות	IN
+ה	DEF
+דואר	NN	gen=m|num=s
+.	yyDOT
+
+ל	PREPOSITION
+ד"ר	NN	gen=m|num=s
+גון	NN	gen=m|num=s
+סילר	NNP	gen=f|gen=m|num=s
+,	yyCM
+נשיא	NNT	gen=m|num=s
+אוניברסיטת	NNT	gen=f|num=s
+בוסטון	NNP
+ש	REL
+התמודד	VB	gen=m|num=s|per=3|tense=PAST
+על	IN
+כהונת	NNT	gen=f|num=s
+מושל	NNT	gen=m|num=s
+מסצוסטס	NNP
+,	yyCM
+היתה	COP	gen=f|num=s|per=3|polar=pos|tense=PAST
+תיאוריה	NN	gen=f|num=s
+שלמה	JJ	gen=f|num=s
+על	IN
+אי	P
+-	yyDASH
+ה	DEF
+התאמה	NN	gen=f|num=s
+של	POS
+סקרי	NNT	gen=m|num=p
+דעת	NNT	gen=f|num=s
+קהל	NN	gen=m|num=s
+ל	PREPOSITION
+ה	DEF
+מציאות	NN	gen=f|num=s
+ה	DEF
+אלקטורלית	JJ	gen=f|num=s
+.	yyDOT
+
+הוא	PRP	gen=m|num=s|per=3
+היה	COP	gen=m|num=s|per=3|polar=pos|tense=PAST
+קורבן	NN	gen=m|num=s
+של	POS
+אי	P
+-	yyDASH
+התאמה	NN	gen=f|num=s
+כ	PREPOSITION
+ה	DEF
+זאת	PRP	gen=f|num=s|per=3
+.	yyDOT
+
+ה	DEF
+סקרים	NN	gen=m|num=p
+חזו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+ל	IN
+הוא@suf	S_PRN	gen=m|num=s|per=3
+תבוסה	NN	gen=f|num=s
+ניצחת	JJ	gen=f|num=s
+ב	PREPOSITION
+ה	DEF
+בחירות	NN	gen=f|num=p
+ה	DEF
+מוקדמות	JJ	gen=f|num=p
+של	POS
+ה	DEF
+מפלגה	NN	gen=f|num=s
+ה	DEF
+דמוקרטית	JJ	gen=f|num=s
+,	yyCM
+ב	PREPOSITION
+חודש	NNT	gen=m|num=s
+ספטמבר	NNP
+.	yyDOT
+
+הוא	PRP	gen=m|num=s|per=3
+הדהים	VB	gen=m|num=s|per=3|tense=PAST
+את	AT
+מפלגתו	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=s|suf_per=3
+,	yyCM
+את	AT
+מדינתו	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=s|suf_per=3
+ו	CONJ
+את	AT
+ארה"ב	NNP
+ב	PREPOSITION
+ה	DEF
+ניצחון	NN	gen=m|num=s
+.	yyDOT
+
+ב	PREPOSITION
+מהלך	NN	compound=y|gen=m|num=s
+מערכת	NNT	gen=f|num=s
+ה	DEF
+בחירות	NN	gen=f|num=p
+ה	DEF
+כללית	JJ	gen=f|num=s
+העלה	VB	gen=m|num=s|per=3|tense=PAST
+סילבר	NNP	gen=f|gen=m|num=s
+את	AT
+ה	DEF
+הסבר	NN	gen=m|num=s
+ה	DEF
+בא	JJ	gen=m|num=s
+ל	PREPOSITION
+אי	P
+-	yyDASH
+ה	DEF
+התאמות	NN	gen=f|num=p
+.	yyDOT
+
+"	yyQUOT
+אמריקאים	NN	gen=m|num=p
+"	yyQUOT
+,	yyCM
+אמר	VB	gen=m|num=s|per=3|tense=PAST
+,	yyCM
+"	yyQUOT
+מתרעמים	BN	gen=m|num=p|per=a
+על	IN
+עצם	NNT	gen=m|num=s
+ה	DEF
+שאלה	NN	gen=f|num=s
+איך	QW
+תצביע	VB	gen=m|num=s|per=2|tense=FUTURE
+.	yyDOT
+
+סוף	NN	gen=m|num=s
+סוף	NN	gen=m|num=s
+,	yyCM
+כל	DTT
+עניין	NNT	gen=m|num=s
+ה	DEF
+הצבעה	NN	gen=f|num=s
+ה	DEF
+חופשית	JJ	gen=f|num=s
+הוא	COP	gen=m|num=s|per=3|polar=pos|tense=BEINONI
+פונקציה	NN	gen=f|num=s
+של	POS
+סודיותה	NN_S_PP	gen=f|num=s|suf_gen=f|suf_num=s|suf_per=3
+.	yyDOT
+
+כאשר	CC
+מטלפן	BN	gen=m|num=s|per=a
+אלי	IN
+המ@suf	S_PRN	gen=m|num=p|per=3
+מישהו	NN	gen=m|num=s
+,	yyCM
+ש	REL
+אין	RB
+הם	PRP	gen=m|num=p|per=3
+מכירים	BN	gen=m|num=p|per=a
+,	yyCM
+ו	CONJ
+שואל	BN	gen=m|num=s|per=a
+,	yyCM
+איך	QW
+תצביעו	VB	gen=f|gen=m|num=p|per=2|tense=FUTURE
+,	yyCM
+אין	RB
+הם	PRP	gen=m|num=p|per=3
+בטוחים	BN	gen=m|num=p|per=a
+לעולם	RB
+מיהו	PRP	gen=m|num=s
+,	yyCM
+ו	CONJ
+מדוע	QW
+הוא	PRP	gen=m|num=s|per=3
+שואל	BN	gen=m|num=s|per=a
+.	yyDOT
+
+אולי	RB
+הוא	PRP	gen=m|num=s|per=3
+ה	DEF
+שכן	NN	gen=m|num=s
+?	yyQM
+
+אולי	RB
+הוא	PRP	gen=m|num=s|per=3
+ידיד	NN	gen=m|num=s
+,	yyCM
+ה	REL
+מנסה	BN	gen=m|num=s|per=a
+להכשיל	VB_TOINFINITIVE
+אות@suf	DUMMY_AT
+המ@suf	S_ANP	gen=m|num=p|per=3
+?	yyQM
+
+אולי	RB
+הוא	PRP	gen=m|num=s|per=3
+ה	DEF
+בוס	NN	gen=m|num=s
+,	yyCM
+ה	REL
+מתכוון	BN	gen=m|num=s|per=a
+לעשות	VB_TOINFINITIVE
+טיהור	NN	gen=f|num=s
+פוליטי	JJ	gen=m|num=s
+ב	PREPOSITION
+ה	DEF
+משרד	NN	gen=m|num=s
+?	yyQM
+
+ו	CONJ
+אז	RB
+הם	PRP	gen=m|num=p|per=3
+מתרגזים	BN	gen=m|num=p|per=a
+ו	CONJ
+משקרים	BN	gen=m|num=p|per=a
+"	yyQUOT
+.	yyDOT
+
+ב	PREPOSITION
+ה	DEF
+יום	NN	gen=m|num=s
+ש	REL
+שמעתי	VB	gen=f|gen=m|num=s|per=1|tense=PAST
+את	AT
+ה	DEF
+תיאוריה	NN	gen=f|num=s
+ה	DEF
+זו	PRP	gen=f|num=s|per=3
+מ	PREPOSITION
+פי	NN_S_PP	compound=y|gen=m|num=s|suf_gen=f|suf_gen=m|suf_num=s|suf_per=1
+סילבר	NNP	gen=f|gen=m|num=s
+פרסם	VB	gen=m|num=s|per=3|tense=PAST
+ה	DEF
+עיתון	NN	gen=m|num=s
+"	yyQUOT
+בוסטון	NNP
+גלוב	NNP
+"	yyQUOT
+סקר	NN	gen=m|num=s
+,	yyCM
+ש	REL
+הראה	VB	gen=m|num=s|per=3|tense=PAST
+לראשונה	RB
+יתרון	NN	gen=m|num=s
+ל	IN
+סילבר	NNP	gen=f|gen=m|num=s
+על	IN
+פני	NNT	gen=f|gen=m|num=p
+יריבו	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=s|suf_per=3
+ה	DEF
+רפובליקאי	JJ	gen=m|num=s
+,	yyCM
+ויליאם	NNP
+וולד	NNP
+.	yyDOT
+
+כעבור	IN
+שבוע	NN	gen=m|num=s
+התרחב	VB	gen=m|num=s|per=3|tense=PAST
+ה	DEF
+יתרון	NN	gen=m|num=s
+עד	IN
+9	CD
+%	NN	gen=m|num=p|num=s
+,	yyCM
+ו	CONJ
+ב	PREPOSITION
+מסצוסטס	NNP
+היו	COP	gen=f|gen=m|num=p|per=3|polar=pos|tense=PAST
+אנשים	NN	gen=m|num=p
+משוכנעים	BN	gen=m|num=p|per=a
+ב	PREPOSITION
+ניצחונו	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=s|suf_per=3
+של	POS
+סילבר	NNP	gen=f|gen=m|num=s
+.	yyDOT
+
+הוא	PRP	gen=m|num=s|per=3
+נוצח	VB	gen=m|num=s|per=3|tense=PAST
+השבוע	RB
+ב	PREPOSITION
+הפרש	NN	gen=m|num=s
+של	POS
+שני	CDT	gen=m|num=p
+אחוזים	NN	gen=m|num=p
+.	yyDOT
+
+סילבר	NNP	gen=f|gen=m|num=s
+היה	COP	gen=m|num=s|per=3|polar=pos|tense=PAST
+אולי	RB
+ה	DEF
+דמות	NN	gen=f|num=s
+ה	DEF
+פוליטית	JJ	gen=f|num=s
+ה	DEF
+מרתקת	JJ	gen=f|num=s
+,	yyCM
+ה	DEF
+מורכבת	JJ	gen=f|num=s
+ו	CONJ
+ה	DEF
+מסוכנת	JJ	gen=f|num=s
+ביותר	RB
+ב	PREPOSITION
+מערכת	NNT	gen=f|num=s
+ה	DEF
+בחירות	NN	gen=f|num=p
+של	POS
+0991	CD
+.	yyDOT
+
+הוא	PRP	gen=m|num=s|per=3
+אינטלקטואל	NN	gen=m|num=s
+רודני	JJ	gen=m|num=s
+,	yyCM
+ש	REL
+התייחס	VB	gen=m|num=s|per=3|tense=PAST
+ב	PREPOSITION
+בוז	NN	gen=m|num=s
+מתנשא	BN	gen=m|num=s|per=a
+ל	PREPOSITION
+כל	DTT
+שאלה	NN	gen=f|num=s
+ש	REL
+נשאל	VB	gen=m|num=s|per=3|tense=PAST
+,	yyCM
+ו	CONJ
+ל	PREPOSITION
+כל	DTT
+הערה	NN	gen=f|num=s
+של	POS
+יריב	NN	gen=m|num=s
+פוליטי	JJ	gen=m|num=s
+.	yyDOT
+
+הוא	PRP	gen=m|num=s|per=3
+השמיע	VB	gen=m|num=s|per=3|tense=PAST
+הכרזות	NN	gen=f|num=p
+שערורייתיות	JJ	gen=f|num=p
+ב	PREPOSITION
+גנות	NNT	gen=f|num=s
+מיעוטים	NN	gen=m|num=p
+אתניים	JJ	gen=m|num=p
+ו	CONJ
+נגד	IN
+קבוצות	NNT	gen=f|num=p
+אוכלוסייה	NN	gen=f|num=s
+חלשות	JJ	gen=f|num=p
+.	yyDOT
+
+הוא	PRP	gen=m|num=s|per=3
+גידף	VB	gen=m|num=s|per=3|tense=PAST
+ב	PREPOSITION
+ה	DEF
+רבים	BN	gen=m|num=p|per=a
+את	AT
+יריבו	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=s|suf_per=3
+-LRB-	yyLRB
+"	yyQUOT
+בן	NNT	gen=m|num=s
+כלבה	NN	gen=f|num=s
+,	yyCM
+תוקע	BNT	gen=m|num=s|per=a
+סכין	NN	gen=f|gen=m|num=s
+ב	PREPOSITION
+ה	DEF
+גב	NN	gen=m|num=s
+"	yyQUOT
+,	yyCM
+אמר	VB	gen=m|num=s|per=3|tense=PAST
+עלי	IN
+הוא@suf	S_PRN	gen=m|num=s|per=3
+ב	PREPOSITION
+ראיון	NN	gen=m|num=s
+עיתונאי	JJ	gen=m|num=s
+-RRB-	yyRRB
+.	yyDOT
+
+הוא	PRP	gen=m|num=s|per=3
+צווח	VB	gen=m|num=s|per=3|tense=PAST
+על	IN
+עיתונאים	NN	gen=m|num=p
+מפורסמים	JJ	gen=m|num=p
+ב	PREPOSITION
+רשתות	NNT	gen=f|num=p
+טלוויזיה	NN	gen=f|num=s
+ארציות	JJ	gen=f|num=p
+.	yyDOT
+
+לעומת	IN
+זאת	PRP	gen=f|num=s|per=3
+הוא	PRP	gen=m|num=s|per=3
+גם	RB
+השמיע	VB	gen=m|num=s|per=3|tense=PAST
+מסר	NN	gen=m|num=s
+פוליטי	JJ	gen=m|num=s
+רב	JJT	gen=m|num=s
+-	yyDASH
+תוכן	NN	gen=m|num=s
+,	yyCM
+ש	REL
+ב	IN
+הוא@suf	S_PRN	gen=m|num=s|per=3
+הדגיש	VB	gen=m|num=s|per=3|tense=PAST
+יותר	RB
+מ	PREPOSITION
+כל	DTT
+עניין	NN	gen=m|num=s
+אחר	JJ	gen=m|num=s
+את	AT
+משבר	NNT	gen=m|num=s
+ה	DEF
+חינוך	NN	gen=m|num=s
+ב	PREPOSITION
+אמריקה	NNP
+,	yyCM
+ו	CONJ
+הציע	VB	gen=m|num=s|per=3|tense=PAST
+חלופות	NN	gen=f|num=p
+רציניות	JJ	gen=f|num=p
+.	yyDOT
+
+הוא	PRP	gen=m|num=s|per=3
+שכנע	VB	gen=m|num=s|per=3|tense=PAST
+הרבה	DTT
+מ	PREPOSITION
+שומעיו	NN_S_PP	gen=m|num=p|suf_gen=m|suf_num=s|suf_per=3
+ש	REL
+יש	EX
+ל	IN
+הוא@suf	S_PRN	gen=m|num=s|per=3
+ה	DEF
+מיומנות	NN	gen=f|num=s
+ה	REL
+נחוצה	JJ	gen=f|num=s
+להיות	COP_TOINFINITIVE	polar=pos
+מושל	NN	gen=m|num=s
+.	yyDOT
+
+אבל	CC
+מזגו	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=s|suf_per=3
+ו	CONJ
+הליכותיו	NN_S_PP	gen=f|num=p|suf_gen=m|suf_num=s|suf_per=3
+הטילו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+פחד	NN	gen=m|num=s
+על	IN
+סביבותיו	NN_S_PP	gen=f|num=p|suf_gen=m|suf_num=s|suf_per=3
+.	yyDOT
+
+אם	CC
+על	IN
+פרנקלין	NNP	gen=m|num=s
+דלאנו	NNP	gen=f|gen=m|num=s
+רוזוולט	NNP
+אמרו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+ש	REL
+יש	EX
+ל	IN
+הוא@suf	S_PRN	gen=m|num=s|per=3
+"	yyQUOT
+מוח	NN	gen=m|num=s
+מ	PREPOSITION
+מדרגה	NN	gen=f|num=s
+שנייה	CD	gen=f|num=s
+ו	CONJ
+טמפרמנט	NN	gen=m|num=s
+מ	PREPOSITION
+מדרגה	NN	gen=f|num=s
+ראשונה	JJ	gen=f|num=s
+"	yyQUOT
+,	yyCM
+הנה	RB
+על	IN
+סילבר	NNP	gen=f|gen=m|num=s
+היה	COP	gen=m|num=s|per=3|polar=pos|tense=PAST
+אפשר	MD
+לומר	VB_TOINFINITIVE
+בדיוק	RB
+את	AT
+ה	DEF
+היפך	NN	gen=m|num=s
+.	yyDOT
+
+ב	PREPOSITION
+ה	DEF
+32	CD
+ב	PREPOSITION
+אוקטובר	NNP
+התפעלה	VB	gen=f|num=s|per=3|tense=PAST
+ממן	IN
+הוא@suf	S_PRN	gen=m|num=s|per=3
+בעלת	NNT	gen=f|num=s
+טור	NN	gen=m|num=s
+ב	PREPOSITION
+ה	DEF
+עיתון	NN	gen=m|num=s
+"	yyQUOT
+בוסטון	NNP
+גלוב	NNP
+"	yyQUOT
+ב	PREPOSITION
+מלים	NN	gen=f|num=p
+ה	REL
+יאות	JJ	gen=f|num=p
+ל	PREPOSITION
+מעריצה	NN	gen=f|num=s
+בת	NNT	gen=f|num=s
+21	CD
+:	yyCLN
+"	yyQUOT
+הוא	PRP	gen=m|num=s|per=3
+עשה	VB	gen=m|num=s|per=3|tense=PAST
+ב	PREPOSITION
+חודשים	NN	gen=m|num=p
+אחדים	JJ	gen=m|num=p
+למען	IN
+צחות	NNT	gen=f|num=s
+ה	DEF
+דיבור	NN	gen=m|num=s
+מה	QW
+ש	REL
+לקח	VB	gen=m|num=s|per=3|tense=PAST
+ל	PREPOSITION
+ה	DEF
+חברה	NN	gen=f|num=s
+שנים	NN	gen=f|num=p
+כדי	IN
+לעשות	VB_TOINFINITIVE
+למען	IN
+טלוויזיה	NN	gen=f|num=s
+צבעונית	JJ	gen=f|num=s
+...	yyELPS
+אם	CC
+דיבור	NN	gen=m|num=s
+היה	COP	gen=m|num=s|per=3|polar=pos|tense=PAST
+ספורט	NN	gen=m|num=s
+אולימפי	JJ	gen=m|num=s
+,	yyCM
+הוא	PRP	gen=m|num=s|per=3
+היה	COP	gen=m|num=s|per=3|polar=pos|tense=PAST
+זוכה	BN	gen=m|num=s|per=a
+ב	PREPOSITION
+מדליית	NNT	gen=f|num=s
+ה	DEF
+זהב	NN	gen=m|num=s
+...	yyELPS
+סילבר	NNP	gen=f|gen=m|num=s
+כה	RB
+טוב	JJ	gen=m|num=s
+,	yyCM
+עד	IN
+ש	REL
+הוא	PRP	gen=m|num=s|per=3
+גורם	BN	gen=m|num=s|per=a
+ל	PREPOSITION
+אנגלית	NNP
+להישמע	VB_TOINFINITIVE
+כמו	IN
+צרפתית	NNP
+...	yyELPS
+אם	CC
+ייבחר	VB	gen=m|num=s|per=3|tense=FUTURE
+,	yyCM
+תהיה	COP	gen=f|num=s|per=3|polar=pos|tense=FUTURE
+ל	IN
+כולנו	PRP	gen=f|gen=m|num=p|per=1
+ה	DEF
+הזדמנות	NN	gen=f|num=s
+ללמוד	VB_TOINFINITIVE
+ממן	IN
+הוא@suf	S_PRN	gen=m|num=s|per=3
+להיות	COP_TOINFINITIVE	polar=pos
+סטודנטים	NN	gen=m|num=p
+ב	PREPOSITION
+כיתתו	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=s|suf_per=3
+ה	DEF
+ענקית	JJ	gen=f|num=s
+,	yyCM
+ה	REL
+נקראת	BN	gen=f|num=s|per=a
+מסצוסטס	NNP
+"	yyQUOT
+.	yyDOT
+
+אבל	CC
+בדיוק	RB
+ה	DEF
+רעיון	NN	gen=m|num=s
+ה	DEF
+זה	PRP	gen=m|num=s|per=3
+ה	DEF
+צורך	NN	gen=m|num=s
+להיות	COP_TOINFINITIVE	polar=pos
+ארבע	CD	gen=f|num=s
+שנים	NN	gen=f|num=p
+ארוכות	JJ	gen=f|num=p
+סטודנטים	NN	gen=m|num=p
+ב	PREPOSITION
+כיתתו	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=s|suf_per=3
+של	POS
+פרופסור	NN	gen=m|num=s
+יהיר	JJ	gen=m|num=s
+שלח	VB	gen=m|num=s|per=3|tense=PAST
+מספר	NN	gen=m|num=s
+מפתיע	JJ	gen=m|num=s
+של	POS
+אנשי	NNT	gen=m|num=p
+שמאל	NN	gen=m|num=s
+ל	PREPOSITION
+זרועותיו	NN_S_PP	gen=f|num=p|suf_gen=m|suf_num=s|suf_per=3
+של	POS
+ה	DEF
+רפובליקן	JJ	gen=m|num=s
+ה	DEF
+שמרן	JJ	gen=m|num=s
+ויליאם	NNP
+וולד	NNP
+.	yyDOT
+
+הוא	PRP	gen=m|num=s|per=3
+לבבי	JJ	gen=m|num=s
+,	yyCM
+חייכן	JJ	gen=m|num=s
+,	yyCM
+מסוגל	MD	gen=m|num=s|per=a
+להתבדח	VB_TOINFINITIVE
+על	IN
+חשבון	NNT	gen=m|num=s
+עצמו	PRP	gen=m|num=s|per=3
+,	yyCM
+ו	CONJ
+לוקח	BN	gen=m|num=s|per=a
+את	AT
+ה	DEF
+חיים	NN	gen=m|num=p
+קצת	RB
+פחות	RB
+ב	PREPOSITION
+רצינות	NN	gen=f|num=s
+.	yyDOT
+
+אילו	CC
+ניצח	VB	gen=m|num=s|per=3|tense=PAST
+סילבר	NNP	gen=f|gen=m|num=s
+,	yyCM
+יתכן	MD
+מאוד	RB
+ש	REL
+היה	COP	gen=m|num=s|per=3|polar=pos|tense=PAST
+מנסה	BN	gen=m|num=s|per=a
+בעוד	IN
+שנתיים	NN	gen=f|num=d
+,	yyCM
+או	CC
+בעוד	IN
+שש	CD	gen=f|num=s
+שנים	NN	gen=f|num=p
+,	yyCM
+להתמודד	VB_TOINFINITIVE
+על	IN
+ה	DEF
+נשיאות	NN	gen=f|num=s
+.	yyDOT
+
+אלי	NNP
+ויזל	NNP
+,	yyCM
+פרופסור	NN	gen=m|num=s
+ב	PREPOSITION
+אוניברסיטת	NNT	gen=f|num=s
+בוסטון	NNP
+,	yyCM
+ש	REL
+סילבר	NNP	gen=f|gen=m|num=s
+התאמץ	VB	gen=m|num=s|per=3|tense=PAST
+הרבה	RB
+למען	IN
+זכייתו	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=s|suf_per=3
+ב	PREPOSITION
+פרס	NNT	gen=m|num=s
+נובל	NN	gen=m|num=s
+ל	PREPOSITION
+שלום	NN	gen=m|num=s
+,	yyCM
+תמך	VB	gen=m|num=s|per=3|tense=PAST
+בגלוי	RB
+ב	PREPOSITION
+מועמדותו	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=s|suf_per=3
+ל	PREPOSITION
+משרת	NNT	gen=f|num=s
+ה	DEF
+מושל	NN	gen=m|num=s
+.	yyDOT
+
+הוא	PRP	gen=m|num=s|per=3
+היה	COP	gen=m|num=s|per=3|polar=pos|tense=PAST
+אפילו	CC
+מסוגל	MD	gen=m|num=s|per=a
+לראות	VB_TOINFINITIVE
+אות@suf	DUMMY_AT
+הוא@suf	S_ANP	gen=m|num=s|per=3
+מכהן	BN	gen=m|num=s|per=a
+ב	PREPOSITION
+ה	DEF
+בית	NN	gen=m|num=s
+ה	DEF
+לבן	JJ	gen=m|num=s
+.	yyDOT
+
+"	yyQUOT
+מדוע	QW
+לא	RB
+?	yyQM
+"	yyQUOT
+,	yyCM
+שאל	VB	gen=m|num=s|per=3|tense=PAST
+.	yyDOT
+
+"	yyQUOT
+גם	RB
+על	IN
+רונלד	NNP
+רייגן	NNP
+איש	NN	gen=m|num=s
+לא	RB
+היה	COP	gen=m|num=s|per=3|polar=pos|tense=PAST
+מאמין	BN	gen=m|num=s|per=a
+"	yyQUOT
+.	yyDOT
+
+ה	DEF
+השוואה	NN	gen=f|num=s
+ה	DEF
+זו	PRP	gen=f|num=s|per=3
+,	yyCM
+על	IN
+כל	DTT
+תוצאותיה	NN_S_PP	gen=f|num=p|suf_gen=f|suf_num=s|suf_per=3
+,	yyCM
+תיחסך	VB	gen=f|num=s|per=3|tense=FUTURE
+מאת	IN
+אנחנו@suf	S_PRN	gen=f|gen=m|num=p|per=1
+.	yyDOT
+
+סילבר	NNP	gen=f|gen=m|num=s
+חזר	VB	gen=m|num=s|per=3|tense=PAST
+השבוע	RB
+ל	PREPOSITION
+ה	DEF
+אוניברסיטה	NN	gen=f|num=s
+,	yyCM
+כועס	BN	gen=m|num=s|per=a
+ו	CONJ
+מתוסכל	JJ	gen=m|num=s
+יותר	RB
+מ	PREPOSITION
+אי	P
+-	yyDASH
+פעם	RB
+.	yyDOT
+
+ה	DEF
+מפלגות	NN	gen=f|num=p
+ה	DEF
+פוליטיות	JJ	gen=f|num=p
+ב	PREPOSITION
+ארה"ב	NNP
+מתחילות	BN	gen=f|num=p|per=a
+כבר	RB
+את	AT
+הכנותיהן	NN_S_PP	gen=f|num=p|suf_gen=f|suf_num=p|suf_per=3
+לקראת	IN
+ה	DEF
+סיבוב	NN	gen=m|num=s
+ה	DEF
+בא	JJ	gen=m|num=s
+,	yyCM
+ב	PREPOSITION
+2991	CD
+.	yyDOT
+
+אז	RB
+ייבחר	VB	gen=m|num=s|per=3|tense=FUTURE
+לא	RB
+רק	RB
+ה	DEF
+קונגרס	NN	gen=m|num=s
+,	yyCM
+אלא	CC
+גם	RB
+ה	DEF
+נשיא	NN	gen=m|num=s
+.	yyDOT
+
+רק	RB
+ארבע	CD	gen=f|num=s
+פעמים	NN	gen=f|num=p
+ב	PREPOSITION
+521	CD
+ה	DEF
+שנה	NN	gen=f|num=s
+ה	DEF
+אחרונות	JJ	gen=f|num=p
+לא	RB
+הצליח	VB	gen=m|num=s|per=3|tense=PAST
+נשיא	NN	gen=m|num=s
+לחזור	VB_TOINFINITIVE
+ו	CONJ
+להיבחר	VB_TOINFINITIVE
+,	yyCM
+אם	CC
+רצה	VB	gen=m|num=s|per=3|tense=PAST
+.	yyDOT
+
+עד	IN
+לפני	IN
+חודשיים	NN	gen=m|num=d
+לא	RB
+היתה	COP	gen=f|num=s|per=3|polar=pos|tense=PAST
+סיבה	NN	gen=f|num=s
+טובה	JJ	gen=f|num=s
+להניח	VB_TOINFINITIVE
+ש	REL
+גורג	NNP
+בוש	NNP
+יהיה	COP	gen=m|num=s|per=3|polar=pos|tense=FUTURE
+ה	DEF
+מקרה	NN	gen=m|num=s
+ה	DEF
+חמישי	CD	gen=m|num=s
+.	yyDOT
+
+אבל	CC
+מ	PREPOSITION
+אז	RB-COMPOUND
+נכשל	VB	gen=m|num=s|per=3|tense=PAST
+בוש	NNP
+ב	PREPOSITION
+טיפולו	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=s|suf_per=3
+ב	PREPOSITION
+פרשת	NNT	gen=f|num=s
+ה	DEF
+תקציב	NN	gen=m|num=s
+,	yyCM
+הסתבך	VB	gen=m|num=s|per=3|tense=PAST
+ב	PREPOSITION
+התכתשויות	NNT	gen=f|num=p
+-	yyDASH
+סרק	NN	gen=m|num=s
+עם	IN
+ה	DEF
+דמוקרטים	NN	gen=m|num=p
+,	yyCM
+ו	CONJ
+נכנע	VB	gen=m|num=s|per=3|tense=PAST
+לבסוף	RB
+לאורך	IN
+כל	DTT
+ה	DEF
+דרך	NN	gen=f|num=s
+,	yyCM
+שוררת	BN	gen=f|num=s|per=a
+בין	IN
+דמוקרטים	NN	gen=m|num=p
+ה	DEF
+תחושה	NN	gen=f|num=s
+ש	REL
+יש	EX
+ל	IN
+המ@suf	S_PRN	gen=m|num=p|per=3
+סיכוי	NN	gen=m|num=s
+ממשי	JJ	gen=m|num=s
+להוציא	VB_TOINFINITIVE
+את	AT
+בוש	NNP
+מן	IN
+ה	DEF
+בית	NN	gen=m|num=s
+ה	DEF
+לבן	JJ	gen=m|num=s
+בעוד	IN
+שנתיים	NN	gen=f|num=d
+.	yyDOT
+
+יש	EX
+לא	RB
+מעט	DTT
+רפובליקאים	NN	gen=m|num=p
+ה	REL
+נוטים	BN	gen=m|num=p|per=a
+להסכים	VB_TOINFINITIVE
+עם	IN
+המ@suf	S_PRN	gen=m|num=p|per=3
+.	yyDOT
+
+עכשיו	RB
+נבחנים	BN	gen=m|num=p|per=a
+ה	DEF
+מועמדים	NN	gen=m|num=p
+ל	PREPOSITION
+1992	CD
+.	yyDOT
+
+ה	DEF
+בחירות	NN	gen=f|num=p
+של	POS
+ה	DEF
+שבוע	NN	gen=m|num=s
+יכלו	VB	gen=f|gen=m|num=p|per=3|tense=FUTURE
+להעניק	VB_TOINFINITIVE
+דחיפה	NN	gen=f|num=s
+נאה	JJ	gen=m|num=s
+ל	PREPOSITION
+שניים	CD	gen=m|num=p
+מן	IN
+ה	DEF
+פוליטיקאים	NN	gen=m|num=p
+ה	DEF
+מוזכרים	BN	gen=m|num=p|per=a
+ביותר	RB
+:	yyCLN
+ה	DEF
+מושל	NN	gen=m|num=s
+רב	JJT	gen=m|num=s
+-	yyDASH
+ה	DEF
+כריזמה	NN	gen=f|num=s
+של	POS
+מדינת	NNT	gen=f|num=s
+ניו	NNP	gen=f|gen=m|num=s
+יורק	NNP	gen=f|num=s
+,	yyCM
+מריו	NNP	gen=m|num=s
+קואומו	NNP
+,	yyCM
+ש	REL
+שמו	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=s|suf_per=3
+מתרוצץ	BN	gen=m|num=s|per=a
+ב	PREPOSITION
+הקשרים	NN	gen=m|num=p
+נשיאותיים	JJ	gen=m|num=p
+מ	PREPOSITION
+אז	RB-COMPOUND
+4891	CD
+;	yySCLN
+ו	CONJ
+ה	DEF
+סנאטור	NN	gen=m|num=s
+מ	IN
+ניו	NNP	gen=f|gen=m|num=s
+גרסי	NNP	gen=f|num=s
+,	yyCM
+ה	DEF
+אינטלקטואל	NN	gen=m|num=s
+ו	CONJ
+כוכב	NNT	gen=m|num=s
+ה	DEF
+כדורסל	NN	gen=m|num=s
+ה	DEF
+מהולל	JJ	gen=m|num=s
+של	POS
+שנות	NNT	gen=f|num=p
+ה	DEF
+06	CD
+,	yyCM
+ביל	NNP
+בראדלי	NNP
+.	yyDOT
+
+ניצחונות	NNT	gen=m|num=p
+שניהם	PRP	gen=m|num=p|per=3
+לא	RB
+הועמדו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+אף	DTT
+דקה	NN	gen=f|num=s
+אחת	CD	gen=f|num=s
+ב	PREPOSITION
+ספק	NN	gen=m|num=s
+ב	PREPOSITION
+מהלך	NN	compound=y|gen=m|num=s
+מערכת	NNT	gen=f|num=s
+ה	DEF
+בחירות	NN	gen=f|num=p
+.	yyDOT
+
+ה	DEF
+שאלה	NN	gen=f|num=s
+ה	DEF
+יחידה	JJ	gen=f|num=s
+היתה	COP	gen=f|num=s|per=3|polar=pos|tense=PAST
+ב	PREPOSITION
+איזה	DTT
+הפרש	NN	gen=m|num=s
+ירסקו	VB	gen=f|gen=m|num=p|per=3|tense=FUTURE
+יריבים	NN	gen=m|num=p
+רפובליקאיים	JJ	gen=m|num=p
+בני	NNT	gen=m|num=p
+בלי	IN
+שם	NN	gen=m|num=s
+.	yyDOT
+
+בראדלי	NNP
+ניצח	VB	gen=m|num=s|per=3|tense=PAST
+לבסוף	RB
+ב	PREPOSITION
+הפרש	NN	gen=m|num=s
+של	POS
+שלושה	CD	gen=m|num=s
+אחוזים	NN	gen=m|num=p
+.	yyDOT
+
+ב	PREPOSITION
+מוצאי	NNT	gen=m|num=p
+יום	NNT	gen=m|num=s
+ה	DEF
+בחירות	NN	gen=f|num=p
+התבוננו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+רפובליקאים	NN	gen=m|num=p
+ב	PREPOSITION
+אי	P
+-	yyDASH
+אמון	NN	gen=m|num=s
+ב	PREPOSITION
+ה	DEF
+תוצאות	NN	gen=f|num=p
+,	yyCM
+ו	CONJ
+אמרו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+ב	PREPOSITION
+אנחה	NN	gen=f|num=s
+עמוקה	JJ	gen=f|num=s
+כי	CC
+אילו	CC
+היו	COP	gen=f|gen=m|num=p|per=3|polar=pos|tense=PAST
+משכילים	BN	gen=m|num=p|per=a
+לעמוד	VB_TOINFINITIVE
+על	IN
+גודל	NNT	gen=m|num=s
+ה	DEF
+הזדמנות	NN	gen=f|num=s
+ב	IN
+ניו	NNP	gen=f|gen=m|num=s
+גרסי	NNP	gen=f|num=s
+,	yyCM
+היו	COP	gen=f|gen=m|num=p|per=3|polar=pos|tense=PAST
+מתגייסים	BN	gen=m|num=p|per=a
+ל	PREPOSITION
+עזרת	NNT	gen=f|num=s
+ה	DEF
+מועמדת	NN	gen=f|num=s
+ה	DEF
+רפובליקאית	JJ	gen=f|num=s
+,	yyCM
+כריסטין	NNP
+טוד	NNP
+ויטמן	NNP
+.	yyDOT
+
+מאחר	CC
+ש	REL
+הכול	PRP	gen=m|num=s|per=3
+ראו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+ב	IN
+היא@suf	S_PRN	gen=f|num=s|per=3
+שיה	NN	gen=f|num=s
+מובלת	BN	gen=f|num=s|per=a
+ל	PREPOSITION
+ה	DEF
+טבח	NN	gen=m|num=s
+,	yyCM
+היא	PRP	gen=f|num=s|per=3
+נשארה	VB	gen=f|num=s|per=3|tense=PAST
+עם	IN
+תקציב	NNT	gen=m|num=s
+בחירות	NN	gen=f|num=p
+קטן	JJ	gen=m|num=s
+ב	PREPOSITION
+90	CD
+%	NN	gen=m|num=p|num=s
+מ	PREPOSITION
+זה	PRP	gen=m|num=s|per=3
+של	POS
+בראדלי	NNP
+.	yyDOT
+
+מריו	NNP	gen=m|num=s
+קואומו	NNP
+היה	COP	gen=m|num=s|per=3|polar=pos|tense=PAST
+ה	DEF
+מועמד	NN	gen=m|num=s
+ה	DEF
+טבעי	JJ	gen=m|num=s
+ביותר	RB
+ל	PREPOSITION
+ה	DEF
+נשיאות	NN	gen=f|num=s
+מ	PREPOSITION
+אז	RB-COMPOUND
+נשא	VB	gen=m|num=s|per=3|tense=PAST
+נאום	NN	gen=m|num=s
+מלהיב	BN	gen=m|num=s|per=a
+באוזני	IN
+ועידת	NNT	gen=f|num=s
+ה	DEF
+מפלגה	NN	gen=f|num=s
+ה	DEF
+דמוקרטית	JJ	gen=f|num=s
+,	yyCM
+ב	PREPOSITION
+קיץ	NNT	gen=m|num=s
+4891	CD
+.	yyDOT
+
+כשרון	NNT	gen=m|num=s
+ה	DEF
+דיבור	NN	gen=m|num=s
+של	POS
+הוא@suf	S_PRN	gen=m|num=s|per=3
+,	yyCM
+ה	DEF
+עומק	NN	gen=m|num=s
+ה	DEF
+אינטלקטואלי	JJ	gen=m|num=s
+,	yyCM
+ה	DEF
+נעימות	NN	gen=f|num=s
+ו	CONJ
+ה	DEF
+חמימות	NN	gen=f|num=s
+שכנעו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+אנשים	NN	gen=m|num=p
+רבים	JJ	gen=m|num=p
+ב	PREPOSITION
+ארה"ב	NNP
+ש	REL
+הוא	PRP	gen=m|num=s|per=3
+יהיה	COP	gen=m|num=s|per=3|polar=pos|tense=FUTURE
+יום	NN	gen=m|num=s
+אחד	CD	gen=m|num=s
+ה	DEF
+תשובה	NN	gen=f|num=s
+ה	DEF
+דמוקרטית	JJ	gen=f|num=s
+ל	PREPOSITION
+רונלד	NNP
+רייגן	NNP
+.	yyDOT
+
+ה	DEF
+עובדה	NN	gen=f|num=s
+ש	REL
+נחל	VB	gen=m|num=s|per=3|tense=PAST
+ניצחון	NN	gen=m|num=s
+כל	DTT
+כך	RB
+לא	RB
+מרשים	JJ	gen=m|num=s
+על	IN
+יריבים	NN	gen=m|num=p
+כל	DTT
+כך	RB
+לא	RB
+מרשימים	JJ	gen=m|num=p
+אינה	COP	gen=f|num=s|per=3|polar=neg|tense=BEINONI
+אומרת	BN	gen=f|num=s|per=a
+בהכרח	RB
+ש	REL
+סיכויו	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=s|suf_per=3
+להתמודד	VB_TOINFINITIVE
+על	IN
+ה	DEF
+בית	NN	gen=m|num=s
+ה	DEF
+לבן	JJ	gen=m|num=s
+אבדו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+לנצח	RB
+.	yyDOT
+
+היא	PRP	gen=f|num=s|per=3
+אומרת	BN	gen=f|num=s|per=a
+לעומת	IN
+זאת	PRP	gen=f|num=s|per=3
+,	yyCM
+ש	REL
+משהו	NN	gen=m|num=s
+מן	IN
+ה	DEF
+קסם	NN	gen=m|num=s
+של	POS
+הוא@suf	S_PRN	gen=m|num=s|per=3
+אבד	VB	gen=m|num=s|per=3|tense=PAST
+.	yyDOT
+
+על	IN
+סנאטורים	NN	gen=m|num=p
+אומרים	BN	gen=m|num=p|per=a
+כי	CC
+אין	EX
+ל	IN
+אתה@suf	S_PRN	gen=m|num=s|per=2
+אחד	CD	gen=m|num=s
+מ	IN
+המ@suf	S_PRN	gen=m|num=p|per=3
+ש	REL
+אינו	COP	gen=m|num=s|per=3|polar=neg|tense=BEINONI
+רואה	BN	gen=m|num=s|per=a
+את	AT
+עצמו	PRP	gen=m|num=s|per=3
+,	yyCM
+כך	RB
+או	CC
+אחרת	RB
+,	yyCM
+מועמד	NN	gen=m|num=s
+פוטנציאלי	JJ	gen=m|num=s
+ל	PREPOSITION
+ה	DEF
+נשיאות	NN	gen=f|num=s
+.	yyDOT
+
+ב	PREPOSITION
+ה	DEF
+מאה	CD	gen=f|num=s
+ה	DEF
+זו	PRP	gen=f|num=s|per=3
+נבחרו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+שני	CDT	gen=m|num=p
+סנאטורים	NN	gen=m|num=p
+ל	PREPOSITION
+נשיאים	NN	gen=m|num=p
+,	yyCM
+ו	CONJ
+שלושה	CD	gen=m|num=s
+נשיאים	NN	gen=m|num=p
+אחרים	JJ	gen=m|num=p
+כיהנו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+ב	PREPOSITION
+ה	DEF
+סנאט	NN	gen=m|num=s
+ב	PREPOSITION
+זמן	NN	gen=m|num=s
+כלשהו	PRP	gen=m|num=s|per=3
+של	POS
+ה	DEF
+קריירה	NN	gen=f|num=s
+של	POS
+המ@suf	S_PRN	gen=m|num=p|per=3
+.	yyDOT
+
+לעומת	IN
+זאת	PRP	gen=f|num=s|per=3
+הגיעו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+ל	PREPOSITION
+ה	DEF
+נשיאות	NN	gen=f|num=s
+חמישה	CD	gen=m|num=s
+מושלי	NNT	gen=m|num=p
+מדינות	NN	gen=f|num=p
+.	yyDOT
+
+כהונת	NNT	gen=f|num=s
+מושל	NN	gen=m|num=s
+ב	PREPOSITION
+מדינה	NN	gen=f|num=s
+גדולה	JJ	gen=f|num=s
+היא	COP	gen=f|num=s|per=3|polar=pos|tense=BEINONI
+קרש	NNT	gen=m|num=s
+קפיצה	NN	gen=f|num=s
+אל	IN
+מרכז	NNT	gen=m|num=s
+תשומת	NNT	gen=f|num=s
+ה	DEF
+לב	NN	gen=m|num=s
+ה	DEF
+לאומית	JJ	gen=f|num=s
+.	yyDOT
+
+ב	PREPOSITION
+ארץ	NN	gen=f|num=s
+ה	REL
+מתעניינת	BN	gen=f|num=s|per=a
+קודם	RB
+כל	DTT
+ב	PREPOSITION
+יכולת	NNT	gen=f|num=s
+ה	DEF
+ביצוע	NN	gen=m|num=s
+,	yyCM
+כהונת	NNT	gen=f|num=s
+ה	DEF
+נשיא	NN	gen=m|num=s
+נתפסת	BN	gen=f|num=s|per=a
+לעתים	RB
+קרובות	JJ	gen=f|num=p
+ב	PREPOSITION
+אותו	PRP	gen=m|num=s|per=3
+אופן	NN	gen=m|num=s
+ש	REL
+נתפסת	BN	gen=f|num=s|per=a
+כהונת	NNT	gen=f|num=s
+מנכ"ל	NNT	gen=m|num=s
+תעשיית	NNT	gen=f|num=s
+ה	DEF
+מכוניות	NN	gen=f|num=p
+קרייזלר	NNP	gen=f|gen=m|num=s
+.	yyDOT
+
+ה	DEF
+בחירות	NN	gen=f|num=p
+ה	DEF
+אלה	PRP	gen=m|num=p|per=3
+מתנהלות	BN	gen=f|num=p|per=a
+על	IN
+מיומנות	NN	gen=f|num=s
+,	yyCM
+לא	RB
+על	IN
+אידיאולוגיה	NN	gen=f|num=s
+"	yyQUOT
+,	yyCM
+הכריז	VB	gen=m|num=s|per=3|tense=PAST
+חגיגית	RB
+מייקל	NNP
+דוקאקיס	NNP
+,	yyCM
+כאשר	CC
+נבחר	VB	gen=m|num=s|per=3|tense=PAST
+ל	PREPOSITION
+ה	DEF
+מועמד	NN	gen=m|num=s
+ה	DEF
+דמוקרטי	JJ	gen=m|num=s
+ל	PREPOSITION
+ה	DEF
+נשיאות	NN	gen=f|num=s
+.	yyDOT
+
+הצלחתה	NN_S_PP	gen=f|num=s|suf_gen=f|suf_num=s|suf_per=3
+ה	DEF
+כלכלית	JJ	gen=f|num=s
+של	POS
+מדינתו	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=s|suf_per=3
+,	yyCM
+מסצוסטס	NNP
+,	yyCM
+היתה	COP	gen=f|num=s|per=3|polar=pos|tense=PAST
+צריכה	MD	gen=f|num=s|per=a
+להיות	COP_TOINFINITIVE	polar=pos
+ה	DEF
+אישור	NN	gen=m|num=s
+ל	PREPOSITION
+דרגת	NNT	gen=f|num=s
+מיומנותו	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=s|suf_per=3
+.	yyDOT
+
+ב	PREPOSITION
+סופו	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=s|suf_per=3
+של	POS
+דבר	NN	gen=m|num=s
+התברר	VB	gen=m|num=s|per=3|tense=PAST
+ש	REL
+ה	DEF
+הצלחה	NN	gen=f|num=s
+היתה	COP	gen=f|num=s|per=3|polar=pos|tense=PAST
+כישלון	NN	gen=m|num=s
+,	yyCM
+ו	CONJ
+דוקאקיס	NNP
+הובס	VB	gen=m|num=s|per=3|tense=PAST
+.	yyDOT
+
+אבל	CC
+ה	DEF
+נוסחה	NN	gen=f|num=s
+בעינה	RB
+עומדת	BN	gen=f|num=s|per=a
+.	yyDOT
+
+לכן	CC
+יעוררו	VB	gen=f|gen=m|num=p|per=3|tense=FUTURE
+מידה	NN	gen=f|num=s
+גדולה	JJ	gen=f|num=s
+של	POS
+סקרנות	NN	gen=f|num=s
+ה	DEF
+מושלים	NN	gen=m|num=p
+ה	DEF
+חדשים	JJ	gen=m|num=p
+של	POS
+קליפורניה	NNP
+,	yyCM
+של	POS
+טקסס	NNP
+,	yyCM
+של	POS
+פלורידה	NNP
+,	yyCM
+של	POS
+אילינוי	NNP	gen=f|num=s
+ו	CONJ
+של	POS
+מישיגן	NNP
+.	yyDOT
+
+מ	PREPOSITION
+כל	DTT
+ה	DEF
+מושלים	NN	gen=m|num=p
+ה	DEF
+אלה	PRP	gen=m|num=p|per=3
+בולטת	BN	gen=f|num=s|per=a
+אן	NNP
+ריצארדס	NNP
+.	yyDOT
+
+ב	PREPOSITION
+גיל	NNT	gen=m|num=s
+85	CD
+היא	PRP	gen=f|num=s|per=3
+רשאית	MD	gen=f|num=s|per=a
+לטעון	VB_TOINFINITIVE
+ל	PREPOSITION
+תואר	NNT	gen=m|num=s
+ה	DEF
+פוליטיקאית	NN	gen=f|num=s
+ה	DEF
+בכירה	JJ	gen=f|num=s
+ביותר	RB
+ב	PREPOSITION
+ארה"ב	NNP
+.	yyDOT
+
+היא	PRP	gen=f|num=s|per=3
+נבחרה	VB	gen=f|num=s|per=3|tense=PAST
+השבוע	RB
+ל	PREPOSITION
+מושלת	NNT	gen=f|num=s
+טקסס	NNP
+,	yyCM
+מ	PREPOSITION
+קץ	NNT	gen=m|num=s
+מערכת	NNT	gen=f|num=s
+ה	DEF
+בחירות	NN	gen=f|num=p
+ה	DEF
+מכוערת	JJ	gen=f|num=s
+ו	CONJ
+ה	DEF
+דרמטית	JJ	gen=f|num=s
+ביותר	RB
+של	POS
+0991	CD
+.	yyDOT
+
+ריצארדס	NNP
+הגיעה	VB	gen=f|num=s|per=3|tense=PAST
+לראשונה	RB
+אל	IN
+ה	DEF
+תודעה	NN	gen=f|num=s
+ה	DEF
+לאומית	JJ	gen=f|num=s
+ב	PREPOSITION
+ארה"ב	NNP
+,	yyCM
+כאשר	CC
+הוזמנה	VB	gen=f|num=s|per=3|tense=PAST
+לשאת	VB_TOINFINITIVE
+את	AT
+ה	DEF
+נאום	NN	gen=m|num=s
+ה	DEF
+מרכזי	JJ	gen=m|num=s
+ב	PREPOSITION
+וועידת	NNT	gen=f|num=s
+ה	DEF
+מפלגה	NN	gen=f|num=s
+ה	DEF
+דמוקרטית	JJ	gen=f|num=s
+,	yyCM
+ערב	NNT	gen=m|num=s
+ה	DEF
+בחירות	NN	gen=f|num=p
+ל	PREPOSITION
+ה	DEF
+נשיאות	NN	gen=f|num=s
+של	POS
+8891	CD
+.	yyDOT
+
+ה	DEF
+דמוקרטים	NN	gen=m|num=p
+היו	COP	gen=f|gen=m|num=p|per=3|polar=pos|tense=PAST
+ב	PREPOSITION
+אווירת	NNT	gen=f|num=s
+אופוריה	NN	gen=f|num=s
+,	yyCM
+ו	CONJ
+הניחו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+ש	REL
+מועמדם	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=p|suf_per=3
+דוקאקיס	NNP
+לא	RB
+יצטרך	VB	gen=m|num=s|per=3|tense=FUTURE
+אפילו	CC
+לרוץ	VB_TOINFINITIVE
+ל	PREPOSITION
+ה	DEF
+בית	NN	gen=m|num=s
+ה	DEF
+לבן	JJ	gen=m|num=s
+.	yyDOT
+
+הוא	PRP	gen=m|num=s|per=3
+יוכל	MD	gen=m|num=s|per=2|tense=FUTURE
+ללכת	VB_TOINFINITIVE
+ל	PREPOSITION
+שם	RB
+ב	PREPOSITION
+נחת	NN	gen=f|num=s
+,	yyCM
+בגלל	IN
+ה	DEF
+בוז	NN	gen=m|num=s
+ו	CONJ
+ה	DEF
+לעג	NN	gen=m|num=s
+ש	REL
+עורר	VB	gen=m|num=s|per=3|tense=PAST
+ה	DEF
+יריב	NN	gen=m|num=s
+ה	DEF
+רפובליקאי	JJ	gen=m|num=s
+גורג	NNP
+בוש	NNP
+.	yyDOT
+
+ריצארדס	NNP
+הצחיקה	VB	gen=f|num=s|per=3|tense=PAST
+מיליוני	CDT	gen=m|num=p
+אמריקאים	NN	gen=m|num=p
+ב	PREPOSITION
+נאום	NN	gen=m|num=s
+שזור	JJT	gen=m|num=s
+עקיצות	NN	gen=f|num=p
+לגלגניות	JJ	gen=f|num=p
+על	IN
+בוש	NNP
+.	yyDOT
+
+"	yyQUOT
+גורג	NNP
+ה	DEF
+מסכן	JJ	gen=m|num=s
+"	yyQUOT
+,	yyCM
+אמרה	VB	gen=f|num=s|per=3|tense=PAST
+ריצארדס	NNP
+ב	PREPOSITION
+ה	DEF
+הגיה	NN	gen=f|num=s
+ה	DEF
+טקסאנית	JJ	gen=f|num=s
+ה	DEF
+רכה	JJ	gen=f|num=s
+של	POS
+היא@suf	S_PRN	gen=f|num=s|per=3
+,	yyCM
+"	yyQUOT
+הוא	PRP	gen=m|num=s|per=3
+לא	RB
+אשם	JJ	gen=m|num=s
+,	yyCM
+הוא	PRP	gen=m|num=s|per=3
+נולד	VB	gen=m|num=s|per=3|tense=PAST
+עם	IN
+רגל	NNT	gen=f|num=s
+כסף	NN	gen=m|num=s
+ב	PREPOSITION
+ה	DEF
+פה	NN	gen=m|num=s
+"	yyQUOT
+.	yyDOT
+
+זה	PRP	gen=m|num=s|per=3
+היה	COP	gen=m|num=s|per=3|polar=pos|tense=PAST
+רמז	NN	gen=m|num=s
+הן	RB
+ל	PREPOSITION
+היותו	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=s|suf_per=3
+בן	NNT	gen=m|num=s
+טובים	NN	gen=m|num=p
+,	yyCM
+ו	CONJ
+הן	RB
+ל	PREPOSITION
+יכולתו	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=s|suf_per=3
+יוצאת	BNT	gen=f|num=s|per=a
+ה	DEF
+דופן	NN	gen=f|gen=m|num=s
+להגיד	VB_TOINFINITIVE
+את	AT
+ה	DEF
+דברים	NN	gen=m|num=p
+ה	DEF
+לא	RB
+-	yyDASH
+נכונים	JJ	gen=m|num=p
+ב	PREPOSITION
+ה	DEF
+זמן	NN	gen=m|num=s
+ה	DEF
+לא	RB
+-	yyDASH
+נכון	JJ	gen=m|num=s
+ו	CONJ
+ב	PREPOSITION
+ה	DEF
+מקום	NN	gen=m|num=s
+ה	DEF
+לא	RB
+-	yyDASH
+נכון	JJ	gen=m|num=s
+.	yyDOT
+
+בוש	NNP
+טען	VB	gen=m|num=s|per=3|tense=PAST
+ל	PREPOSITION
+ימים	NN	gen=m|num=p
+כי	CC
+ה	DEF
+התקפה	NN	gen=f|num=s
+ה	REL
+היא	PRP	compound=y|gen=f|num=s|per=3
+נסכה	VB	gen=f|num=s|per=3|tense=PAST
+ב	IN
+הוא@suf	S_PRN	gen=m|num=s|per=3
+את	AT
+ה	DEF
+נחישות	NN	gen=f|num=s
+להשיב	VB_TOINFINITIVE
+ל	PREPOSITION
+ה	DEF
+דמוקרטים	NN	gen=m|num=p
+ב	PREPOSITION
+מתקפת	NNT	gen=f|num=s
+נגד	NN	gen=m|num=s
+,	yyCM
+ש	REL
+זכר	NNT	gen=m|num=s
+תוקפנותה	NN_S_PP	gen=f|num=s|suf_gen=f|suf_num=s|suf_per=3
+מעורר	BN	gen=m|num=s|per=a
+עד	IN
+עכשיו	RB
+אי	P
+-	yyDASH
+נוחות	NN	gen=f|num=s
+ניכרת	JJ	gen=f|num=s
+בין	IN
+משקיפים	NN	gen=m|num=p
+פוליטים	JJ	gen=m|num=p
+.	yyDOT
+
+מאז	RB
+היתה	COP	gen=f|num=s|per=3|polar=pos|tense=PAST
+ריצארדס	NNP
+דמות	NN	gen=f|num=s
+שנויה	JJ	gen=f|num=s
+ב	PREPOSITION
+מחלוקת	NN	gen=f|num=s
+.	yyDOT
+
+כאשר	CC
+החליטה	VB	gen=f|num=s|per=3|tense=PAST
+להתמודד	VB_TOINFINITIVE
+על	IN
+מועמדות	NNT	gen=f|num=s
+מפלגתה	NN_S_PP	gen=f|num=s|suf_gen=f|suf_num=s|suf_per=3
+ל	PREPOSITION
+מושל	NN	gen=m|num=s
+,	yyCM
+התייצבו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+נגד	IN
+היא@suf	S_PRN	gen=f|num=s|per=3
+שני	CDT	gen=m|num=p
+דמוקרטים	NN	gen=m|num=p
+אחרים	JJ	gen=m|num=p
+,	yyCM
+ש	REL
+הפיצו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+ידיעות	NN	gen=f|num=p
+כי	CC
+היא	PRP	gen=f|num=s|per=3
+השתמשה	VB	gen=f|num=s|per=3|tense=PAST
+ב	PREPOSITION
+ה	DEF
+עבר	NN	gen=m|num=s
+ב	PREPOSITION
+סמים	NN	gen=m|num=p
+.	yyDOT
+
+ריצארדס	NNP
+לא	RB
+טמנה	VB	gen=f|num=s|per=3|tense=PAST
+את	AT
+ידה	NN_S_PP	gen=f|num=s|suf_gen=f|suf_num=s|suf_per=3
+ב	PREPOSITION
+ה	DEF
+צלחת	NN	gen=f|num=s
+.	yyDOT
+
+היא	PRP	gen=f|num=s|per=3
+אמנם	RB
+יצאה	VB	gen=f|num=s|per=3|tense=PAST
+מן	IN
+ה	DEF
+מערכה	NN	gen=f|num=s
+ה	DEF
+דמוקרטית	JJ	gen=f|num=s
+ב	PREPOSITION
+ניצחון	NN	gen=m|num=s
+,	yyCM
+אבל	CC
+גם	RB
+ב	PREPOSITION
+שן	NN	gen=f|num=s
+ו	CONJ
+עין	NN	gen=f|num=s
+.	yyDOT
+
+איש	NN	gen=m|num=s
+ב	PREPOSITION
+טקסס	NNP
+לא	RB
+פיקפק	VB	gen=m|num=s|per=3|tense=PAST
+ש	REL
+יריבה	NN_S_PP	gen=m|num=s|suf_gen=f|suf_num=s|suf_per=3
+ה	DEF
+רפובליקאי	JJ	gen=m|num=s
+,	yyCM
+קלייטון	NNP
+ויליאמס	NNP
+,	yyCM
+חוואי	NN	gen=m|num=s
+ו	CONJ
+איש	NNT	gen=m|num=s
+נפט	NN	gen=m|num=s
+,	yyCM
+יביס	VB	gen=m|num=s|per=3|tense=FUTURE
+אות	AT
+היא@suf	S_PRN	gen=f|num=s|per=3
+ב	PREPOSITION
+קלות	NN	gen=f|num=s
+.	yyDOT
+
+הוא	PRP	gen=m|num=s|per=3
+הופיע	VB	gen=m|num=s|per=3|tense=PAST
+ב	PREPOSITION
+תשדירי	NNT	gen=m|num=p
+ה	DEF
+בחירות	NN	gen=f|num=p
+של	POS
+הוא@suf	S_PRN	gen=m|num=s|per=3
+רכוב	BN	gen=m|num=s|per=a
+על	IN
+סוס	NN	gen=m|num=s
+,	yyCM
+עם	IN
+מגבעת	NN	gen=f|num=s
+רחבת	JJT	gen=f|num=s
+תיתורת	NNT	gen=f|num=s
+,	yyCM
+ו	CONJ
+פרט	VB	gen=m|num=s|per=3|tense=PAST
+על	IN
+נימי	NNT	gen=m|num=p
+ה	DEF
+מאציזמו	NN	gen=m|num=s
+ה	DEF
+טקסני	JJ	gen=m|num=s
+.	yyDOT
+
+הוא	PRP	gen=m|num=s|per=3
+גם	RB
+התחיל	VB	gen=m|num=s|per=3|tense=PAST
+למעוד	VB_TOINFINITIVE
+מעידות	NN	gen=f|num=p
+מילוליות	JJ	gen=f|num=p
+שערורייתיות	JJ	gen=f|num=p
+.	yyDOT
+
+הוא	PRP	gen=m|num=s|per=3
+יעץ	VB	gen=m|num=s|per=3|tense=PAST
+ל	PREPOSITION
+ה	DEF
+נשים	NN	gen=f|num=p
+,	yyCM
+ש	REL
+אם	CC
+הן	PRP	gen=f|num=p|per=3
+נופלות	BN	gen=f|num=p|per=a
+קרבן	NN	gen=m|num=s
+ל	PREPOSITION
+אונס	NN	gen=m|num=s
+ו	CONJ
+הן	PRP	gen=f|num=p|per=3
+חסרות	JJT	gen=f|num=p
+אונים	NN	gen=m|num=p
+,	yyCM
+"	yyQUOT
+מוטב	MD
+לשתוק	VB_TOINFINITIVE
+ו	CONJ
+ליהנות	VB_TOINFINITIVE
+"	yyQUOT
+.	yyDOT
+
+הוא	PRP	gen=m|num=s|per=3
+דיבר	VB	gen=m|num=s|per=3|tense=PAST
+ב	PREPOSITION
+פומבי	NN	gen=m|num=s
+על	IN
+ניסיונו	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=s|suf_per=3
+כ	PREPOSITION
+איש	NN	gen=m|num=s
+צעיר	JJ	gen=m|num=s
+ב	PREPOSITION
+בתי	NNT	gen=m|num=p
+-	yyDASH
+בושת	NN	gen=f|num=s
+מקסיקאיים	JJ	gen=m|num=p
+.	yyDOT
+
+הוא	PRP	gen=m|num=s|per=3
+סירב	VB	gen=m|num=s|per=3|tense=PAST
+ללחוץ	VB_TOINFINITIVE
+את	AT
+ידה	NN_S_PP	gen=f|num=s|suf_gen=f|suf_num=s|suf_per=3
+של	POS
+ריצארדס	NNP
+ב	PREPOSITION
+ה	DEF
+רבים	BN	gen=m|num=p|per=a
+,	yyCM
+ו	CONJ
+קרא	VB	gen=m|num=s|per=3|tense=PAST
+ל	IN
+היא@suf	S_PRN	gen=f|num=s|per=3
+ב	PREPOSITION
+פניה	NN_S_PP	gen=f|gen=m|num=p|suf_gen=f|suf_num=s|suf_per=3
+שקרנית	NN	gen=f|num=s
+"	yyQUOT
+.	yyDOT
+
+פעם	NN	gen=f|num=s
+אחרת	JJ	gen=f|num=s
+שאל	VB	gen=m|num=s|per=3|tense=PAST
+ב	PREPOSITION
+חיוך	NN	gen=m|num=s
+גדול	JJ	gen=m|num=s
+,	yyCM
+האם	QW
+חזרה	VB	gen=f|num=s|per=3|tense=PAST
+להיות	COP_TOINFINITIVE	polar=pos
+אלכוהוליסטית	NN	gen=f|num=s
+-LRB-	yyLRB
+ריצארדס	NNP
+הודתה	VB	gen=f|num=s|per=3|tense=PAST
+ש	REL
+עברה	VB	gen=f|num=s|per=3|tense=PAST
+טיפול	NN	gen=m|num=s
+נגד	IN
+אלכוהוליזם	NN	gen=m|num=s
+ב	PREPOSITION
+תקופה	NN	gen=f|num=s
+מסוימת	JJ	gen=f|num=s
+של	POS
+חייה	NN_S_PP	gen=m|num=p|suf_gen=f|suf_num=s|suf_per=3
+-RRB-	yyRRB
+.	yyDOT
+
+יתרונו	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=s|suf_per=3
+ה	DEF
+עצום	JJ	gen=m|num=s
+של	POS
+ויליאמס	NNP
+ב	PREPOSITION
+ה	DEF
+סקרים	NN	gen=m|num=p
+פחת	VB	gen=m|num=s|per=3|tense=PAST
+ו	CONJ
+הלך	VB	gen=m|num=s|per=3|tense=PAST
+,	yyCM
+ו	CONJ
+ה	DEF
+רפובליקאים	NN	gen=m|num=p
+מרטו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+ב	PREPOSITION
+ייאוש	NN	gen=m|num=s
+את	AT
+שערותיהם	NN_S_PP	gen=f|num=p|suf_gen=m|suf_num=p|suf_per=3
+.	yyDOT
+
+הם	PRP	gen=m|num=p|per=3
+התחננו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+לפני	IN
+ויליאמס	NNP
+לשתוק	VB_TOINFINITIVE
+.	yyDOT
+
+הוא	PRP	gen=m|num=s|per=3
+לא	RB
+הצליח	VB	gen=m|num=s|per=3|tense=PAST
+.	yyDOT
+
+ב	PREPOSITION
+ינואר	NNP
+תקבל	VB	gen=f|num=s|per=3|tense=FUTURE
+ל	PREPOSITION
+ידיה	NN_S_PP	gen=f|num=p|suf_gen=f|suf_num=s|suf_per=3
+ריצארדס	NNP
+את	AT
+ה	DEF
+אחריות	NN	gen=f|num=s
+ה	DEF
+מינהלית	JJ	gen=f|num=s
+ה	DEF
+גדולה	JJ	gen=f|num=s
+ביותר	RB
+ש	REL
+נמסרה	VB	gen=f|num=s|per=3|tense=PAST
+אי	P
+-	yyDASH
+פעם	RB
+לידי	IN
+אשה	NN	gen=f|num=s
+ב	PREPOSITION
+תולדות	NNT	gen=f|num=p
+ארה"ב	NNP
+.	yyDOT
+
+אשה	NN	gen=f|num=s
+אחרת	JJ	gen=f|num=s
+,	yyCM
+דיאן	NNP
+פיינסטיין	NNP	gen=f|gen=m|num=s
+,	yyCM
+ראש	NNT	gen=m|num=s
+ה	DEF
+עיר	NN	gen=f|num=s
+לשעבר	RB
+של	POS
+סן	NNP	gen=f|gen=m|num=s
+פרנסיסקו	NNP	gen=f|gen=m|num=s
+,	yyCM
+חצי	NNT	gen=m|num=p
+-	yyDASH
+יהודיה	NN	gen=f|num=s
+,	yyCM
+נוצחה	VB	gen=f|num=s|per=3|tense=PAST
+ב	PREPOSITION
+הפרש	NN	gen=m|num=s
+קטן	JJ	gen=m|num=s
+ב	PREPOSITION
+ה	DEF
+בחירות	NN	gen=f|num=p
+ל	PREPOSITION
+מושל	NNT	gen=m|num=s
+קליפורניה	NNP
+,	yyCM
+ה	DEF
+גדולה	NN	gen=f|num=s
+ב	PREPOSITION
+מדינות	NNT	gen=f|num=p
+ה	DEF
+ברית	NN	gen=f|num=s
+.	yyDOT
+
+אשה	NN	gen=f|num=s
+אחרת	JJ	gen=f|num=s
+,	yyCM
+קיי	NNP	gen=f|num=s
+אור	NNP
+,	yyCM
+איבדה	VB	gen=f|num=s|per=3|tense=PAST
+את	AT
+כהונת	NNT	gen=f|num=s
+ה	DEF
+מושלת	NN	gen=f|num=s
+ב	PREPOSITION
+מדינת	NNT	gen=f|num=s
+נבראסקה	NNP	gen=f|num=s
+מ	PREPOSITION
+קץ	NNT	gen=m|num=s
+תקופת	NNT	gen=f|num=s
+כהונה	NN	gen=f|num=s
+אחת	CD	gen=f|num=s
+.	yyDOT
+
+אשה	NN	gen=f|num=s
+שלישית	CD	gen=f|num=s
+,	yyCM
+מדלן	NNP
+קיונין	NNP	gen=f|gen=m|num=s
+,	yyCM
+יהודייה	NN	gen=f|num=s
+מלאה	JJ	gen=f|num=s
+,	yyCM
+סיימה	VB	gen=f|num=s|per=3|tense=PAST
+שש	CD	gen=f|num=s
+שנות	NNT	gen=f|num=p
+כהונה	NN	gen=f|num=s
+כ	PREPOSITION
+מושלת	NNT	gen=f|num=s
+ורמונט	NNP	gen=f|num=s
+,	yyCM
+ו	CONJ
+לא	RB
+העמידה	VB	gen=f|num=s|per=3|tense=PAST
+את	AT
+עצמה	PRP	gen=f|num=s|per=3
+ל	PREPOSITION
+בחירה	NN	gen=f|num=s
+חוזרת	JJ	gen=f|num=s
+.	yyDOT
+
+נשים	NN	gen=f|num=p
+הפתיעו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+,	yyCM
+ו	CONJ
+נבחרו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+ל	PREPOSITION
+מושלות	NN	gen=f|num=p
+ב	PREPOSITION
+מדינת	NNT	gen=f|num=s
+קנזאס	NNP	gen=f|num=s
+ו	CONJ
+ב	PREPOSITION
+מדינת	NNT	gen=f|num=s
+אורגון	NNP	gen=f|num=s
+.	yyDOT
+
+ב	PREPOSITION
+סך	NNT	gen=m|num=s
+הכול	NN	gen=m|num=s
+יהיו	COP	gen=f|gen=m|num=p|per=3|polar=pos|tense=FUTURE
+איפוא	CC
+ב	PREPOSITION
+ינואר	NNP
+ה	DEF
+בא	JJ	gen=m|num=s
+שלוש	CD	gen=f|num=s
+מושלות	NN	gen=f|num=p
+ב	PREPOSITION
+ארה"ב	NNP
+ו	CONJ
+שתי	CDT	gen=f|num=p
+סנאטוריות	NN	gen=f|num=p
+.	yyDOT
+
+אף	DTT
+אשה	NN	gen=f|num=s
+אחת	CD	gen=f|num=s
+לא	RB
+הצליחה	VB	gen=f|num=s|per=3|tense=PAST
+להיבחר	VB_TOINFINITIVE
+השנה	RB
+ל	PREPOSITION
+ה	DEF
+סנאט	NN	gen=m|num=s
+.	yyDOT
+
+לעומת	IN
+זאת	PRP	gen=f|num=s|per=3
+נשמרה	VB	gen=f|num=s|per=3|tense=PAST
+רמת	NNT	gen=f|num=s
+ה	DEF
+ייצוג	NN	gen=m|num=s
+ה	DEF
+יהודי	JJ	gen=m|num=s
+.	yyDOT
+
+לפני	IN
+ה	DEF
+בחירות	NN	gen=f|num=p
+היו	COP	gen=f|gen=m|num=p|per=3|polar=pos|tense=PAST
+שבעה	CD	gen=m|num=s
+סנאטורים	NN	gen=m|num=p
+,	yyCM
+ו	CONJ
+גם	RB
+אחרי	IN
+המ@suf	S_PRN	gen=m|num=p|per=3
+יש	EX
+שבעה	CD	gen=m|num=s
+סנאטורים	NN	gen=m|num=p
+.	yyDOT
+
+אחד	CD	gen=m|num=s
+מ	IN
+המ@suf	S_PRN	gen=m|num=p|per=3
+,	yyCM
+רודי	NNP
+בושוויץ	NNP
+,	yyCM
+רפובליקן	JJ	gen=m|num=s
+מ	PREPOSITION
+מדינת	NNT	gen=f|num=s
+מינסוטה	NNP
+,	yyCM
+נוצח	VB	gen=m|num=s|per=3|tense=PAST
+ב	PREPOSITION
+ה	DEF
+בחירות	NN	gen=f|num=p
+,	yyCM
+אבל	CC
+את	AT
+מקומו	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=s|suf_per=3
+תופס	BN	gen=m|num=s|per=a
+יהודי	NN	gen=m|num=s
+אחר	JJ	gen=m|num=s
+מ	PREPOSITION
+מינסוטה	NNP
+,	yyCM
+פול	NNP
+ולסטון	NNP	gen=f|gen=m|num=s
+.	yyDOT
+
+יהדותו	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=s|suf_per=3
+של	POS
+וולסטון	NNP
+נעשתה	VB	gen=f|num=s|per=3|tense=PAST
+נושא	NN	gen=m|num=s
+מרכזי	JJ	gen=m|num=s
+ב	PREPOSITION
+שלושת	CDT	gen=m|num=s
+ה	DEF
+ימים	NN	gen=m|num=p
+ה	DEF
+אחרונים	JJ	gen=m|num=p
+של	POS
+מערכת	NNT	gen=f|num=s
+ה	DEF
+בחירות	NN	gen=f|num=p
+.	yyDOT
+
+בושוויץ	NNP
+ניסה	VB	gen=m|num=s|per=3|tense=PAST
+לשכנע	VB_TOINFINITIVE
+יהודים	NN	gen=m|num=p
+ב	PREPOSITION
+מינסוטה	NNP
+להצביע	VB_TOINFINITIVE
+נגד	IN
+וולסטון	NNP
+,	yyCM
+באשר	CC
+אין	RB
+הוא	PRP	gen=m|num=s|per=3
+יהודי	NN	gen=m|num=s
+נאמן	JJ	gen=m|num=s
+,	yyCM
+ו	CONJ
+ילדיו	NN_S_PP	gen=m|num=p|suf_gen=m|suf_num=s|suf_per=3
+אינם	COP	gen=m|num=p|per=3|polar=neg|tense=BEINONI
+גדלים	BN	gen=m|num=p|per=a
+כ	PREPOSITION
+יהודים	NN	gen=m|num=p
+.	yyDOT
+
+מומחים	NN	gen=m|num=p
+פוליטיים	JJ	gen=m|num=p
+ב	PREPOSITION
+מינסוטה	NNP
+העריכו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+ב	PREPOSITION
+יום	NNT	gen=m|num=s
+ד	NNP	gen=f|gen=m|num=s
+כי	CC
+ה	DEF
+התקפה	NN	gen=f|num=s
+על	IN
+נאמנויותיו	NN_S_PP	gen=f|num=p|suf_gen=m|suf_num=s|suf_per=3
+ה	DEF
+דתיות	JJ	gen=f|num=p
+של	POS
+וולסטון	NNP
+היתה	COP	gen=f|num=s|per=3|polar=pos|tense=PAST
+גורם	NN	gen=m|num=s
+מרכזי	JJ	gen=m|num=s
+ב	PREPOSITION
+תבוסת	NNT	gen=f|num=s
+בושוויץ	NNP
+.	yyDOT
+
+לפני	IN
+ה	DEF
+התקפה	NN	gen=f|num=s
+הוביל	VB	gen=m|num=s|per=3|tense=PAST
+בושוויץ	NNP
+ב	PREPOSITION
+יתרון	NN	gen=m|num=s
+של	POS
+9	CD
+%	NN	gen=m|num=p|num=s
+.	yyDOT
+
+בתוך	IN
+84	CD
+שעות	NN	gen=f|num=p
+התפוגג	VB	gen=m|num=s|per=3|tense=PAST
+ה	DEF
+יתרון	NN	gen=m|num=s
+.	yyDOT
+
+ב	PREPOSITION
+מוצאי	NNT	gen=m|num=p
+ה	DEF
+בחירות	NN	gen=f|num=p
+,	yyCM
+לפני	IN
+ש	REL
+הודה	VB	gen=m|num=s|per=3|tense=PAST
+ב	PREPOSITION
+תבוסתו	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=s|suf_per=3
+,	yyCM
+הופיע	VB	gen=m|num=s|per=3|tense=PAST
+בושוויץ	NNP
+ב	PREPOSITION
+שידור	NNT	gen=m|num=s
+טלוויזיה	NN	gen=f|num=s
+ו	CONJ
+הטיל	VB	gen=m|num=s|per=3|tense=PAST
+את	AT
+ה	DEF
+אשמה	NN	gen=f|num=s
+ב	PREPOSITION
+קשייו	NN_S_PP	gen=m|num=p|suf_gen=m|suf_num=s|suf_per=3
+על	IN
+שורה	NN	gen=f|num=s
+של	POS
+גורמים	NN	gen=m|num=p
+חיצוניים	JJ	gen=m|num=p
+.	yyDOT
+
+הוא	PRP	gen=m|num=s|per=3
+לא	RB
+חשב	VB	gen=m|num=s|per=3|tense=PAST
+ש	REL
+היה	COP	gen=m|num=s|per=3|polar=pos|tense=PAST
+משהו	NN	gen=m|num=s
+פגום	JJ	gen=m|num=s
+ב	PREPOSITION
+התנהגותו	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=s|suf_per=3
+של	POS
+הוא@suf	S_PRN	gen=m|num=s|per=3
+.	yyDOT
+
+וולסטון	NNP
+,	yyCM
+פרופסור	NN	gen=m|num=s
+ל	PREPOSITION
+מדע	NNT	gen=m|num=s
+ה	DEF
+מדינה	NN	gen=f|num=s
+ב	PREPOSITION
+אוניברסיטה	NN	gen=f|num=s
+מקומית	JJ	gen=f|num=s
+,	yyCM
+השכיל	VB	gen=m|num=s|per=3|tense=PAST
+לנצל	VB_TOINFINITIVE
+מצב	NNT	gen=m|num=s
+רוח	NN	gen=f|num=s
+לאומי	JJ	gen=m|num=s
+ב	PREPOSITION
+ארה"ב	NNP
+נגד	IN
+בעלי	NNT	gen=m|num=p
+כהונות	NN	gen=f|num=p
+פוליטיות	JJ	gen=f|num=p
+.	yyDOT
+
+תשדירי	NNT	gen=m|num=p
+ה	DEF
+בחירות	NN	gen=f|num=p
+של	POS
+הוא@suf	S_PRN	gen=m|num=s|per=3
+תוארו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+כ	PREPOSITION
+ה	DEF
+שנונים	JJ	gen=m|num=p
+ביותר	RB
+ב	PREPOSITION
+ארה"ב	NNP
+.	yyDOT
+
+שניים	CD	gen=m|num=p
+מ	IN
+המ@suf	S_PRN	gen=m|num=p|per=3
+היו	COP	gen=f|gen=m|num=p|per=3|polar=pos|tense=PAST
+מערכונים	NN	gen=m|num=p
+קומיים	JJ	gen=m|num=p
+.	yyDOT
+
+ב	PREPOSITION
+אחד	CD	gen=m|num=s
+נראה	VB	gen=m|num=s|per=3|tense=PAST
+וולסטון	NNP
+מחפש	BN	gen=m|num=s|per=a
+את	AT
+רודי	NNP
+בושוויץ	NNP
+על	IN
+פני	NNT	gen=f|gen=m|num=p
+כל	DTT
+מינסוטה	NNP
+,	yyCM
+ב	PREPOSITION
+ניסיון	NN	gen=m|num=s
+לקיים	VB_TOINFINITIVE
+עם	IN
+הוא@suf	S_PRN	gen=m|num=s|per=3
+ויכוח	NN	gen=m|num=s
+פומבי	JJ	gen=m|num=s
+.	yyDOT
+
+ב	PREPOSITION
+ה	DEF
+שני	NN	gen=m|num=s
+הוא	PRP	gen=m|num=s|per=3
+נראה	VB	gen=m|num=s|per=3|tense=PAST
+רץ	BN	gen=m|num=s|per=a
+ב	PREPOSITION
+קפיצות	NN	gen=f|num=p
+נוירוטיות	JJ	gen=f|num=p
+על	IN
+פני	NNT	gen=f|gen=m|num=p
+ציוני	NNT	gen=m|num=p
+דרך	NN	gen=f|num=s
+ב	PREPOSITION
+חייו	NN_S_PP	gen=m|num=p|suf_gen=m|suf_num=s|suf_per=3
+,	yyCM
+ו	CONJ
+מתנצל	BN	gen=m|num=s|per=a
+ש	REL
+אין	EX
+ל	IN
+הוא@suf	S_PRN	gen=m|num=s|per=3
+זמן	NN	gen=m|num=s
+ללכת	VB_TOINFINITIVE
+ב	PREPOSITION
+נחת	NN	gen=f|num=s
+מפני	IN
+ש	REL
+תקציב	NNT	gen=m|num=s
+ה	DEF
+פרסום	NN	gen=m|num=s
+של	POS
+הוא@suf	S_PRN	gen=m|num=s|per=3
+עומד	BN	gen=m|num=s|per=a
+להיגמר	VB_TOINFINITIVE
+.	yyDOT
+
+בושוויץ	NNP
+לא	RB
+סבל	VB	gen=m|num=s|per=3|tense=PAST
+מ	PREPOSITION
+בעיות	NN	gen=f|num=p
+כ	PREPOSITION
+ה	DEF
+אלה	PRP	gen=m|num=p|per=3
+.	yyDOT
+
+הוא	PRP	gen=m|num=s|per=3
+מולטי	P
+-	yyDASH
+מיליונר	NN	gen=m|num=s
+,	yyCM
+ה	REL
+מסוגל	MD	gen=m|num=s|per=a
+תמיד	RB
+להלוות	VB_TOINFINITIVE
+ל	PREPOSITION
+עצמו	PRP	gen=m|num=s|per=3
+כסף	NN	gen=m|num=s
+.	yyDOT
+
+חוץ	RB
+מ	PREPOSITION
+זה	PRP	gen=m|num=s|per=3
+,	yyCM
+מ	PREPOSITION
+כוח	NNT	gen=m|num=s
+מעמדו	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=s|suf_per=3
+כ	PREPOSITION
+סנאטור	NN	gen=m|num=s
+הצליח	VB	gen=m|num=s|per=3|tense=PAST
+לאסוף	VB_TOINFINITIVE
+תרומות	NN	gen=f|num=p
+של	POS
+7	CD
+מיליון	CD	gen=m|num=s
+דולר	NN	gen=m|num=s
+.	yyDOT
+
+וולסטון	NNP
+היה	COP	gen=m|num=s|per=3|polar=pos|tense=PAST
+ה	DEF
+מועמד	NN	gen=m|num=s
+ה	DEF
+יחיד	JJ	gen=m|num=s
+ל	PREPOSITION
+ה	DEF
+סנאט	NN	gen=m|num=s
+השבוע	RB
+ש	REL
+הצליח	VB	gen=m|num=s|per=3|tense=PAST
+להביס	VB_TOINFINITIVE
+סנאטור	NN	gen=m|num=s
+מכהן	BN	gen=m|num=s|per=a
+.	yyDOT
+
+"	yyQUOT
+יתרון	NNT	gen=m|num=s
+ה	DEF
+כהונה	NN	gen=f|num=s
+"	yyQUOT
+הוא	COP	gen=m|num=s|per=3|polar=pos|tense=BEINONI
+עכשיו	RB
+כל	DTT
+כך	RB
+מוחלט	JJ	gen=m|num=s
+,	yyCM
+עד	IN
+ש	REL
+ב	PREPOSITION
+כמה	DTT
+מירוצים	NN	gen=m|num=p
+לא	RB
+טרחה	VB	gen=f|num=s|per=3|tense=PAST
+ה	DEF
+מפלגה	NN	gen=f|num=s
+ה	DEF
+יריבה	JJ	gen=f|num=s
+להציג	VB_TOINFINITIVE
+אפילו	CC
+מועמד	NN	gen=m|num=s
+נומינלי	JJ	gen=m|num=s
+.	yyDOT
+
+סנאטורים	NN	gen=m|num=p
+ו	CONJ
+צירי	NNT	gen=m|num=p
+בית	NNT	gen=m|num=s
+נבחרים	NN	gen=m|num=p
+מנצלים	BN	gen=m|num=p|per=a
+את	AT
+ה	DEF
+כהונה	NN	gen=f|num=s
+כדי	IN
+לאסוף	VB_TOINFINITIVE
+כמויות	NN	gen=f|num=p
+עצומות	JJ	gen=f|num=p
+של	POS
+כסף	NN	gen=m|num=s
+,	yyCM
+ו	CONJ
+להטביע	VB_TOINFINITIVE
+ב	IN
+הנ@suf	S_PRN	gen=f|num=p|per=3
+כל	DTT
+יריב	NN	gen=m|num=s
+פוטנציאלי	JJ	gen=m|num=s
+.	yyDOT
+
+תמוהה	JJ	gen=f|num=s
+,	yyCM
+ב	PREPOSITION
+לשון	NNT	gen=f|num=s
+המעטה	NN	gen=f|num=s
+,	yyCM
+הערתו	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=s|suf_per=3
+של	POS
+ה	DEF
+נשיא	NN	gen=m|num=s
+מיטראן	NNP
+לפני	IN
+שבועות	NN	gen=m|num=p
+אחדים	JJ	gen=m|num=p
+בלבד	RB
+,	yyCM
+ש	REL
+ל	PREPOSITION
+דעתו	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=s|suf_per=3
+העמדתו	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=s|suf_per=3
+של	POS
+בוסקה	NNP	gen=f|gen=m|num=s
+ל	PREPOSITION
+דין	NN	gen=m|num=s
+תגרום	VB	gen=f|num=s|per=3|tense=FUTURE
+נזק	NN	gen=m|num=s
+ציבורי	JJ	gen=m|num=s
+.	yyDOT
+
+דמות	NN	gen=f|num=s
+מרכזית	JJ	gen=f|num=s
+אחרת	JJ	gen=f|num=s
+ב	PREPOSITION
+פרשה	NN	gen=f|num=s
+זו	PRP	gen=f|num=s|per=3
+,	yyCM
+דרקייה	NNP	gen=m|num=s
+דה	NNP
+פלפואה	NNP	gen=f|gen=m|num=s
+,	yyCM
+מי	QW
+ש	REL
+היה	COP	gen=m|num=s|per=3|polar=pos|tense=PAST
+ה	DEF
+נציב	NN	gen=m|num=s
+ה	DEF
+כללי	JJ	gen=m|num=s
+ל	PREPOSITION
+שאלות	NNT	gen=f|num=p
+ה	DEF
+יהודים	NN	gen=m|num=p
+,	yyCM
+נמלט	VB	gen=m|num=s|per=3|tense=PAST
+מ	PREPOSITION
+ארצו	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=s|suf_per=3
+אחרי	IN
+שחרורה	NN_S_PP	gen=m|num=s|suf_gen=f|suf_num=s|suf_per=3
+.	yyDOT
+
+שלא	RB
+ב	PREPOSITION
+פניו	NN_S_PP	gen=f|gen=m|num=p|suf_gen=m|suf_num=s|suf_per=3
+נידון	VB	gen=m|num=s|per=3|tense=PAST
+ל	PREPOSITION
+ה	DEF
+מוות	NN	gen=m|num=s
+,	yyCM
+אך	CC
+ה	DEF
+דבר	NN	gen=m|num=s
+לא	RB
+הפריע	VB	gen=m|num=s|per=3|tense=PAST
+ל	IN
+הוא@suf	S_PRN	gen=m|num=s|per=3
+לחיות	VB_TOINFINITIVE
+ב	PREPOSITION
+גלות	NN	gen=f|num=s
+נינוחה	JJ	gen=f|num=s
+ב	PREPOSITION
+ספרד	NNP
+.	yyDOT
+
+ב	PREPOSITION
+8791	CD
+הכריז	VB	gen=m|num=s|per=3|tense=PAST
+ב	PREPOSITION
+ראיון	NN	gen=m|num=s
+ענק	JJ	gen=m|num=s
+ל	PREPOSITION
+ה	DEF
+שבועון	NN	gen=m|num=s
+"	yyQUOT
+לאקספרס	NNP	gen=m|num=s
+"	yyQUOT
+,	yyCM
+ש	REL
+אמנם	RB
+ב	PREPOSITION
+אושוויץ	NNP
+עסקו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+ה	DEF
+נאצים	NN	gen=m|num=p
+ב	PREPOSITION
+הגזה	BN	gen=f|num=s|per=a
+,	yyCM
+אך	CC
+לא	RB
+ב	IN
+הגזת	NNT	gen=f|num=s
+בני	NNT	gen=m|num=p
+-	yyDASH
+אדם	NN	gen=m|num=s
+,	yyCM
+אלא	CC
+ב	IN
+הגזת	NNT	gen=f|num=s
+כינים	NN	gen=f|num=p
+.	yyDOT
+
+הוא	PRP	gen=m|num=s|per=3
+מת	VB	gen=m|num=s|per=3|tense=PAST
+לפני	IN
+כמה	DTT
+שנים	NN	gen=f|num=p
+ב	PREPOSITION
+ספרד	NNP
+.	yyDOT
+
+הוא	PRP	gen=m|num=s|per=3
+לא	RB
+הטריד	VB	gen=m|num=s|per=3|tense=PAST
+את	AT
+ה	DEF
+ממסד	NN	gen=m|num=s
+ה	DEF
+צרפתי	JJ	gen=m|num=s
+ב	PREPOSITION
+הצהרות	NN	gen=f|num=p
+מביכות	JJ	gen=f|num=p
+,	yyCM
+ו	CONJ
+שלטונות	NNT	gen=m|num=p
+צרפת	NNP
+לא	RB
+טרחו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+ש	REL
+יוסגר	VB	gen=m|num=s|per=3|tense=FUTURE
+ל	PREPOSITION
+ידיהם	NN_S_PP	gen=f|num=p|suf_gen=m|suf_num=p|suf_per=3
+ל	PREPOSITION
+צורך	NNT	gen=m|num=s
+העמדתו	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=s|suf_per=3
+ל	PREPOSITION
+דין	NN	gen=m|num=s
+.	yyDOT
+
+שתי	CDT	gen=f|num=p
+פרשיות	NN	gen=f|num=p
+אחרות	JJ	gen=f|num=p
+,	yyCM
+נוסף	BN	gen=m|num=s|per=a
+על	IN
+זו	PRP	gen=f|num=s|per=3
+של	POS
+רנה	NNP
+בוסקה	NNP	gen=f|gen=m|num=s
+,	yyCM
+נמצאות	BN	gen=f|num=p|per=a
+אף	CC
+הן	PRP	gen=f|num=p|per=3
+כיום	RB
+ב	PREPOSITION
+דיון	NN	gen=m|num=s
+משפטי	JJ	gen=m|num=s
+מוקדם	JJ	gen=m|num=s
+ש	REL
+נמשך	VB	gen=m|num=s|per=3|tense=PAST
+זמן	NN	gen=m|num=s
+רב	JJ	gen=m|num=s
+:	yyCLN
+זו	PRP	gen=f|num=s|per=3
+של	POS
+מוריס	NNP
+פאפון	NNP
+ו	CONJ
+זו	PRP	gen=f|num=s|per=3
+של	POS
+פול	NNP
+טובייה	NNP	gen=f|gen=m|num=s
+.	yyDOT
+
+פאפון	NNP
+,	yyCM
+ש	REL
+כאמור	RB
+שימש	VB	gen=m|num=s|per=3|tense=PAST
+ממונה	NN	gen=m|num=s
+על	IN
+מחוז	NNT	gen=m|num=s
+זירונד	NNP	gen=f|num=s
+ב	PREPOSITION
+זמן	NNT	gen=m|num=s
+ה	DEF
+מלחמה	NN	gen=f|num=s
+,	yyCM
+הורה	VB	gen=m|num=s|per=3|tense=PAST
+על	IN
+ביצוע	NNT	gen=m|num=s
+ה	DEF
+אקציות	NN	gen=f|num=p
+נגד	IN
+ה	DEF
+יהודים	NN	gen=m|num=p
+ב	PREPOSITION
+יולי	NNP
+2491	CD
+.	yyDOT
+
+אחרי	IN
+ה	DEF
+מלחמה	NN	gen=f|num=s
+,	yyCM
+ב	PREPOSITION
+שנת	NNT	gen=f|num=s
+8591	CD
+,	yyCM
+הוא	PRP	gen=m|num=s|per=3
+היה	COP	gen=m|num=s|per=3|polar=pos|tense=PAST
+ממונה	NN	gen=m|num=s
+על	IN
+מחוז	NNT	gen=m|num=s
+פאריס	NNP
+.	yyDOT
+
+מאוחר	RB
+יותר	RB
+שימש	VB	gen=m|num=s|per=3|tense=PAST
+שר	NN	gen=m|num=s
+ב	PREPOSITION
+ממשלת	NNT	gen=f|num=s
+ריימון	NNP
+באר	NN	gen=f|num=s
+ב	PREPOSITION
+ימי	NNT	gen=m|num=p
+נשיאותו	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=s|suf_per=3
+של	POS
+ואלרי	NNP	gen=m|num=s
+זיסקאר	NNP
+-	yyDASH
+דאסטאן	NNP	gen=f|gen=m|num=s
+.	yyDOT
+
+ב	PREPOSITION
+3891	CD
+,	yyCM
+בעקבות	IN
+חקירה	NN	gen=f|num=s
+מחודשת	JJ	gen=f|num=s
+,	yyCM
+נקבע	VB	gen=m|num=s|per=3|tense=PAST
+כי	CC
+יש	EX
+מקום	NN	gen=m|num=s
+להגיש	VB_TOINFINITIVE
+נגד	IN
+הוא@suf	S_PRN	gen=m|num=s|per=3
+כתב	NNT	gen=m|num=s
+אישום	NN	gen=m|num=s
+בגין	IN
+סיוע	NN	gen=m|num=s
+ל	PREPOSITION
+מעצרם	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=p|suf_per=3
+של	POS
+יהודים	NN	gen=m|num=p
+כ	PREPOSITION
+דרישת	NNT	gen=f|num=s
+ה	DEF
+גרמנים	NN	gen=m|num=p
+.	yyDOT
+
+ב	PREPOSITION
+4891	CD
+הודיע	VB	gen=m|num=s|per=3|tense=PAST
+ל	IN
+הוא@suf	S_PRN	gen=m|num=s|per=3
+שופט	NN	gen=m|num=s
+-	yyDASH
+חוקר	NN	gen=m|num=s
+כי	CC
+הוגשו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+נגד	IN
+הוא@suf	S_PRN	gen=m|num=s|per=3
+תלונות	NN	gen=f|num=p
+נוספות	JJ	gen=f|num=p
+.	yyDOT
+
+עד	IN
+היום	RB
+נמצאות	BN	gen=f|num=p|per=a
+תלונות	NN	gen=f|num=p
+הללו	PRP	gen=m|num=p|per=3
+ב	PREPOSITION
+שלב	NN	gen=m|num=s
+מוקדם	JJ	gen=m|num=s
+של	POS
+דיון	NN	gen=m|num=s
+בפני	IN
+שופט	NN	gen=m|num=s
+-	yyDASH
+חוקר	NN	gen=m|num=s
+.	yyDOT
+
+בעקבות	IN
+ה	DEF
+משפט	NN	gen=m|num=s
+נגד	IN
+ראש	NNT	gen=m|num=s
+ה	DEF
+גסטאפו	NN	gen=m|num=s
+ב	PREPOSITION
+לין	NNP
+,	yyCM
+קלאוס	NNP
+ברבי	NNP	gen=f|gen=m|num=s
+,	yyCM
+עלה	VB	gen=m|num=s|per=3|tense=PAST
+מחדש	RB
+שמו	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=s|suf_per=3
+של	POS
+פול	NNP
+טביה	NNP	gen=f|num=s
+.	yyDOT
+
+הוא	PRP	gen=m|num=s|per=3
+היה	COP	gen=m|num=s|per=3|polar=pos|tense=PAST
+מ	PREPOSITION
+מפקדי	NNT	gen=m|num=p
+ה	DEF
+מיליציה	NN	gen=f|num=s
+ה	DEF
+צרפתית	JJ	gen=f|num=s
+ה	DEF
+ידועה	JJ	gen=f|num=s
+ל	PREPOSITION
+שמצה	NN	gen=f|num=s
+ב	PREPOSITION
+ליון	NNP
+,	yyCM
+נטל	VB	gen=m|num=s|per=3|tense=PAST
+חלק	NN	gen=m|num=s
+פעיל	JJ	gen=m|num=s
+ב	PREPOSITION
+ה	DEF
+אקציות	NN	gen=f|num=p
+של	POS
+ה	DEF
+גסטאפו	NN	gen=m|num=s
+נגד	IN
+לוחמי	NNT	gen=m|num=p
+מחתרת	NN	gen=f|num=s
+ו	CONJ
+יהודים	NN	gen=m|num=p
+,	yyCM
+עינה	VB	gen=m|num=s|per=3|tense=PAST
+עצורים	BN	gen=m|num=p|per=a
+,	yyCM
+שדד	VB	gen=m|num=s|per=3|tense=PAST
+את	AT
+רכושם	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=p|suf_per=3
+,	yyCM
+ו	CONJ
+הורה	VB	gen=m|num=s|per=3|tense=PAST
+על	IN
+הוצאתם	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=p|suf_per=3
+ל	PREPOSITION
+ה	DEF
+הורג	BN	gen=m|num=s|per=a
+של	POS
+כמה	DTT
+מ	PREPOSITION
+קורבנותיו	NN_S_PP	gen=m|num=p|suf_gen=m|suf_num=s|suf_per=3
+בלי	IN
+משפט	NN	gen=m|num=s
+.	yyDOT
+
+אחרי	IN
+ה	DEF
+שחרור	NN	gen=m|num=s
+נעלמו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+עקבותיו	NN_S_PP	gen=f|num=p|suf_gen=m|suf_num=s|suf_per=3
+.	yyDOT
+
+בית	NNT	gen=m|num=s
+משפט	NN	gen=m|num=s
+ב	PREPOSITION
+ליון	NNP
+דן	VB	gen=m|num=s|per=3|tense=PAST
+אות	AT
+הוא@suf	S_PRN	gen=m|num=s|per=3
+ל	PREPOSITION
+ה	DEF
+מוות	NN	gen=m|num=s
+שלא	RB
+ב	PREPOSITION
+פניו	NN_S_PP	gen=f|gen=m|num=p|suf_gen=m|suf_num=s|suf_per=3
+.	yyDOT
+
+ב	PREPOSITION
+שנת	NNT	gen=f|num=s
+1972	CD
+גילה	VB	gen=m|num=s|per=3|tense=PAST
+תחקיר	NN	gen=m|num=s
+עיתונאי	JJ	gen=m|num=s
+ש	REL
+ב	PREPOSITION
+נובמבר	NNP
+1971	CD
+העניק	VB	gen=m|num=s|per=3|tense=PAST
+ל	IN
+הוא@suf	S_PRN	gen=m|num=s|per=3
+ה	DEF
+נשיא	NN	gen=m|num=s
+זורז	NNP	gen=m|num=s
+פומפידו	NNP	gen=f|gen=m|num=s
+חנינה	NN	gen=f|num=s
+,	yyCM
+ו	CONJ
+כי	CC
+במשך	IN
+כל	DTT
+ה	DEF
+שנים	NN	gen=f|num=p
+נהנה	VB	gen=m|num=s|per=3|tense=PAST
+ה	DEF
+פושע	NN	gen=m|num=s
+מ	PREPOSITION
+חסות	NNT	gen=f|num=s
+ראשי	NNT	gen=m|num=p
+ה	DEF
+כנסייה	NN	gen=f|num=s
+ה	DEF
+קתולית	JJ	gen=f|num=s
+ב	PREPOSITION
+צרפת	NNP
+ו	CONJ
+ב	PREPOSITION
+איטליה	NNP
+.	yyDOT
+
+ב	PREPOSITION
+שנת	NNT	gen=f|num=s
+3891	CD
+נתחדשה	VB	gen=f|num=s|per=3|tense=PAST
+ה	DEF
+חקירה	NN	gen=f|num=s
+נגד	IN
+טובייה	NNP	gen=f|gen=m|num=s
+,	yyCM
+אך	CC
+הוא	PRP	gen=m|num=s|per=3
+שוב	RB
+נעלם	VB	gen=m|num=s|per=3|tense=PAST
+.	yyDOT
+
+ב	PREPOSITION
+ספטמבר	NNP
+1984	CD
+פורסמה	VB	gen=f|num=s|per=3|tense=PAST
+ב	PREPOSITION
+עיתון	NN	gen=m|num=s
+אזורי	JJ	gen=m|num=s
+מודעה	NN	gen=f|num=s
+על	IN
+מותו	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=s|suf_per=3
+כביכול	RB
+,	yyCM
+ו	CONJ
+אף	CC
+נמצא	VB	gen=m|num=s|per=3|tense=PAST
+"	yyQUOT
+מקום	NNT	gen=m|num=s
+קבורתו	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=s|suf_per=3
+"	yyQUOT
+.	yyDOT
+
+אך	CC
+עדיין	RB
+מחפשים	BN	gen=m|num=p|per=a
+אחרי	IN
+טובייה	NNP	gen=f|gen=m|num=s
+ה	DEF
+חי	JJ	gen=m|num=s
+.	yyDOT
+
+אין	EX
+פלא	NN	gen=m|num=s
+ש	REL
+פרשת	NNT	gen=f|num=s
+בוסקה	NNP	gen=f|gen=m|num=s
+הזכירה	VB	gen=f|num=s|per=3|tense=PAST
+גם	RB
+את	AT
+פרשיות	NNT	gen=f|num=p
+פאפון	NNP
+ו	CONJ
+טובייה	NNP	gen=f|gen=m|num=s
+.	yyDOT
+
+ב	PREPOSITION
+מסיבת	NNT	gen=f|num=s
+עיתונאים	NN	gen=m|num=p
+ש	REL
+נערכה	VB	gen=f|num=s|per=3|tense=PAST
+ב	PREPOSITION
+ה	DEF
+81	CD
+ב	PREPOSITION
+אוקטובר	NNP
+השנה	RB
+ב	PREPOSITION
+פאריס	NNP
+דיבר	VB	gen=m|num=s|per=3|tense=PAST
+נשיא	NNT	gen=m|num=s
+ה	DEF
+ליגה	NN	gen=f|num=s
+ל	PREPOSITION
+זכויות	NNT	gen=f|num=p
+ה	DEF
+אדם	NN	gen=m|num=s
+,	yyCM
+עו"ד	NN	gen=m|num=s
+איב	NNP	gen=m|num=s
+זפה	NNP	gen=f|gen=m|num=s
+,	yyCM
+על	IN
+"	yyQUOT
+חוסר	NNT	gen=m|num=s
+ה	DEF
+רצון	NN	gen=m|num=s
+ה	DEF
+פוליטי	JJ	gen=m|num=s
+להביא	VB_TOINFINITIVE
+לידי	IN
+בירור	NN	gen=m|num=s
+את	AT
+שלוש	CDT	gen=f|num=s
+ה	DEF
+פרשיות	NN	gen=f|num=p
+של	POS
+בוסקה	NNP	gen=f|gen=m|num=s
+,	yyCM
+פאפון	NNP
+ו	CONJ
+טובייה	NNP	gen=f|gen=m|num=s
+"	yyQUOT
+.	yyDOT
+
+הוא	PRP	gen=m|num=s|per=3
+אמר	VB	gen=m|num=s|per=3|tense=PAST
+:	yyCLN
+"	yyQUOT
+שלושה	CD	gen=m|num=s
+תיקים	NN	gen=m|num=p
+אלה	PRP	gen=m|num=p|per=3
+נמצאים	BN	gen=m|num=p|per=a
+ב	PREPOSITION
+נקודה	NN	gen=f|num=s
+מתה	JJ	gen=f|num=s
+.	yyDOT
+
+אין	RB
+זה	PRP	gen=m|num=s|per=3
+מקרה	NN	gen=m|num=s
+ש	REL
+שלושת	CDT	gen=m|num=s
+ה	DEF
+אנשים	NN	gen=m|num=p
+הללו	PRP	gen=m|num=p|per=3
+לא	RB
+נשפטו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+עד	IN
+כה	RB
+.	yyDOT
+
+אישים	NN	gen=m|num=p
+אלה	PRP	gen=m|num=p|per=3
+מילאו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+תפקידים	NN	gen=m|num=p
+רמים	JJ	gen=m|num=p
+ו	CONJ
+בעלי	NNT	gen=m|num=p
+חשיבות	NN	gen=f|num=s
+ב	PREPOSITION
+ה	DEF
+פוליטיקה	NN	gen=f|num=s
+,	yyCM
+ב	PREPOSITION
+ה	DEF
+מינהל	NN	gen=m|num=s
+ו	CONJ
+ב	PREPOSITION
+עולם	NNT	gen=m|num=s
+ה	DEF
+עסקים	NN	gen=m|num=p
+.	yyDOT
+
+אני	PRP	gen=f|gen=m|num=s|per=1
+סבור	BN	gen=m|num=s|per=a
+ש	REL
+הם	PRP	gen=m|num=p|per=3
+נהנים	BN	gen=m|num=p|per=a
+מ	PREPOSITION
+הזדהות	NN	gen=f|num=s
+מעמדית	JJ	gen=f|num=s
+אמיתית	JJ	gen=f|num=s
+.	yyDOT
+
+לא	RB
+תובעים	BN	gen=m|num=p|per=a
+ל	PREPOSITION
+דין	NN	gen=m|num=s
+שר	NN	gen=m|num=s
+או	CC
+ממונה	NN	gen=m|num=s
+על	IN
+ה	DEF
+משטרה	NN	gen=f|num=s
+,	yyCM
+משום	CC
+ש	REL
+הוא	PRP	gen=m|num=s|per=3
+שייך	JJ	gen=m|num=s
+ל	PREPOSITION
+חוג	NN	gen=m|num=s
+של	POS
+אנשים	NN	gen=m|num=p
+ש	REL
+אינו	COP	gen=m|num=s|per=3|polar=neg|tense=BEINONI
+רוצה	BN	gen=m|num=s|per=a
+ש	REL
+יכבסו	VB	gen=f|gen=m|num=p|per=3|tense=FUTURE
+את	AT
+ה	DEF
+כביסה	NN	gen=f|num=s
+ה	DEF
+מלוכלכת	JJ	gen=f|num=s
+"	yyQUOT
+.	yyDOT
+
+ו	CONJ
+מה	QW
+בינתיים	RB
+?	yyQM
+
+פאפון	NNP
+,	yyCM
+טובייה	NNP	gen=f|gen=m|num=s
+ו	CONJ
+בוסקה	NNP	gen=f|gen=m|num=s
+חופשיים	JJ	gen=m|num=p
+.	yyDOT
+
+כל	DTT
+אחד	CD	gen=m|num=s
+מ	IN
+המ@suf	S_PRN	gen=m|num=p|per=3
+מתקרב	BN	gen=m|num=s|per=a
+ל	PREPOSITION
+גיל	NNT	gen=m|num=s
+שמונים	CD	gen=f|gen=m|num=s
+.	yyDOT
+
+ה	DEF
+רושם	NN	gen=m|num=s
+הוא	COP	gen=m|num=s|per=3|polar=pos|tense=BEINONI
+ש	REL
+ה	DEF
+ממסד	NN	gen=m|num=s
+ה	DEF
+צרפתי	JJ	gen=m|num=s
+מצפה	BN	gen=m|num=s|per=a
+ש	REL
+ימותו	VB	gen=f|gen=m|num=p|per=3|tense=FUTURE
+ב	PREPOSITION
+שקט	NN	gen=m|num=s
+.	yyDOT
+
+מה	QW
+ש	REL
+ברור	JJ	gen=m|num=s
+,	yyCM
+ש	REL
+הוא	PRP	gen=m|num=s|per=3
+אינו	COP	gen=m|num=s|per=3|polar=neg|tense=BEINONI
+מעוניין	MD	gen=m|num=s|tense=PAST
+ב	PREPOSITION
+העמדתם	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=p|suf_per=3
+ל	PREPOSITION
+ה	DEF
+דין	NN	gen=m|num=s
+.	yyDOT
+
+הוא	PRP	gen=m|num=s|per=3
+חושש	BN	gen=m|num=s|per=a
+מ	PREPOSITION
+חשיפת	NNT	gen=f|num=s
+סודות	NN	gen=m|num=p
+ה	REL
+חבויים	JJ	gen=m|num=p
+ב	PREPOSITION
+כספות	NN	gen=f|num=p
+,	yyCM
+מפני	IN
+עדויות	NN	gen=f|num=p
+חדשות	JJ	gen=f|num=p
+,	yyCM
+ו	CONJ
+מפני	IN
+זכרונות	NN	gen=m|num=p
+ה	REL
+עלולים	MD	gen=m|num=p|per=a
+לגלות	VB_TOINFINITIVE
+שלדים	NN	gen=m|num=p
+ה	REL
+חבויים	JJ	gen=m|num=p
+שנים	NN	gen=f|num=p
+כה	RB
+רבות	JJ	gen=f|num=p
+ב	PREPOSITION
+ארונות	NN	gen=m|num=p
+שונים	JJ	gen=m|num=p
+.	yyDOT
+
+ארבע	CD	gen=f|num=s
+ו	CONJ
+חצי	NNT	gen=m|num=p
+שעות	NN	gen=f|num=p
+צעדו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+אתמול	RB
+ב	PREPOSITION
+ירושלים	NNP
+עשרות	CDT	gen=f|num=p
+אלפים	CD	gen=m|num=p
+אחרי	IN
+ארונו	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=s|suf_per=3
+של	POS
+מאיר	NNP
+כהנא	NNP
+ב	PREPOSITION
+מסע	NNT	gen=m|num=s
+הלווייה	NN	gen=f|num=s
+פרוע	JJ	gen=m|num=s
+,	yyCM
+רצוף	JJT	gen=m|num=s
+קריאות	NNT	gen=f|num=p
+הסתה	NN	gen=f|num=s
+ל	PREPOSITION
+פגיעות	NN	gen=f|num=p
+ב	PREPOSITION
+ערבים	NN	gen=m|num=p
+,	yyCM
+ב	PREPOSITION
+עיתונאים	NN	gen=m|num=p
+ו	CONJ
+ב	PREPOSITION
+שוטרים	NN	gen=m|num=p
+.	yyDOT
+
+ב	PREPOSITION
+שעה	NN	gen=f|num=s
+1200	CD
+,	yyCM
+כש	TEMP
+החל	VB	gen=m|num=s|per=3|tense=PAST
+ה	DEF
+קהל	NN	gen=m|num=s
+להתפזר	VB_TOINFINITIVE
+,	yyCM
+מנתה	VB	gen=f|num=s|per=3|tense=PAST
+ה	DEF
+משטרה	NN	gen=f|num=s
+שלושה	CD	gen=m|num=s
+שוטרים	NN	gen=m|num=p
+פצועים	JJ	gen=m|num=p
+,	yyCM
+אחד	CD	gen=m|num=s
+מ	IN
+המ@suf	S_PRN	gen=m|num=p|per=3
+קשה	RB
+,	yyCM
+ו	CONJ
+ארבעה	CD	gen=m|num=s
+ערבים	NN	gen=m|num=p
+עוברי	BNT	gen=m|num=p|per=a
+-	yyDASH
+אורח	NN	gen=m|num=s
+ש	REL
+נפצעו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+אף	CC
+הם	PRP	gen=m|num=p|per=3
+.	yyDOT
+
+ב	PREPOSITION
+שעה	NN	gen=f|num=s
+1400	CD
+עדיין	RB
+נמצא	VB	gen=m|num=s|per=3|tense=PAST
+קהל	NNT	gen=m|num=s
+ה	DEF
+רבבות	CDT	gen=f|num=p
+תחת	IN
+שליטה	NN	gen=f|num=s
+ו	CONJ
+בקרה	NN	gen=f|num=s
+.	yyDOT
+
+החל	IN
+מ	PREPOSITION
+שעות	NNT	gen=f|num=p
+ה	DEF
+צהרים	NN	gen=m|num=p
+התקבצו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+אלפים	CD	gen=m|num=p
+סביב	IN
+ישיבת	NNT	gen=f|num=s
+ה	DEF
+רעיון	NN	gen=m|num=s
+ה	DEF
+יהודי	JJ	gen=m|num=s
+ב	PREPOSITION
+שכונת	NNT	gen=f|num=s
+שמואל	NNP
+ה	DEF
+נביא	NN	gen=m|num=s
+.	yyDOT
+
+בני	NNT	gen=m|num=p
+משפחת	NNT	gen=f|num=s
+כהנא	NNP
+ישבו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+על	IN
+מרפסת	NN	gen=f|num=s
+ה	REL
+משקיפה	BN	gen=f|num=s|per=a
+על	IN
+פתח	NNT	gen=m|num=s
+ה	DEF
+ישיבה	NN	gen=f|num=s
+.	yyDOT
+
+צלמי	NNT	gen=m|num=p
+עיתונות	NN	gen=f|num=s
+רבים	JJ	gen=m|num=p
+נדחקו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+על	IN
+גג	NNT	gen=m|num=s
+בטון	NN	gen=m|num=s
+סמוך	JJ	gen=m|num=s
+.	yyDOT
+
+צוותי	NNT	gen=f|num=p
+תקשורת	NN	gen=f|num=s
+אחרים	JJ	gen=m|num=p
+הושמו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+מאחורי	IN
+גדירות	NNT	gen=f|num=p
+משטרה	NN	gen=f|num=s
+.	yyDOT
+
+ב	PREPOSITION
+שעה	NN	gen=f|num=s
+1500	CD
+הגיע	VB	gen=m|num=s|per=3|tense=PAST
+ה	DEF
+ארון	NN	gen=m|num=s
+ל	PREPOSITION
+ה	DEF
+מקום	NN	gen=m|num=s
+.	yyDOT
+
+מ	PREPOSITION
+ה	DEF
+רמקול	NN	gen=m|num=s
+בקע	VB	gen=m|num=s|per=3|tense=PAST
+קולו	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=s|suf_per=3
+של	POS
+אחד	CD	gen=m|num=s
+מ	PREPOSITION
+תלמידי	NNT	gen=m|num=p
+ה	DEF
+ישיבה	NN	gen=f|num=s
+,	yyCM
+ש	REL
+קרא	VB	gen=m|num=s|per=3|tense=PAST
+פסוקי	NNT	gen=m|num=p
+תהילים	NNP
+.	yyDOT
+
+ה	DEF
+ציבור	NN	gen=m|num=s
+חזר	VB	gen=m|num=s|per=3|tense=PAST
+אחרי	IN
+הוא@suf	S_PRN	gen=m|num=s|per=3
+ב	PREPOSITION
+דבקות	NN	gen=f|num=s
+.	yyDOT
+
+קהל	NNT	gen=m|num=s
+ה	DEF
+רבבות	CDT	gen=f|num=p
+כלל	VB	gen=m|num=s|per=3|tense=PAST
+כיפות	NN	gen=f|num=p
+סרוגות	JJ	gen=f|num=p
+,	yyCM
+חרדים	NN	gen=m|num=p
+,	yyCM
+יהודים	NN	gen=m|num=p
+דתיים	JJ	gen=m|num=p
+מ	PREPOSITION
+ארה"ב	NNP
+ו	CONJ
+אנשי	NNT	gen=m|num=p
+שכונות	NN	gen=f|num=p
+.	yyDOT
+
+אנשי	NNT	gen=m|num=p
+ה	DEF
+חברה	NN	gen=f|num=s
+קדישא	NNP
+ביקשו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+להעביר	VB_TOINFINITIVE
+את	AT
+אלונקת	NNT	gen=f|num=s
+ה	DEF
+נפטר	NN	gen=m|num=s
+מ	PREPOSITION
+ה	DEF
+רכב	NN	gen=m|num=s
+אל	IN
+ה	DEF
+ישיבה	NN	gen=f|num=s
+.	yyDOT
+
+למעלה	RB
+מ	PREPOSITION
+חצי	NNT	gen=m|num=p
+שעה	NN	gen=f|num=s
+הם	PRP	gen=m|num=p|per=3
+ניסו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+לעשות	VB_TOINFINITIVE
+זאת	PRP	gen=f|num=s|per=3
+,	yyCM
+אך	CC
+ללא	IN
+הצלחה	NN	gen=f|num=s
+.	yyDOT
+
+בני	NNT	gen=m|num=p
+ה	DEF
+משפחה	NN	gen=f|num=s
+,	yyCM
+ה	DEF
+רבנים	NN	gen=m|num=p
+,	yyCM
+ראשי	NNT	gen=m|num=p
+כך	NNP
+ו	CONJ
+אפילו	RB
+ה	DEF
+רב	NN	gen=m|num=s
+ה	DEF
+ראשי	JJ	gen=m|num=s
+ל	PREPOSITION
+ישראל	NNP
+,	yyCM
+ה	DEF
+ראשון	NNP
+ל	PREPOSITION
+ציון	NNP
+ה	DEF
+רב	NN	gen=m|num=s
+מרדכי	NNP
+אליהו	NNP
+,	yyCM
+התחננו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+ב	PREPOSITION
+פני	NNT	gen=f|gen=m|num=p
+ה	DEF
+קהל	NN	gen=m|num=s
+לפנות	VB_TOINFINITIVE
+מעט	DTT
+דרך	NN	gen=f|num=s
+,	yyCM
+אך	CC
+לשווא	RB
+.	yyDOT
+
+מאות	CD	gen=f|num=p
+צרו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+על	IN
+רכב	NNT	gen=m|num=s
+ה	DEF
+חברה	NN	gen=f|num=s
+קדישא	NNP
+,	yyCM
+תוך	IN
+ש	REL
+הם	PRP	gen=m|num=p|per=3
+דוחפים	BN	gen=m|num=p|per=a
+איש	NN	gen=m|num=s
+את	AT
+רעהו	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=s|suf_per=3
+ו	CONJ
+משלחים	BN	gen=m|num=p|per=a
+קללות	NN	gen=f|num=p
+ו	CONJ
+גידופים	NN	gen=m|num=p
+לעבר	IN
+אנשי	NNT	gen=m|num=p
+ה	DEF
+תקשורת	NN	gen=f|num=s
+ה	DEF
+רבים	JJ	gen=m|num=p
+.	yyDOT
+
+ה	DEF
+שר	NN	gen=m|num=s
+יובל	NNP
+נאמן	NNP
+ו	CONJ
+סגניתו	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=s|suf_per=3
+גאולה	NNP
+כהן	NNP
+,	yyCM
+ש	REL
+ביקשו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+להספיד	VB_TOINFINITIVE
+את	AT
+ה	DEF
+רב	NN	gen=m|num=s
+כהנא	NNP
+,	yyCM
+גורשו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+מ	PREPOSITION
+ה	DEF
+מקום	NN	gen=m|num=s
+.	yyDOT
+
+ב	PREPOSITION
+ה	DEF
+קהל	NN	gen=m|num=s
+נראו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+חבר	NNT	gen=m|num=s
+ה	DEF
+כנסת	NNP
+אליקים	NNP
+העצני	NNP	gen=f|gen=m|num=s
+,	yyCM
+ה	DEF
+שר	NN	gen=m|num=s
+יצחק	NNP
+פרץ	NNP
+,	yyCM
+ה	DEF
+ח"ך	NN	gen=m|num=s
+לשעבר	RB
+מאיר	NNP
+כהן	NNP
+אבידוב	NNP
+,	yyCM
+ד"ר	NN	gen=m|num=s
+ישראל	NNP
+אלדד	NNP
+ו	CONJ
+דמויות	NN	gen=f|num=p
+רבות	JJ	gen=f|num=p
+נוספות	JJ	gen=f|num=p
+מ	PREPOSITION
+חוגי	NNT	gen=m|num=p
+ה	DEF
+ימין	NN	gen=m|num=s
+.	yyDOT
+
+ב	PREPOSITION
+2115	CD
+ניסה	VB	gen=m|num=s|per=3|tense=PAST
+רכב	NNT	gen=m|num=s
+ה	DEF
+חברה	NN	gen=f|num=s
+קדישא	NNP
+לדחוף	VB_TOINFINITIVE
+ב	PREPOSITION
+עדינות	NN	gen=f|num=s
+את	AT
+ה	REL
+צרים	BN	gen=m|num=p|per=a
+עלי	IN
+הוא@suf	S_PRN	gen=m|num=s|per=3
+.	yyDOT
+
+ה	DEF
+תוצאה	NN	gen=f|num=s
+:	yyCLN
+פצוע	NN	gen=m|num=s
+ש	REL
+נדרס	VB	gen=m|num=s|per=3|tense=PAST
+.	yyDOT
+
+ל	PREPOSITION
+קול	NNT	gen=m|num=s
+צפירות	NNT	gen=f|num=p
+ה	DEF
+אמבולנס	NN	gen=m|num=s
+ש	REL
+מיהר	VB	gen=m|num=s|per=3|tense=PAST
+עם	IN
+הוא@suf	S_PRN	gen=m|num=s|per=3
+ל	PREPOSITION
+בית	NNT	gen=m|num=s
+ה	DEF
+חולים	BN	gen=m|num=p|per=a
+,	yyCM
+פתח	VB	gen=m|num=s|per=3|tense=PAST
+ה	DEF
+רב	NN	gen=m|num=s
+ה	DEF
+ראשי	JJ	gen=m|num=s
+את	AT
+שורת	NNT	gen=f|num=s
+ה	DEF
+הספדים	NN	gen=m|num=p
+.	yyDOT
+
+ה	DEF
+רב	NN	gen=m|num=s
+ה	DEF
+ראשי	JJ	gen=m|num=s
+עמד	VB	gen=m|num=s|per=3|tense=PAST
+על	IN
+תכונותיו	NN_S_PP	gen=f|num=p|suf_gen=m|suf_num=s|suf_per=3
+של	POS
+כהנא	NNP
+:	yyCLN
+"	yyQUOT
+ה	DEF
+חסד	NN	gen=m|num=s
+של	POS
+הוא@suf	S_PRN	gen=m|num=s|per=3
+,	yyCM
+ה	DEF
+צדקה	NN	gen=f|num=s
+של	POS
+הוא@suf	S_PRN	gen=m|num=s|per=3
+ו	CONJ
+ראיית	NNT	gen=f|num=s
+ה	DEF
+חיים	NN	gen=m|num=p
+של	POS
+הוא@suf	S_PRN	gen=m|num=s|per=3
+"	yyQUOT
+,	yyCM
+ו	CONJ
+אחר	IN
+כך	PRP	per=3
+פונה	BN	gen=m|num=s|per=a
+ל	PREPOSITION
+ה	DEF
+קהל	NN	gen=m|num=s
+:	yyCLN
+"	yyQUOT
+ה	DEF
+קב"ה	NNP	gen=m|num=s
+יקום	VB	gen=m|num=s|per=3|tense=FUTURE
+דמו	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=s|suf_per=3
+.	yyDOT
+
+לא	RB
+להפריע	VB_TOINFINITIVE
+ל	PREPOSITION
+כוחות	NNT	gen=m|num=p
+ה	DEF
+ביטחון	NN	gen=m|num=s
+.	yyDOT
+
+להשאיר	VB_TOINFINITIVE
+את	AT
+ה	DEF
+נקמה	NN	gen=f|num=s
+ל	PREPOSITION
+אלוקים	NN	gen=m|num=s
+"	yyQUOT
+.	yyDOT
+
+ה	DEF
+רב	NN	gen=m|num=s
+נחמן	NNP
+כהנא	NNP
+,	yyCM
+אחיו	NN_S_PP	num=s|suf_gen=m|suf_num=s|suf_per=3
+של	POS
+מאיר	NNP
+כהנא	NNP
+,	yyCM
+הזכיר	VB	gen=m|num=s|per=3|tense=PAST
+ל	PREPOSITION
+ה	DEF
+ציבור	NN	gen=m|num=s
+תוך	IN
+בכי	NN	gen=m|num=s
+,	yyCM
+כי	CC
+"	yyQUOT
+דמו	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=s|suf_per=3
+של	POS
+כהנא	NNP
+נשפך	VB	gen=m|num=s|per=3|tense=PAST
+על	IN
+רקע	NNT	gen=m|num=s
+הר	NNT	gen=m|num=s
+-	yyDASH
+ה	DEF
+בית	NN	gen=m|num=s
+.	yyDOT
+
+ה	DEF
+דם	NN	gen=m|num=s
+ה	DEF
+זה	PRP	gen=m|num=s|per=3
+רותח	BN	gen=m|num=s|per=a
+.	yyDOT
+
+על	IN
+ה	DEF
+דם	NN	gen=m|num=s
+ה	DEF
+זה	PRP	gen=m|num=s|per=3
+אין	EX
+כפרה	NN	gen=f|num=s
+"	yyQUOT
+.	yyDOT
+
+רק	RB
+ב	PREPOSITION
+דבריו	NN_S_PP	gen=m|num=p|suf_gen=m|suf_num=s|suf_per=3
+של	POS
+ה	DEF
+רב	NN	gen=m|num=s
+אברהם	NNP
+טולדאנו	NNP	gen=f|gen=m|num=s
+,	yyCM
+משגיח	NN	gen=m|num=s
+ב	PREPOSITION
+ישיבת	NNT	gen=f|num=s
+ה	DEF
+רעיון	NN	gen=m|num=s
+ה	DEF
+יהודי	JJ	gen=m|num=s
+ו	CONJ
+מספר	NN	gen=m|num=s
+4	CD
+ב	PREPOSITION
+רשימת	NNT	gen=f|num=s
+כך	NNP
+ל	PREPOSITION
+ה	DEF
+כנסת	NNP
+,	yyCM
+היו	COP	gen=f|gen=m|num=p|per=3|polar=pos|tense=PAST
+כבר	RB
+הוראות	NN	gen=f|num=p
+מעשיות	JJ	gen=f|num=p
+:	yyCLN
+"	yyQUOT
+אלוקים	NN	gen=m|num=s
+ייקום	VB	gen=m|num=s|per=3|tense=FUTURE
+דמו	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=s|suf_per=3
+ו	CONJ
+אנו	PRP	gen=f|gen=m|num=p|per=1
+ניקום	VB	gen=f|gen=m|num=p|per=1|tense=FUTURE
+אות	AT
+הוא@suf	S_PRN	gen=m|num=s|per=3
+.	yyDOT
+
+אל	NNT	gen=m|num=s
+נקמות	NN	gen=f|num=p
+ה	DEF	gen=f|gen=m|num=s
+.	yyDOT
+
+עכשיו	RB
+עת	NN	gen=f|num=s
+להרוג	VB_TOINFINITIVE
+.	yyDOT
+
+זו	PRP	gen=f|num=s|per=3
+ה	DEF
+עת	NN	gen=f|num=s
+להרוג	VB_TOINFINITIVE
+רבותי	NN_S_PP	gen=f|num=p|suf_gen=f|suf_gen=m|suf_num=s|suf_per=1
+.	yyDOT
+
+נצפה	VB	gen=f|gen=m|num=p|per=1|tense=FUTURE
+ל	PREPOSITION
+שלום	NN	gen=m|num=s
+,	yyCM
+אך	CC
+אינך	COP	gen=m|num=s|per=3|polar=neg|tense=BEINONI
+יכול	MD	gen=m|num=s|per=a|tense=BEINONI
+להגיע	VB_TOINFINITIVE
+ל	PREPOSITION
+שלום	NN	gen=m|num=s
+,	yyCM
+שלא	RB
+דרך	IN
+ה	DEF
+מלחמה	NN	gen=f|num=s
+.	yyDOT
+
+עת	NN	gen=f|num=s
+ל	PREPOSITION
+טוב	NN	gen=m|num=s
+ו	CONJ
+עת	NN	gen=f|num=s
+ל	PREPOSITION
+רע	NN	gen=m|num=s
+:	yyCLN
+אינך	COP	gen=f|num=s|per=2|polar=neg|tense=BEINONI
+יכול	MD	gen=m|num=s|per=a|tense=BEINONI
+להגיע	VB_TOINFINITIVE
+ל	PREPOSITION
+ה	DEF
+טוב	NN	gen=m|num=s
+,	yyCM
+אם	CC
+אתה	PRP	gen=m|num=s|per=2
+לא	RB
+מבער	BN	gen=m|num=s|per=a
+את	AT
+ה	DEF
+רע	NN	gen=m|num=s
+.	yyDOT
+
+זה	PRP	gen=m|num=s|per=3
+ה	DEF
+רגע	NN	gen=m|num=s
+.	yyDOT
+
+זה	PRP	gen=m|num=s|per=3
+ה	DEF
+זמן	NN	gen=m|num=s
+לנקום	VB_TOINFINITIVE
+נקמתו	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=s|suf_per=3
+של	POS
+כל	DTT
+יהודי	NN	gen=m|num=s
+"	yyQUOT
+.	yyDOT
+
+דבריו	NN_S_PP	gen=m|num=p|suf_gen=m|suf_num=s|suf_per=3
+של	POS
+יקותיאל	NNP
+בן	NNP
+-	yyDASH
+יעקב	NNP
+,	yyCM
+איש	NN	gen=m|num=s
+כך	NNP
+ה	REL
+מקורב	JJ	gen=m|num=s
+ביותר	RB
+ל	PREPOSITION
+ה	DEF
+רב	NN	gen=m|num=s
+כהנא	NNP
+,	yyCM
+הם	COP	gen=m|num=p|per=3|polar=pos|tense=BEINONI
+ה	DEF
+מפורשים	JJ	gen=m|num=p
+ביותר	RB
+,	yyCM
+ו	CONJ
+הוא	PRP	gen=m|num=s|per=3
+פנה	VB	gen=m|num=s|per=3|tense=PAST
+אל	IN
+רבו	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=s|suf_per=3
+,	yyCM
+כאילו	CC
+עוד	RB
+היה	COP	gen=m|num=s|per=3|polar=pos|tense=PAST
+חי	BN	gen=m|num=s|per=a
+:	yyCLN
+"	yyQUOT
+ה	DEF
+רב	NN	gen=m|num=s
+כהנא	NNP
+רצחו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+אות	AT
+אתה@suf	S_PRN	gen=m|num=s|per=2
+פעמיים	NN	gen=f|num=d
+.	yyDOT
+
+כאן	RB
+ב	PREPOSITION
+ה	DEF
+ארץ	NN	gen=f|num=s
+פסלו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+אות	AT
+אתה@suf	S_PRN	gen=m|num=s|per=2
+ו	CONJ
+ב	PREPOSITION
+ארה"ב	NNP
+רצחו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+אות	AT
+אתה@suf	S_PRN	gen=m|num=s|per=2
+.	yyDOT
+
+ה	DEF
+תקשורת	NN	gen=f|num=s
+ה	DEF
+עויינת	JJ	gen=f|num=s
+ממשיכה	BN	gen=f|num=s|per=a
+לרצוח	VB_TOINFINITIVE
+אות	AT
+אתה@suf	S_PRN	gen=m|num=s|per=2
+פעם	NN	gen=f|num=s
+שלישית	CD	gen=f|num=s
+.	yyDOT
+
+נבכה	VB	gen=f|gen=m|num=p|per=1|tense=FUTURE
+ו	CONJ
+נפסיק	VB	gen=f|gen=m|num=p|per=1|tense=FUTURE
+לבכות	VB_TOINFINITIVE
+ו	CONJ
+נקיים	VB	gen=f|gen=m|num=p|per=1|tense=FUTURE
+את	AT
+ה	DEF
+תורה	NN	gen=f|num=s
+ש	REL
+לימדת	VB	gen=m|num=s|per=2|tense=PAST
+אות	AT
+אנחנו@suf	S_PRN	gen=f|gen=m|num=p|per=1
+נקמה	NN	gen=f|num=s
+.	yyDOT
+
+ניתן	VB	gen=f|gen=m|num=p|per=1|tense=FUTURE
+את	AT
+רשות	NNT	gen=f|num=s
+ה	DEF
+דיבור	NN	gen=m|num=s
+ל	PREPOSITION
+ה	DEF
+חבר	NN	gen=m|num=s
+תת	P
+-	yyDASH
+מקלע	NN	gen=m|num=s
+ל	PREPOSITION
+ה	DEF
+חבר	NN	gen=m|num=s
+סכין	NN	gen=f|gen=m|num=s
+.	yyDOT
+
+שלום	NN	gen=m|num=s
+ה	DEF
+רב	NN	gen=m|num=s
+כהנא	NNP
+"	yyQUOT
+.	yyDOT
+
+אט	RB
+אט	RB
+התחיל	VB	gen=m|num=s|per=3|tense=PAST
+ה	DEF
+המון	NN	gen=m|num=s
+לצעוד	VB_TOINFINITIVE
+אל	IN
+מ	PREPOSITION
+חוץ	NN	compound=y|gen=m|num=s
+ל	PREPOSITION
+ה	DEF
+סמטאות	NN	gen=f|num=p
+לעבר	IN
+ה	DEF
+כביש	NN	gen=m|num=s
+ה	DEF
+ראשי	JJ	gen=m|num=s
+.	yyDOT
+
+תחילה	RB
+ב	PREPOSITION
+שקט	NN	gen=m|num=s
+ו	CONJ
+אחר	IN
+כך	PRP	per=3
+תוך	IN
+קריאות	NN	gen=f|num=p
+גוברות	BN	gen=f|num=p|per=a
+ו	CONJ
+הולכות	BN	gen=f|num=p|per=a
+:	yyCLN
+"	yyQUOT
+מוות	NN	gen=m|num=s
+ל	PREPOSITION
+ה	DEF
+ערבים	NN	gen=m|num=p
+"	yyQUOT
+,	yyCM
+"	yyQUOT
+מוות	NN	gen=m|num=s
+ל	PREPOSITION
+ה	DEF
+שמאלנים	NN	gen=m|num=p
+"	yyQUOT
+,	yyCM
+"	yyQUOT
+רוצים	BN	gen=m|num=p|per=a
+נקמה	NN	gen=f|num=s
+"	yyQUOT
+.	yyDOT
+
+ה	DEF
+קהל	NN	gen=m|num=s
+ה	DEF
+זה	PRP	gen=m|num=s|per=3
+היה	COP	gen=m|num=s|per=3|polar=pos|tense=PAST
+צמא	JJ	gen=m|num=s
+ל	PREPOSITION
+דם	NN	gen=m|num=s
+ו	CONJ
+הוא	PRP	gen=m|num=s|per=3
+חיפש	VB	gen=m|num=s|per=3|tense=PAST
+ערבים	NN	gen=m|num=p
+.	yyDOT
+
+מדי	RB
+פעם	RB
+ב	PREPOSITION
+פעם	RB
+פרצה	VB	gen=f|num=s|per=3|tense=PAST
+קבוצה	NN	gen=f|num=s
+של	POS
+כמה	DTT
+מאות	CD	gen=f|num=p
+הצידה	RB
+כאשר	CC
+נדמה	BN	gen=m|num=s|per=a
+היה	COP	gen=m|num=s|per=3|polar=pos|tense=PAST
+ש	REL
+גילתה	VB	gen=f|num=s|per=3|tense=PAST
+ערבי	NN	gen=m|num=s
+.	yyDOT
+
+אבל	CC
+ה	DEF
+אכזבה	NN	gen=f|num=s
+רבה	JJ	gen=f|num=s
+.	yyDOT
+
+בעלי	NNT	gen=m|num=p
+מפעלים	NN	gen=m|num=p
+רבים	JJ	gen=m|num=p
+על	IN
+נתיב	NNT	gen=m|num=s
+ה	DEF
+הלווייה	NN	gen=f|num=s
+נעלו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+את	AT
+פועליהם	NN_S_PP	gen=m|num=p|suf_gen=m|suf_num=p|suf_per=3
+מאחורי	IN
+סוגר	NN	gen=m|num=s
+ו	CONJ
+בריח	NN	gen=m|num=s
+.	yyDOT
+
+אחדים	CD	gen=m|num=p
+מ	IN
+המ@suf	S_PRN	gen=m|num=p|per=3
+עשו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+שטות	NN	gen=f|num=s
+ו	CONJ
+הציצו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+מבעד	IN
+ל	PREPOSITION
+ה	DEF
+חלונות	NN	gen=m|num=p
+;	yySCLN
+בתוך	IN
+דקות	NN	gen=f|num=p
+נופצו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+שמשות	NN	gen=f|num=p
+.	yyDOT
+
+מאחור	RB
+צרו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+מאות	CD	gen=f|num=p
+על	IN
+בניין	NNT	gen=m|num=s
+ה	DEF
+טלוויזיה	NN	gen=f|num=s
+.	yyDOT
+
+פרשי	NNT	gen=m|num=p
+משטרה	NN	gen=f|num=s
+דחקו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+אות	AT
+המ@suf	S_PRN	gen=m|num=p|per=3
+לאחור	RB
+.	yyDOT
+
+שוטר	NN	gen=m|num=s
+נפגע	VB	gen=m|num=s|per=3|tense=PAST
+מ	PREPOSITION
+אבן	NN	gen=f|num=s
+ב	PREPOSITION
+ראשו	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=s|suf_per=3
+.	yyDOT
+
+קבוצה	NN	gen=f|num=s
+אחרת	JJ	gen=f|num=s
+של	POS
+מפגינים	NN	gen=m|num=p
+פרצה	VB	gen=f|num=s|per=3|tense=PAST
+ל	PREPOSITION
+ה	DEF
+מרכז	NN	gen=m|num=s
+ה	DEF
+מסחרי	JJ	gen=m|num=s
+סנטר	NN	gen=m|num=s
+1	CD
+,	yyCM
+ליד	IN
+ה	DEF
+תחנה	NN	gen=f|num=s
+ה	DEF
+מרכזית	JJ	gen=f|num=s
+.	yyDOT
+
+יושבי	NNT	gen=m|num=p
+בתי	NNT	gen=m|num=p
+ה	DEF
+קפה	NN	gen=m|num=s
+נבעתו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+.	yyDOT
+
+אם	NN	gen=f|num=s
+עם	IN
+תינוקתה	NN_S_PP	gen=f|num=s|suf_gen=f|suf_num=s|suf_per=3
+פרצה	VB	gen=f|num=s|per=3|tense=PAST
+ב	PREPOSITION
+זעקות	NN	gen=f|num=p
+.	yyDOT
+
+מיד	RB
+אחר	IN
+כך	PRP	per=3
+נופצו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+חלונות	NNT	gen=m|num=p
+ראווה	NN	gen=f|num=s
+של	POS
+חנויות	NN	gen=f|num=p
+ב	PREPOSITION
+ה	DEF
+מרכז	NN	gen=m|num=s
+.	yyDOT
+
+ה	DEF
+שוטרים	NN	gen=m|num=p
+הגיעו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+רק	RB
+אחרי	IN
+כמה	DTT
+דקות	NN	gen=f|num=p
+.	yyDOT
+
+מול	IN
+בית	NN	gen=m|num=s
+מספר	NN	gen=m|num=s
+3	CD
+ב	PREPOSITION
+רחוב	NNT	gen=m|num=s
+גבעת	NNT	gen=f|num=s
+שאול	NNP
+אני	PRP	gen=f|gen=m|num=s|per=1
+עד	NN	gen=m|num=s
+ל	PREPOSITION
+ה	DEF
+אירוע	NN	gen=m|num=s
+ה	DEF
+חמור	JJ	gen=m|num=s
+ביותר	RB
+.	yyDOT
+
+ה	DEF
+קהל	NN	gen=m|num=s
+איתר	VB	gen=m|num=s|per=3|tense=PAST
+סוף	NN	gen=m|num=s
+סוף	NN	gen=m|num=s
+ערבי	NN	gen=m|num=s
+ו	CONJ
+יהודים	NN	gen=m|num=p
+חבטו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+ב	IN
+הוא@suf	S_PRN	gen=m|num=s|per=3
+עד	IN
+זוב	NNT	gen=m|num=s
+דם	NN	gen=m|num=s
+.	yyDOT
+
+אנשי	NNT	gen=m|num=p
+מג"ב	NN	gen=m|num=s
+חשו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+אל	IN
+ה	DEF
+פצוע	NN	gen=m|num=s
+ו	CONJ
+הגישו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+ל	IN
+הוא@suf	S_PRN	gen=m|num=s|per=3
+עזרה	NN	gen=f|num=s
+ראשונה	JJ	gen=f|num=s
+.	yyDOT
+
+ה	DEF
+אמבולנס	NN	gen=m|num=s
+התקרב	VB	gen=m|num=s|per=3|tense=PAST
+אך	CC
+בקושי	RB
+ו	CONJ
+גם	RB
+כאשר	CC
+נסגרו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+ה	DEF
+דלתות	NN	gen=f|num=p
+היכו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+עשרות	CD	gen=f|num=p
+ב	PREPOSITION
+ה	DEF
+ידיים	NN	gen=f|num=p
+ו	CONJ
+ב	PREPOSITION
+ה	DEF
+רגליים	NN	gen=f|num=p
+על	IN
+פח	NNT	gen=m|num=s
+ה	DEF
+רכב	NN	gen=m|num=s
+.	yyDOT
+
+שוטר	NN	gen=m|num=s
+ו	CONJ
+חייל	NN	gen=m|num=s
+אחזו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+ב	PREPOSITION
+דלתות	NNT	gen=f|num=p
+ה	DEF
+אמבולנס	NN	gen=m|num=s
+,	yyCM
+כש	PREPOSITION
+פניהם	NN_S_PP	gen=m|num=p|suf_gen=m|suf_num=p|suf_per=3
+אל	IN
+ה	DEF
+מתפרעים	NN	gen=m|num=p
+,	yyCM
+כדי	IN
+לסוכך	VB_TOINFINITIVE
+על	IN
+ה	DEF
+פצוע	NN	gen=m|num=s
+ה	DEF
+ערבי	JJ	gen=m|num=s
+.	yyDOT
+
+כאשר	CC
+התחיל	VB	gen=m|num=s|per=3|tense=PAST
+ה	DEF
+אמבולנס	NN	gen=m|num=s
+לנסוע	VB_TOINFINITIVE
+,	yyCM
+איבד	VB	gen=m|num=s|per=3|tense=PAST
+ה	DEF
+שוטר	NN	gen=m|num=s
+את	AT
+שיווי	NNT	gen=m|num=s
+ה	DEF
+משקל	NN	gen=m|num=s
+,	yyCM
+מעד	VB	gen=m|num=s|per=3|tense=PAST
+ו	CONJ
+נחת	VB	gen=m|num=s|per=3|tense=PAST
+כש	TEMP
+עורפו	NN_S_PP	gen=m|num=s|suf_gen=m|suf_num=s|suf_per=3
+ל	PREPOSITION
+ה	DEF
+קרקע	NN	gen=f|num=s
+.	yyDOT
+
+הוא	PRP	gen=m|num=s|per=3
+איבד	VB	gen=m|num=s|per=3|tense=PAST
+את	AT
+הכרתו	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=s|suf_per=3
+.	yyDOT
+
+הפעם	RB
+ה	DEF
+קהל	NN	gen=m|num=s
+לא	RB
+חסם	VB	gen=m|num=s|per=3|tense=PAST
+את	AT
+ה	DEF
+אמבולנס	NN	gen=m|num=s
+.	yyDOT
+
+ב	PREPOSITION
+ה	DEF
+רחבה	NN	gen=f|num=s
+ש	REL
+לפני	IN
+בית	NNT	gen=m|num=s
+ה	DEF
+עלמין	NN	gen=m|num=s
+ש	REL
+על	IN
+הר	NNT	gen=m|num=s
+ה	DEF
+מנוחות	NN	gen=f|num=p
+נרגם	VB	gen=m|num=s|per=3|tense=PAST
+ב	PREPOSITION
+אבנים	NN	gen=f|num=p
+ה	DEF
+רכב	NN	gen=m|num=s
+של	POS
+קול	NNT	gen=m|num=s
+ישראל	NNP
+.	yyDOT
+
+טירן	NNP
+פולק	NNP
+,	yyCM
+מנכ"ל	NNT	gen=m|num=s
+כך	NNP
+,	yyCM
+אחז	VB	gen=m|num=s|per=3|tense=PAST
+ב	PREPOSITION
+ידו	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=s|suf_per=3
+רמקול	NN	gen=m|num=s
+ו	CONJ
+ביקש	VB	gen=m|num=s|per=3|tense=PAST
+מ	PREPOSITION
+ה	DEF
+קהל	NN	gen=m|num=s
+שלא	RB
+לפגוע	VB_TOINFINITIVE
+ב	PREPOSITION
+ה	DEF
+יהודים	NN	gen=m|num=p
+.	yyDOT
+
+מ	PREPOSITION
+ה	DEF
+קהל	NN	gen=m|num=s
+נשמעו	VB	gen=f|gen=m|num=p|per=3|tense=PAST
+קריאות	NN	gen=f|num=p
+:	yyCLN
+אחרי	IN
+ה	DEF
+הלווייה	NN	gen=f|num=s
+נלך	VB	gen=f|gen=m|num=p|per=1|tense=FUTURE
+לשחרר	VB_TOINFINITIVE
+את	AT
+הר	NNT	gen=m|num=s
+ה	DEF
+בית	NN	gen=m|num=s
+.	yyDOT
+
+כולנו	PRP	gen=f|gen=m|num=p|per=1
+כ	PREPOSITION
+איש	NN	gen=m|num=s
+אחד	CD	gen=m|num=s
+.	yyDOT
+
+מוות	NN	gen=m|num=s
+ל	PREPOSITION
+ה	DEF
+ערבים	NN	gen=m|num=p
+,	yyCM
+מוות	NN	gen=m|num=s
+ל	PREPOSITION
+ה	DEF
+שמאלנים	NN	gen=m|num=p
+,	yyCM
+מוות	NN	gen=m|num=s
+ל	PREPOSITION
+יוסי	NNP
+שריד	NNP
+.	yyDOT
+
+קשה	MD	gen=m|num=s|tense=PAST
+להוציא	VB_TOINFINITIVE
+את	AT
+ה	DEF
+ארון	NN	gen=m|num=s
+מ	PREPOSITION
+מכונית	NNT	gen=f|num=s
+ה	DEF
+חברה	NN	gen=f|num=s
+קדישא	NNP
+ו	CONJ
+רק	RB
+תוך	IN
+דחיפות	NN	gen=f|num=s
+ו	CONJ
+צעקות	NN	gen=f|num=p
+הורדה	VB	gen=f|num=s|per=3|tense=PAST
+גופתו	NN_S_PP	gen=f|num=s|suf_gen=m|suf_num=s|suf_per=3
+של	POS
+מאיר	NNP
+כהנא	NNP
+אל	IN
+ה	DEF
+קבר	NN	gen=m|num=s
+.	yyDOT
+
+עכשיו	RB
+קוראים	BN	gen=m|num=p|per=a
+את	AT
+ה	DEF
+קדיש	NN	gen=m|num=s
+,	yyCM
+ו	CONJ
+ה	DEF
+קהל	NN	gen=m|num=s
+עונה	BN	gen=m|num=s|per=a
+אמן	NN	gen=m|num=s
+.	yyDOT
+
+תם	VB	gen=m|num=s|per=3|tense=PAST
+מסע	NNT	gen=m|num=s
+ה	DEF
+הלווייה	NN	gen=f|num=s
+.	yyDOT
+
+מתחיל	BN	gen=m|num=s|per=a
+מסע	NNT	gen=m|num=s
+ה	DEF
+נקמה	NN	gen=f|num=s
+.	yyDOT
+
