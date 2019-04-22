@@ -197,7 +197,7 @@ def run_train(args, hparams):
 
     print("Initializing model...")
 
-    load_path = '/content/self-attentive-parser/models'
+    load_path = None
     if load_path is not None:
         print(f"Loading parameters from {load_path}")
         info = torch_load(load_path)
