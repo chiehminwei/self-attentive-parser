@@ -1015,7 +1015,7 @@ class NKChartParser(nn.Module):
             # else:
             all_encoder_layers, _ = self.bert(all_input_ids, attention_mask=all_input_mask)
             del _
-            features = all_encoder_layers[-1]
+            features = all_encoder_layers[8]
             
             if self.encoder is not None:
                 features_packed = features.masked_select(all_word_end_mask.to(torch.uint8).unsqueeze(-1)).reshape(-1, features.shape[-1])
