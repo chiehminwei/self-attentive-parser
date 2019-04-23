@@ -1019,8 +1019,9 @@ class NKChartParser(nn.Module):
             
             if self.encoder is not None:
                 # features_packed = features.masked_select(all_word_end_mask.to(torch.uint8).unsqueeze(-1)).reshape(-1, features.shape[-1])
-                features_packed = features.masked_select(all_word_start_mask.to(torch.uint8).unsqueeze(-1)).reshape(-1, features.shape[-1])
+                # features_packed = features.masked_select(all_word_start_mask.to(torch.uint8).unsqueeze(-1)).reshape(-1, features.shape[-1])
                 
+                # avg embeddings
                 all_embeddings = []
                 for sent_embed, sent_att_mask, sent_mask in zip(features, all_input_mask, all_word_start_mask):
                     sent_avg_embeddings = []
@@ -1052,14 +1053,8 @@ class NKChartParser(nn.Module):
                         sent_avg_embeddings.append(tmp/tmp_len)
 
                     all_embeddings += sent_avg_embeddings
-                all_embeddings = from_numpy(np.array(all_embeddings))
-                print(features.shape)
-                print(all_word_start_mask.shape)
-                print(features_packed.shape)
-                print(all_embeddings.shape)
-                assert 1 == 2
+                features_packed = from_numpy(np.array(all_embeddings))
                 
-                # For now, just project the features from the last word piece in each word
                 extra_content_annotations = self.project_bert(features_packed)
 
         if self.encoder is not None:
