@@ -1020,9 +1020,43 @@ class NKChartParser(nn.Module):
             if self.encoder is not None:
                 # features_packed = features.masked_select(all_word_end_mask.to(torch.uint8).unsqueeze(-1)).reshape(-1, features.shape[-1])
                 features_packed = features.masked_select(all_word_start_mask.to(torch.uint8).unsqueeze(-1)).reshape(-1, features.shape[-1])
+                
+                all_embeddings = []
+                for sent_embed, sent_att_mask, sent_mask in zip(features, all_input_mask, all_word_start_mask):
+                    sent_avg_embeddings = []
+                    tmp = None
+                    tmp_len = 0
+                    sent_embed = sent_embed.tolist()
+                    sent_att_mask = sent_att_mask.tolist()
+                    sent_mask = sent_mask.tolist()
+                    for word_embed, word_att_mask, word_mask in zip(sent_embed, sent_att_mask, sent_mask):
+                        if word_att_mask != 1:
+                            if tmp is not None:
+                                sent_avg_embeddings.append(tmp/tmp_len)
+                            tmp = None
+                            break
+                        if word_mask == 1:
+                            if tmp is not None:
+                                if tmp_len == 0:
+                                    tmp_len = 1
+                                sent_avg_embeddings.append(tmp/tmp_len)
+                            tmp = np.array(word_embed)
+                            tmp_len = 1
+                        else:
+                            if tmp is not None:
+                                tmp += np.array(word_embed)
+                                tmp_len += 1
+
+                    # take care of last word when sentence len == max_seq_len in batch
+                    if tmp is not None:
+                        sent_avg_embeddings.append(tmp/tmp_len)
+
+                    all_embeddings += sent_avg_embeddings
+                all_embeddings = from_numpy(np.array(all_embeddings))
                 print(features.shape)
                 print(all_word_start_mask.shape)
                 print(features_packed.shape)
+                print(all_embeddings.shape)
                 assert 1 == 2
                 
                 # For now, just project the features from the last word piece in each word
