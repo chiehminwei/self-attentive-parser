@@ -1020,6 +1020,10 @@ class NKChartParser(nn.Module):
             if self.encoder is not None:
                 # features_packed = features.masked_select(all_word_end_mask.to(torch.uint8).unsqueeze(-1)).reshape(-1, features.shape[-1])
                 features_packed = features.masked_select(all_word_start_mask.to(torch.uint8).unsqueeze(-1)).reshape(-1, features.shape[-1])
+                print(features.shape)
+                print(all_word_start_mask.shape)
+                print(features_packed.shape)
+                assert 1 == 2
                 
                 # For now, just project the features from the last word piece in each word
                 extra_content_annotations = self.project_bert(features_packed)
