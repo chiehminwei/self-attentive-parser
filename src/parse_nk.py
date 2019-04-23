@@ -1055,8 +1055,6 @@ class NKChartParser(nn.Module):
 
                     all_embeddings += sent_avg_embeddings
                 features_packed = from_numpy(np.array(all_embeddings)).float()
-                print(features_packed.dtype)
-                assert 1 == 2
                 
                 extra_content_annotations = self.project_bert(features_packed)
 
