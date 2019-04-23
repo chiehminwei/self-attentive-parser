@@ -1054,7 +1054,7 @@ class NKChartParser(nn.Module):
                         sent_avg_embeddings.append(tmp/tmp_len)
 
                     all_embeddings += sent_avg_embeddings
-                features_packed = from_numpy(np.array(all_embeddings)).double()
+                features_packed = from_numpy(np.array(all_embeddings))
                 print(features_packed.dtype)
                 assert 1 == 2
                 
