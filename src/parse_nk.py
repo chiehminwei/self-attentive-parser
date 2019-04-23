@@ -1021,7 +1021,6 @@ class NKChartParser(nn.Module):
                 # features_packed = features.masked_select(all_word_end_mask.to(torch.uint8).unsqueeze(-1)).reshape(-1, features.shape[-1])
                 # features_packed = features.masked_select(all_word_start_mask.to(torch.uint8).unsqueeze(-1)).reshape(-1, features.shape[-1])
                 features_packed = features.masked_select(all_word_start_mask.to(torch.uint8).unsqueeze(-1)).reshape(-1, features.shape[-1])
-                print(features_packed.dtype)
                 # avg embeddings
                 all_embeddings = []
                 for sent_embed, sent_att_mask, sent_mask in zip(features, all_input_mask, all_word_start_mask):
