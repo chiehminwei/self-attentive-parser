@@ -577,6 +577,10 @@ def get_bert(bert_model, bert_do_lower_case, use_syntactic=False):
     else:
         print('Using original BERT...')
         bert = BertModel.from_pretrained(bert_model)
+    
+    for param in bert.parameters():
+        param.requires_grad = False
+
     return tokenizer, bert    
 
 # %%
