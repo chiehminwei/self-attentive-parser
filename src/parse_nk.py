@@ -655,8 +655,14 @@ class NKChartParser(nn.Module):
         self.d_positional = (hparams.d_model // 2) if self.partitioned else None
 
         self.use_syntactic = hparams.use_syntactic
-        self.embed_layer = hparams.embed_layer
-        self.word_level = haparams.word_level
+        try:
+            self.embed_layer = hparams.embed_layer
+        except:
+            self.embed_layer = -1
+        try:
+            self.word_level = hparams.word_level
+        except:
+            self.word_level = "last"
 
         num_embeddings_map = {
             'tags': tag_vocab.size,
