@@ -85,7 +85,9 @@ def make_hparams():
         bert_model="bert-base-uncased",
         bert_do_lower_case=True,
         bert_transliterate="",
-        use_syntactic=True,
+        use_syntactic=False,
+        embed_layer=-1,
+        word_level="last"
         )
 
 def run_train(args, hparams):
@@ -197,7 +199,7 @@ def run_train(args, hparams):
 
     print("Initializing model...")
 
-    load_path = None
+    load_path = args.load_path
     if load_path is not None:
         print(f"Loading parameters from {load_path}")
         info = torch_load(load_path)
@@ -578,7 +580,8 @@ def main():
     subparser.add_argument("--epochs", type=int)
     subparser.add_argument("--checks-per-epoch", type=int, default=4)
     subparser.add_argument("--print-vocabs", action="store_true")
-
+    subparser.add_argument("--load_path", type=str, default=None)
+    
     subparser = subparsers.add_parser("test")
     subparser.set_defaults(callback=run_test)
     subparser.add_argument("--model-path-base", required=True)

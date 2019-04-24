@@ -655,6 +655,8 @@ class NKChartParser(nn.Module):
         self.d_positional = (hparams.d_model // 2) if self.partitioned else None
 
         self.use_syntactic = hparams.use_syntactic
+        self.embed_layer = hparams.embed_layer
+        self.word_level = haparams.word_level
 
         num_embeddings_map = {
             'tags': tag_vocab.size,
@@ -1015,45 +1017,48 @@ class NKChartParser(nn.Module):
             # else:
             all_encoder_layers, _ = self.bert(all_input_ids, attention_mask=all_input_mask)
             del _
-            features = all_encoder_layers[8]
+            features = all_encoder_layers[self.embed_layer]
+
             
             if self.encoder is not None:
-                # features_packed = features.masked_select(all_word_end_mask.to(torch.uint8).unsqueeze(-1)).reshape(-1, features.shape[-1])
-                # features_packed = features.masked_select(all_word_start_mask.to(torch.uint8).unsqueeze(-1)).reshape(-1, features.shape[-1])
-                
-                # avg embeddings
-                all_embeddings = []
-                for sent_embed, sent_att_mask, sent_mask in zip(features, all_input_mask, all_word_start_mask):
-                    sent_avg_embeddings = []
-                    tmp = None
-                    tmp_len = 0
-                    sent_embed = sent_embed.tolist()
-                    sent_att_mask = sent_att_mask.tolist()
-                    sent_mask = sent_mask.tolist()
-                    for word_embed, word_att_mask, word_mask in zip(sent_embed, sent_att_mask, sent_mask):
-                        if word_att_mask != 1:
-                            if tmp is not None:
-                                sent_avg_embeddings.append(tmp/tmp_len)
-                            tmp = None
-                            break
-                        if word_mask == 1:
-                            if tmp is not None:
-                                if tmp_len == 0:
-                                    tmp_len = 1
-                                sent_avg_embeddings.append(tmp/tmp_len)
-                            tmp = np.array(word_embed)
-                            tmp_len = 1
-                        else:
-                            if tmp is not None:
-                                tmp += np.array(word_embed)
-                                tmp_len += 1
+                assert self.word_level in ['last', 'first', 'avg']
+                if self.word_level == 'last':
+                    features_packed = features.masked_select(all_word_end_mask.to(torch.uint8).unsqueeze(-1)).reshape(-1, features.shape[-1])
+                elif self.word_level == 'first':
+                    features_packed = features.masked_select(all_word_start_mask.to(torch.uint8).unsqueeze(-1)).reshape(-1, features.shape[-1])
+                elif self.word_level == 'avg':
+                    all_embeddings = []
+                    for sent_embed, sent_att_mask, sent_mask in zip(features, all_input_mask, all_word_start_mask):
+                        sent_avg_embeddings = []
+                        tmp = None
+                        tmp_len = 0
+                        sent_embed = sent_embed.tolist()
+                        sent_att_mask = sent_att_mask.tolist()
+                        sent_mask = sent_mask.tolist()
+                        for word_embed, word_att_mask, word_mask in zip(sent_embed, sent_att_mask, sent_mask):
+                            if word_att_mask != 1:
+                                if tmp is not None:
+                                    sent_avg_embeddings.append(tmp/tmp_len)
+                                tmp = None
+                                break
+                            if word_mask == 1:
+                                if tmp is not None:
+                                    if tmp_len == 0:
+                                        tmp_len = 1
+                                    sent_avg_embeddings.append(tmp/tmp_len)
+                                tmp = np.array(word_embed)
+                                tmp_len = 1
+                            else:
+                                if tmp is not None:
+                                    tmp += np.array(word_embed)
+                                    tmp_len += 1
 
-                    # take care of last word when sentence len == max_seq_len in batch
-                    if tmp is not None:
-                        sent_avg_embeddings.append(tmp/tmp_len)
+                        # take care of last word when sentence len == max_seq_len in batch
+                        if tmp is not None:
+                            sent_avg_embeddings.append(tmp/tmp_len)
 
-                    all_embeddings += sent_avg_embeddings
-                features_packed = from_numpy(np.array(all_embeddings)).float()
+                        all_embeddings += sent_avg_embeddings
+                    features_packed = from_numpy(np.array(all_embeddings)).float()
                 
                 extra_content_annotations = self.project_bert(features_packed)
 
