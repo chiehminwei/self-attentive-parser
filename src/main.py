@@ -86,7 +86,7 @@ def make_hparams():
         bert_do_lower_case=True,
         bert_transliterate="",
         use_syntactic=False,
-        embed_layer=8,
+        embed_layer=-1,
         word_level="last"
         )
 
