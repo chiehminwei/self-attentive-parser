@@ -562,7 +562,7 @@ def get_elmo_class():
     return Elmo
 
 # %%
-def get_bert(bert_model, bert_do_lower_case, use_syntactic=False):
+def get_bert(bert_model, bert_do_lower_case, use_syntactic=False, freeze_embeddings=True):
     # Avoid a hard dependency on BERT by only importing it if it's being used    
     from pytorch_pretrained_bert import BertTokenizer, BertModel
     if bert_model.endswith('.tar.gz'):
@@ -578,8 +578,9 @@ def get_bert(bert_model, bert_do_lower_case, use_syntactic=False):
         print('Using original BERT...')
         bert = BertModel.from_pretrained(bert_model)
     
-    for param in bert.parameters():
-        param.requires_grad = False
+    if freeze_embeddings:
+        for param in bert.parameters():
+            param.requires_grad = False
 
     return tokenizer, bert    
 
@@ -659,6 +660,8 @@ class NKChartParser(nn.Module):
         self.d_positional = (hparams.d_model // 2) if self.partitioned else None
 
         self.use_syntactic = hparams.use_syntactic
+        self.freeze_embeddings = hparams.freeze_embeddings
+        
         try:
             self.embed_layer = hparams.embed_layer
         except:
@@ -727,7 +730,7 @@ class NKChartParser(nn.Module):
             # the projection trainable appears to improve parsing accuracy
             self.project_elmo = nn.Linear(d_elmo_annotations, self.d_content, bias=False)
         elif hparams.use_bert or hparams.use_bert_only:
-            self.bert_tokenizer, self.bert = get_bert(hparams.bert_model, hparams.bert_do_lower_case, self.use_syntactic)
+            self.bert_tokenizer, self.bert = get_bert(hparams.bert_model, hparams.bert_do_lower_case, self.use_syntactic, self.freeze_embeddings)
             if hparams.bert_transliterate:
                 from transliterate import TRANSLITERATIONS
                 self.bert_transliterate = TRANSLITERATIONS[hparams.bert_transliterate]

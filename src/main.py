@@ -87,7 +87,8 @@ def make_hparams():
         bert_transliterate="",
         use_syntactic=False,
         embed_layer=-1,
-        word_level="last"
+        word_level="first",
+        freeze_embeddings=True,
         )
 
 def run_train(args, hparams):
