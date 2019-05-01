@@ -1051,20 +1051,21 @@ class NKChartParser(nn.Module):
             if self.encoder is not None:
                 assert self.word_level in ['last', 'first', 'avg']
 
-                layers_packed = []
-                for layer in all_encoder_layers:
-                    layer_packed = layer.masked_select(all_word_end_mask.to(torch.uint8).unsqueeze(-1)).reshape(-1, features.shape[-1])
-                    layers_packed.append(layer_packed)
-                layers_packed = torch.stack(layers_packed)
-                print(layers_packed.shape)
-                features_packed = self.weighted_layer(layers_packed)
-                print(features_packed.shape)
-                assert 1 == 2
-
+                layers_packed = []                
                 if self.word_level == 'last':
-                    features_packed = features.masked_select(all_word_end_mask.to(torch.uint8).unsqueeze(-1)).reshape(-1, features.shape[-1])
+                    # features_packed = features.masked_select(all_word_end_mask.to(torch.uint8).unsqueeze(-1)).reshape(-1, features.shape[-1])
+                    for layer in all_encoder_layers:
+                        layer_packed = layer.masked_select(all_word_end_mask.to(torch.uint8).unsqueeze(-1)).reshape(-1, features.shape[-1])
+                        layers_packed.append(layer_packed)
+                    layers_packed = torch.stack(layers_packed)
+                    features_packed = self.weighted_layer(layers_packed)
                 elif self.word_level == 'first':
-                    features_packed = features.masked_select(all_word_start_mask.to(torch.uint8).unsqueeze(-1)).reshape(-1, features.shape[-1])
+                    # features_packed = features.masked_select(all_word_start_mask.to(torch.uint8).unsqueeze(-1)).reshape(-1, features.shape[-1])
+                    for layer in all_encoder_layers:
+                        layer_packed = layer.masked_select(all_word_start_mask.to(torch.uint8).unsqueeze(-1)).reshape(-1, features.shape[-1])
+                        layers_packed.append(layer_packed)
+                    layers_packed = torch.stack(layers_packed)
+                    features_packed = self.weighted_layer(layers_packed)
                 elif self.word_level == 'avg':
                     all_embeddings = []
                     for sent_embed, sent_att_mask, sent_mask in zip(features, all_input_mask, all_word_start_mask):
