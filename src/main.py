@@ -272,7 +272,6 @@ def run_train(args, hparams):
             "dev-fscore {} "
             "dev-elapsed {} "
             "total-elapsed {}".format(
-                epoch,
                 dev_fscore,
                 format_elapsed(dev_start_time),
                 format_elapsed(start_time),
