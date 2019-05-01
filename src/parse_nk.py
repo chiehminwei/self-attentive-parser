@@ -633,6 +633,7 @@ class WeightedLayer(nn.Module):
     def __init__(self, num_layers):
         super(WeightedLayer, self).__init__()
         self.weight = torch.nn.Parameter(torch.Tensor(num_layers, 1, 1))
+        self.reset_parameters()
 
     def reset_parameters(self):
         nn.init.zeros_(self.weight)
