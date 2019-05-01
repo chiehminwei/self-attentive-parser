@@ -632,8 +632,11 @@ class Encoder(nn.Module):
 class WeightedLayer(nn.Module):
     def __init__(self, num_layers):
         super(WeightedLayer, self).__init__()
-        self.weight = torch.nn.Parameter(torch.Tensor(num_layers, 1, 1))
-        self.reset_parameters()
+        weights = [0.0838, 0.1309, 0.0719, 0.1188, 0.1086, 0.2185, 0.2438, 0.3414, 0.4009, 0.2021, 0.1200, 0.0024]
+        weights = torch.Tensor(weights).reshape(num_layers, 1, 1)
+        self.weight = torch.nn.Parameter(weights, requires_grad=False)
+        # self.weight = torch.nn.Parameter(torch.Tensor(num_layers, 1, 1))
+        # self.reset_parameters()
 
     def reset_parameters(self):
         nn.init.zeros_(self.weight)
