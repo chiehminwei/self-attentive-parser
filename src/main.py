@@ -356,7 +356,7 @@ def run_train(args, hparams):
 
             if current_processed >= check_every:
                 current_processed -= check_every
-                print('Epoch {}, weights {}'.format(epoch, parser.weighted_layer.weight))
+                print('Epoch {}, weights {}'.format(epoch, parser.weighted_layer.weight.data))
                 check_dev()
 
         # adjust learning rate at the end of an epoch
