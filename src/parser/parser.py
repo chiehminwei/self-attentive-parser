@@ -195,6 +195,7 @@ class BiaffineParser(nn.Module):
             network.to(device)
             print('Loaded model from checkpoint (local rank {})'.format(local_rank))
         else:
+            print(fname)
             raise IOError('Local checkpoint does not exists. Failed to load model.')
 
         return network
