@@ -639,7 +639,6 @@ class WeightedLayer(nn.Module):
         nn.init.zeros_(self.weight)
 
     def forward(self, layers):
-        print(self.weight)
         weighted_layers = layers * self.weight
         weighted_sum = torch.sum(weighted_layers, dim=0)
         return weighted_sum
