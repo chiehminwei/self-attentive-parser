@@ -629,7 +629,7 @@ class Encoder(nn.Module):
 
         return res, batch_idxs
 
-class WeightedLayer(nn.module):
+class WeightedLayer(nn.Module):
     def __init__(self, num_layers):
         self.weight = torch.nn.Parameter(torch.Tensor(num_layers, 1, 1))
 
