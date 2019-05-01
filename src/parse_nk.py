@@ -629,6 +629,18 @@ class Encoder(nn.Module):
 
         return res, batch_idxs
 
+class WeightedLayer(nn.module):
+    def __init__(self, num_layers):
+        self.weight = torch.nn.Parameter(torch.Tensor(num_layers, 1, 1))
+
+    def reset_parameters(self):
+        nn.init.zeros_(self.weight)
+
+    def forward(self, layers):
+        weighted_layers = layers * self.weight
+        weighted_sum = torch.sum(weighted_layers, dim=0)
+        return weighted_sum
+
 # %%
 
 class NKChartParser(nn.Module):
@@ -744,6 +756,8 @@ class NKChartParser(nn.Module):
                 self.project_bert = nn.Linear(d_bert_annotations, hparams.d_model, bias=False)
             else:
                 self.project_bert = nn.Linear(d_bert_annotations, self.d_content, bias=False)
+
+            self.weighted_layer = WeightedLayer(12)
 
         if not hparams.use_bert_only:
             self.embedding = MultiLevelEmbedding(
@@ -1036,13 +1050,13 @@ class NKChartParser(nn.Module):
             if self.encoder is not None:
                 assert self.word_level in ['last', 'first', 'avg']
 
-                features_packed = []
+                layers_packed = []
                 for layer in all_encoder_layers:
-                    print(layer.shape)
                     layer_packed = layer.masked_select(all_word_end_mask.to(torch.uint8).unsqueeze(-1)).reshape(-1, features.shape[-1])
-                    print(layer_packed.shape)
-                    features_packed.append(layer_packed)
-                features_packed = torch.stack(features_packed)
+                    layers_packed.append(layer_packed)
+                layers_packed = torch.stack(layers_packed)
+                print(layers_packed.shape)
+                features_packed = self.weighted_layer(layers_packed)
                 print(features_packed.shape)
                 assert 1 == 2
 
