@@ -572,7 +572,7 @@ def get_bert(bert_model, bert_do_lower_case, use_syntactic=False, freeze_embeddi
     if use_syntactic:
         print('Using syntactic BERT...')
         from parser import BiaffineParser
-        CHECKPOINT_DIR = '/content/self-attentive-parser/model.pt' # path to model checkpoint
+        CHECKPOINT_DIR = 'model.pt' # path to model checkpoint
         bert = BiaffineParser.load(CHECKPOINT_DIR).bert
     else:
         print('Using original BERT...')
