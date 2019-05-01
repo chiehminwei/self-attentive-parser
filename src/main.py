@@ -251,7 +251,7 @@ def run_train(args, hparams):
 
     start_time = time.time()
 
-    def check_dev(epoch):
+    def check_dev():
         nonlocal best_dev_fscore
         nonlocal best_dev_model_path
         nonlocal best_dev_processed
@@ -269,7 +269,6 @@ def run_train(args, hparams):
         dev_fscore = evaluate.evalb(args.evalb_dir, dev_treebank, dev_predicted)
 
         print(
-            "epoch {}"
             "dev-fscore {} "
             "dev-elapsed {} "
             "total-elapsed {}".format(
@@ -357,6 +356,7 @@ def run_train(args, hparams):
 
             if current_processed >= check_every:
                 current_processed -= check_every
+                print('Epoch {}, weights {}'.format(epoch, parser.weighted_layer.weight))
                 check_dev(epoch)
 
         # adjust learning rate at the end of an epoch
@@ -364,6 +364,7 @@ def run_train(args, hparams):
             scheduler.step(best_dev_fscore)
             if (total_processed - best_dev_processed) > ((hparams.step_decay_patience + 1) * hparams.max_consecutive_decays * len(train_parse)):
                 print("Terminating due to lack of improvement in dev fscore.")
+                print("The layer weights are: ", parser.weighted_layer.weight)
                 break
 
 def run_test(args):
