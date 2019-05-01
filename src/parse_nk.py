@@ -1030,11 +1030,22 @@ class NKChartParser(nn.Module):
             # else:
             all_encoder_layers, _ = self.bert(all_input_ids, attention_mask=all_input_mask)
             del _
-            features = all_encoder_layers[self.embed_layer]
+            features = all_encoder_layers[self.embed_layer] # [12, #sent, sent_len, embed_dim]
 
             
             if self.encoder is not None:
                 assert self.word_level in ['last', 'first', 'avg']
+
+                features_packed = []
+                for layer in all_encoder_layers:
+                    print(layer.shape)
+                    layer_packed = layer.masked_select(all_word_end_mask.to(torch.uint8).unsqueeze(-1)).reshape(-1, features.shape[-1])
+                    print(layer_packed.shape)
+                    features_packed.append(layer_packed)
+                features_packed = torch.stack(features_packed)
+                print(features_packed.shape)
+                assert 1 == 2
+
                 if self.word_level == 'last':
                     features_packed = features.masked_select(all_word_end_mask.to(torch.uint8).unsqueeze(-1)).reshape(-1, features.shape[-1])
                 elif self.word_level == 'first':
