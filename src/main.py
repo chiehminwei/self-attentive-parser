@@ -357,7 +357,7 @@ def run_train(args, hparams):
             if current_processed >= check_every:
                 current_processed -= check_every
                 print('Epoch {}, weights {}'.format(epoch, parser.weighted_layer.weight))
-                check_dev(epoch)
+                check_dev()
 
         # adjust learning rate at the end of an epoch
         if (total_processed // args.batch_size + 1) > hparams.learning_rate_warmup_steps:
