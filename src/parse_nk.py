@@ -562,7 +562,7 @@ def get_elmo_class():
     return Elmo
 
 # %%
-def get_bert(bert_model, bert_do_lower_case, use_syntactic=False, freeze_embeddings=True):
+def get_bert(bert_model, bert_do_lower_case, use_syntactic=False, freeze_embeddings=True, syntactic_checkpoint='checkpoints/model.pt'):
     # Avoid a hard dependency on BERT by only importing it if it's being used    
     from pytorch_pretrained_bert import BertTokenizer, BertModel
     if bert_model.endswith('.tar.gz'):
@@ -572,8 +572,7 @@ def get_bert(bert_model, bert_do_lower_case, use_syntactic=False, freeze_embeddi
     if use_syntactic:
         print('Using syntactic BERT...')
         from parser import BiaffineParser
-        CHECKPOINT_DIR = 'model.pt' # path to model checkpoint
-        bert = BiaffineParser.load(CHECKPOINT_DIR).bert
+        bert = BiaffineParser.load(syntactic_checkpoint).bert
     else:
         print('Using original BERT...')
         bert = BertModel.from_pretrained(bert_model)
@@ -678,6 +677,7 @@ class NKChartParser(nn.Module):
 
         self.use_syntactic = hparams.use_syntactic
         self.freeze_embeddings = hparams.freeze_embeddings
+        self.syntactic_checkpoint = hparams.syntactic_checkpoint
         
         try:
             self.embed_layer = hparams.embed_layer
@@ -747,7 +747,7 @@ class NKChartParser(nn.Module):
             # the projection trainable appears to improve parsing accuracy
             self.project_elmo = nn.Linear(d_elmo_annotations, self.d_content, bias=False)
         elif hparams.use_bert or hparams.use_bert_only:
-            self.bert_tokenizer, self.bert = get_bert(hparams.bert_model, hparams.bert_do_lower_case, self.use_syntactic, self.freeze_embeddings)
+            self.bert_tokenizer, self.bert = get_bert(hparams.bert_model, hparams.bert_do_lower_case, self.use_syntactic, self.freeze_embeddings, self.syntactic_checkpoint)
             if hparams.bert_transliterate:
                 from transliterate import TRANSLITERATIONS
                 self.bert_transliterate = TRANSLITERATIONS[hparams.bert_transliterate]
@@ -762,7 +762,7 @@ class NKChartParser(nn.Module):
             else:
                 self.project_bert = nn.Linear(d_bert_annotations, self.d_content, bias=False)
 
-            self.weighted_layer = WeightedLayer(12)
+            # self.weighted_layer = WeightedLayer(12)
 
         if not hparams.use_bert_only:
             self.embedding = MultiLevelEmbedding(
@@ -1057,19 +1057,19 @@ class NKChartParser(nn.Module):
 
                 layers_packed = []                
                 if self.word_level == 'last':
-                    # features_packed = features.masked_select(all_word_end_mask.to(torch.uint8).unsqueeze(-1)).reshape(-1, features.shape[-1])
-                    for layer in all_encoder_layers:
-                        layer_packed = layer.masked_select(all_word_end_mask.to(torch.uint8).unsqueeze(-1)).reshape(-1, features.shape[-1])
-                        layers_packed.append(layer_packed)
-                    layers_packed = torch.stack(layers_packed)
-                    features_packed = self.weighted_layer(layers_packed)
+                    features_packed = features.masked_select(all_word_end_mask.to(torch.uint8).unsqueeze(-1)).reshape(-1, features.shape[-1])
+                    # for layer in all_encoder_layers:
+                    #     layer_packed = layer.masked_select(all_word_end_mask.to(torch.uint8).unsqueeze(-1)).reshape(-1, features.shape[-1])
+                    #     layers_packed.append(layer_packed)
+                    # layers_packed = torch.stack(layers_packed)
+                    # features_packed = self.weighted_layer(layers_packed)
                 elif self.word_level == 'first':
-                    # features_packed = features.masked_select(all_word_start_mask.to(torch.uint8).unsqueeze(-1)).reshape(-1, features.shape[-1])
-                    for layer in all_encoder_layers:
-                        layer_packed = layer.masked_select(all_word_start_mask.to(torch.uint8).unsqueeze(-1)).reshape(-1, features.shape[-1])
-                        layers_packed.append(layer_packed)
-                    layers_packed = torch.stack(layers_packed)
-                    features_packed = self.weighted_layer(layers_packed)
+                    features_packed = features.masked_select(all_word_start_mask.to(torch.uint8).unsqueeze(-1)).reshape(-1, features.shape[-1])
+                    # for layer in all_encoder_layers:
+                    #     layer_packed = layer.masked_select(all_word_start_mask.to(torch.uint8).unsqueeze(-1)).reshape(-1, features.shape[-1])
+                    #     layers_packed.append(layer_packed)
+                    # layers_packed = torch.stack(layers_packed)
+                    # features_packed = self.weighted_layer(layers_packed)
                 elif self.word_level == 'avg':
                     all_embeddings = []
                     for sent_embed, sent_att_mask, sent_mask in zip(features, all_input_mask, all_word_start_mask):

@@ -89,6 +89,7 @@ def make_hparams():
         embed_layer=-1,
         word_level="first",
         freeze_embeddings=True,
+        syntactic_checkpoint="checkpoints/model.pt",
         )
 
 def run_train(args, hparams):
