@@ -62,7 +62,7 @@ class BiaffineParser(nn.Module):
                                  n_out=params['n_rels'],
                                  bias_x=True,
                                  bias_y=True)
-        self.pad_index = params['pad_index']
+        # self.pad_index = params['pad_index']
         
     def forward(self, words, mask, debug=False):
         # get the mask and lengths of given batch
